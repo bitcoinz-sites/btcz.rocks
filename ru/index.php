@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html lang="ru" class="no-js">
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108218482-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-108218482-1');
+</script>
+<meta charset="utf-8">
+<title>BitcoinZ - ваша финансовая свобода</title>
+<meta name="description" content="BitcoinZ это новая система расчетов в криптографическом мире." />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta property="og:image" content="path/to/image.jpg">
+<!--Favicon-->
+<link rel="icon" href="https://bitcoinz.global/favicon.ico">
+<!--Libs css-->
+<link rel="stylesheet" href="/css/stylelibs.css">
+<!--Main css-->
+<link rel="stylesheet" data-style="styles" href="/css/stylemain.css">
+
+</head>
+<body class="dark-load">
+<header id="top-nav" class="top-nav page-header">
+<div class="container"><a href="/ru" class="logo smooth-scroll"><img src="/img/logo.png" alt="logo" class="logo-white"><img src="/img/logo.png" alt="logo" class="logo-dark"></a>
+<nav class="top-menu">
+<ul class="sf-menu">
+<!--Menu default-->
+<li><a href="/media/Community_Paper_Final.pdf">Белая Бумага</a>
+<li><a href="#benefist" class="smooth-scroll">Преимущества</a></li>
+<li><a href="#exchange" class="smooth-scroll">Обмены</a></li>
+<li><a href="#wallets" class="smooth-scroll">Кошельки</a></li>
+<li><a href="#" class="smooth-scroll">Пулы</a>
+<ul>
+<?php
+include_once '../pools.php';
+?>
+<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank">And more on the forum bitcointalk</a></li>
+</ul></li>
+<li><a href="#" class="smooth-scroll">Обозреватель</a>
+<ul>
+<?php
+include_once '../explorer.php';
+?>
+</ul></li>
+<li><a href="#" class="smooth-scroll">Поддержка</a>
+<ul>
+<?php
+include_once '../social.php';
+?>
+</ul> 
+<!--<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" class="smooth-scroll" target="_blank">Форум</a></li>-->
+<li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Lang</a>
+<ul class="sub-menu">
+<?php
+include_once '../lang.php';
+?>
+</ul></li>
+</nav>
+<!-- Start mobile menu-->
+<!-- Start toggle menu--><a href="#" class="toggle-mnu"><span></span></a>
+<div id="mobile-menu">
+<div class="inner-wrap">
+<nav>
+<ul class="nav_menu"><br>
+<li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Language</a>
+<ul class="sub-menu"><br>
+<?php
+include_once '../langmobile.php';
+?>
+</ul></li>
+<li><a href="/media/Community_Paper_Final.pdf">Белая бумага</a></li>
+<li><a href="#benefist" class="smooth-scroll">Преимущества</a></li>
+<li><a href="#exchange" class="smooth-scroll">Обмены</a></li>
+<li><a href="#wallets" class="smooth-scroll">Кошельки</a></li>
+<li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Пулы</a>
+<ul class="sub-menu"><br>
+<?php
+include_once '../poolsmobile.php';
+?>
+<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank">And more...</a></li>
+</ul></li>
+<li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Обозреватель</a>
+<ul class="sub-menu">
+<?php
+include_once '../explorermobile.php';
+?>
+</ul></li>
+<li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Мы в соц сетях</a>
+<ul class="sub-menu">
+<?php
+include_once '../socialmobile.php';
+?>>
+</ul></li>
+<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" class="smooth-scroll" target="_blank">Форум bitcointalk</a>
+
+</ul>
+</nav>
+</div>
+</div>
+<!-- End mobile menu-->
+</div>
+</header>
+
+<!-- Start slider section-->
+<div id="top" class="slider">
+<div id="preloader">
+<div id="status"></div>
+</div>
+<div class="full-slider intro">
+<!-- Start slide-->
+<div data-image="/img/bgn22.jpg" class="slide bg-mask background-image full-vh">
+<div class="container-slide vertical-align center head-desc">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="heading-title-big"><br>Это твоя монета <br><span>BitcoinZ - Bitcoin 2.0</span></div>
+<div class="description-slide">Добро пожаловать в децентрализованную монету BitcoinZ.</div>
+<div class="buttons-section">&nbsp;&nbsp;<a href="/media/Community_Paper_Final.pdf" class="btn dark-btn large-btn">Белая бумага</a><a href="https://connect.bitcoinz.global/" class="btn dark-btn large-btn" target="_blank">Обсуждение</a><a href="https://bitcoinz.global/donations/" class="btn dark-btn large-btn" target="_blank">Donate</a><br><br><center><script type="text/javascript" src="/api.js"></script><div class="coinmarketcap-currency-widget" data-currency="bitcoinz" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="particles-js" class="canvas-background"></div>
+</div>
+</div>
+<!--Contol slider-->
+<div id="dots-control-full-slider" class="dots-control-carousel"></div>
+<!-- Strat Control carousel-->
+<div id="control-full-slider" class="prev-next-block-rotate opacity-control">
+<div class="wrap-prev">
+<div class="prev"><i aria-hidden="true" class="fa fa-angle-left"></i></div>
+</div>
+<div class="wrap-next">
+<div class="next"><i aria-hidden="true" class="fa fa-angle-right"></i></div>
+</div>
+</div><a href="#about" class="smooth-scroll btn-down"><i aria-hidden="true" class="fa fa-angle-down"></i></a>
+</div>
+<!-- End slider section-->
+<!-- Section about-->
+<section id="about" class="about-us">
+<div class="container">
+<div class="row">
+<div class="col-md-8 col-md-push-2">
+<div class="heading-title center">
+<h2>Немного о <span>монете</span></h2>
+<!--<div class="small-desd">We create <span>awesome stuff</span></div>
+<p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum</p>-->
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-4">
+<div class="item-about">
+<div class="icon"><i class="pe-7s-target"></i>
+<div class="bg-icon"><i class="pe-7s-target"></i></div>
+</div>
+<div class="content">
+<h3>Важно <span>помнить</span></h3>
+<p>- Всегда храните резервную копию кошелька в надежном месте<br>- Не храните большое количество монет на биржах, а храните их в холодных кошельках с анонимными адресами<br>- Не отдавайте никому свои приватные ключи. Помните, что любой, кто имеет ваш приватный ключ, владеет вашими монетами, и вы можете потерять абсолютно все!</p>
+
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="item-about">
+<div class="icon"><i class="pe-7s-help2"></i>
+<div class="bg-icon"><i class="pe-7s-help2"></i></div>
+</div>
+<div class="content">
+<h3>BitcoinZ это <span>Bitcoin 2.0:</span></h3>
+<p>- Технология Биткоинов<br>- Анонимные транзакции.Анонимность предоставляет криптографический метод zk-SNARKs<br>- У Биткоина все публично - нет анонимности. Все транзакции видны!<br>- децентрализованный майнинг только на графических видеокартах и процессорах. Асики запрещены<br>- децентрализованное развитие сообщества / все участники добровольцы<br>- Большие блоки и очень быстрые транзакции</p>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="item-about">
+<div class="icon"><i class="pe-7s-light"></i>
+<div class="bg-icon"><i class="pe-7s-light"></i></div>
+</div>
+<div class="content">
+<h3>Наше <span>Сообщество</span></h3>
+<p>Наше сообщество очень быстро растет и продвигается. <br>Ты всегда с нами можешь общаться в телеграме или slack. Наше сообщество тепло приветствует новых участников.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!--Section services-->
+<section id="benefist" class="services-section background-image bg-dark-section">
+<div class="container">
+<div class="row">
+<div class="col-md-8 col-md-push-2">
+<div class="heading-title small-heading center">
+<h2>Преимущества <span>BitcoinZ</span></h2>
+<!--<p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum</p>-->
+</div>
+</div>
+</div>
+<div class="row">
+<div class="tabs services-tabs">
+<ul class="services-carousel">
+<li class="animated-service anim-shadow"><a href="#tabs-1"><i class="pe-7s-graph"></i>
+<h4>Всего монет</h4>
+<p>21 000 000 000 btcz.</p></a></li>
+<li class="animated-service anim-shadow"><a href="#tabs-2"><i class="pe-7s-drop"></i>
+<h4>Алгоритм</h4>
+<p>Equihash.</p></a></li>
+<li class="animated-service anim-shadow"><a href="#tabs-3"><i class="pe-7s-timer"></i>
+<h4>Быстрые транзакции</h4>
+<p>BTCZ = 2MB каждые 2.5 минуты ~</p></a></li>
+<li class="animated-service anim-shadow"><a href="#tabs-4"><i class="pe-7s-map"></i>
+<h4>Текущая поставка</h4>
+<p>12500 монет каждые 2.5 минуты.</p></a></li>
+</ul>
+<div id="dots-control-tabs" class="dots-control-carousel"></div>
+<!--Start tabs-->
+<div id="tabs-1">
+<div class="col-md-6">
+<div class="head-service small-head text-left">
+<h2>Наша цель - перенести все лучшее бесплатное программное обеспечение на рынок, <span>чтобы иметь возможность использовать его в BitcoinZ.</span></h2>
+<p>То что неизменно в этой монете:</p>
+</div>
+<p>- Поставка монет (12500 - 1 блок) </p>
+<p>- инфляция </p>
+<p>- только POW алгоритм - мы можем изменить Equihash алгоритм на другой POW, чтобы предотвратить майнинг ASICами </p>
+<p>- Мы никогда не изменим историю </p>
+</div>
+<div class="col-md-5 col-md-push-1">
+<ul class="list">
+<li>Алгоритм: Equihash (рассчитан на децентрализованный майнинг на графических процессорах) </li>
+<li>Максимальная поставка 21МЛД монет </li>
+<li>Текущая поставка: 12500 монет каждые 2.5 минуты</li>
+<li>Текущий размер блока, аналогичен BCC/BCH (BTCZ = 2MB каждые 2.5 мин ~ BCC/BCH = 8MB каждые 10 мин)</li>
+</ul>
+</div>
+</div>
+<div id="tabs-2">
+<div class="col-md-6">
+<div class="head-service small-head text-left">
+<h2>Наиболее безопасное программное обеспечение включено в клиентский интерфейс <span>bitcoinz-pod / bitcoinz linux.</span></h2>
+<p>Такие вещи как ваши деньги, или монеты должны храниться в безопасном месте! Такие кошельки должны предоставлять бесплатный открытый исходный код и sha256 для их выпусков, чтобы иметь возможность просматривать свои кошельки другими командами. Поэтому мы не рекомендуем использовать какой - либо другой кошелек, который не был предоставлен официально! </p>
+</div>
+<p> Программное обеспечение без каких-либо подтверждений, должно рассматриваться как красный флаг, и не использоваться.</p>
+</div>
+<!--<div class="col-md-5 col-md-push-1">
+<ul class="list">
+<li>Decentralized mining</li>
+<li>Easy to mine</li>
+<li>Decentalized Exchanges</li>
+<li>Pure community coin</li>
+<li>Always immutable - no way to change history!</li>
+<li>Hardforks to improve tech & scalability are allowed but changing history is banned</li>
+<li>BitcoinZ is focused on organic growth</li>
+<li>and more...	</li>
+</ul>
+</div> -->
+</div>
+<!--<div id="tabs-3">
+<div class="col-md-6">
+<div class="head-service small-head text-left">
+<h2>Never fall in love with an idea. They’re whores. If the the <span>job, there’s always another.</span></h2>
+<p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum</p>
+</div>
+<p>Tab 1 Proin elit arcu, rutrum commodo, vehicula tempus, commodo a, risus. Curabitur nec arcu. Donec sollicitudin mi sit amet mauris. Nam elementum quam ullamcorper ante. Etiam aliquet massa et . Mauris </p>
+</div>
+<div class="col-md-5 col-md-push-1">
+<ul class="list">
+<li>Rich media banners</li>
+<li>Audio production</li>
+<li>Photography</li>
+<li>Design</li>
+<li>Content creation</li>
+<li>Content audit</li>
+<li>Project management</li>
+<li>Technical requirements</li>
+<li>Testing</li>
+<li>and more...	</li>
+</ul>
+</div>
+</div>
+<div id="tabs-4">
+<div class="col-md-6">
+<div class="head-service small-head text-left">
+<h2>Never fall in love with an idea. If the the <span>job, there’s always another.</span></h2>
+</div>
+<p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum</p>
+<p>Tab 1 Proin elit arcu, rutrum commodo, vehicula tempus, commodo a, risus. Curabitur nec arcu. Donec sollicitudin mi sit amet mauris. Nam elementum quam ullamcorper ante. Etiam aliquet massa et . Mauris </p>
+</div>
+<div class="col-md-5 col-md-push-1">
+<ul class="list">
+<li>Design</li>
+<li>Content creation</li>
+<li>Content audit</li>
+<li>Project management</li>
+<li>Technical requirements</li>
+<li>Rich media banners</li>
+<li>Audio production</li>
+<li>Photography</li>
+<li>Testing</li>
+<li>and more...</li>
+</ul>
+</div>
+</div>
+</div>!-->
+<div class="col-md-12">
+<div class="link-full"><a href="https://bitcointalk.org/index.php?topic=2166510.0">Посетить форум<i aria-hidden="true" class="fa fa-angle-right"></i></a></div>
+</div>
+</div>
+</div>
+</section>
+<!--Section how we work-->
+<section class="section-how-we-work bg-white-section background-image">
+<div class="container">
+<div class="row">
+<div class="col-md-8 col-md-push-2">
+<div class="heading-title center">
+<h2>Почему стоит выбрать BitcoinZ</h2>
+<div class="small-desd">Мы полностью децентрализованная сеть</div>
+<p>Напомним о преимуществах</p>
+</div>
+</div>
+</div>
+<div class="row">
+<!-- Item-->
+<div class="col-md-3 col-sm-6 col-xs-12 item-icon">
+<div class="icon-container">
+<div class="icon icon-circle"><i class="pe-7s-look"></i></div>
+</div>
+<h3>Анонимность</h3>
+<p>Все транзакции могут оставаться полностью анонимными.</p>
+</div>
+<!-- Item-->
+<div class="col-md-3 col-sm-6 col-xs-12 item-icon">
+<div class="icon-container">
+<div class="icon icon-circle"><i class="pe-7s-light"></i></div>
+</div>
+<h3>В ногу со временем</h3>
+<p>Наши кошельки поддерживаются linux и windows платформами, а также Android и iOS</p>
+</div>
+<!-- Item-->
+<div class="col-md-3 col-sm-6 col-xs-12 item-icon">
+<div class="icon-container">
+<div class="icon icon-circle"><i class="pe-7s-like2"></i></div>
+</div>
+<h3>Сообщество</h3>
+<p>Мы всегда прислушиваемся к мнению сообщества, поэтому можем рассчитывать на успех!</p>
+</div>
+<!-- Item-->
+<div class="col-md-3 col-sm-6 col-xs-12 item-icon">
+<div class="icon-container">
+<div class="icon icon-circle"><i class="pe-7s-graph1"></i></div>
+</div>
+<h3>Активный рост цены</h3>
+<p>BitcoinZ ориентирован на стабильный рост цены.</p>
+</div>
+<!-- Edn items-->
+</div>
+</div>
+</section>
+<!--Section work progress-->
+<section id="exchange" class="section-work-progress background-image bg-dark-section">
+<div class="container">
+<div class="row">
+<div class="col-md-3">
+<div class="heading-title small-heading text-left">
+<h2>Обмены</h2>
+<p>Купить или продать твою монету BitcoinZ</p>
+</div>
+</div>
+<?php
+include_once '../exchange.php';
+?>
+</section>
+<!--Section our some work-->
+<section id="wallets" class="section-portfolio bg-white-section background-image">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="heading-title center">
+<h2>Загрузка <span>кошельков</span></h2>
+<p>Linux, Windows, Android и iOS кошельки</p>
+</div>
+<div class="controls-portfolio center">
+<?php
+include_once '../wallets.php';
+?>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid">
+<div class="row">
+</div>
+</div>
+</section>
+</br>
+</br>
+</br>
+</br>
+<!--Section why chose us-->
+<?php
+include_once '../roadmap.php';
+?>
+<section class="section-choose-us">
+<div class="container">
+<div class="row">
+<div class="col-md-8 col-md-push-2">
+<div class="heading-title center">
+<h2>Еще сомневаешься в <span>BitcoinZ</span></h2>
+<!--<div class="small-desd">Here are a few <span> reasons</span></div>-->
+<p>Предупреждение. Подумайте также о антивирусной защите и храните ваши резервные копии в надежных местах</p>
+</div>
+</div>
+</div>
+<div class="row">
+<!--Start item-->
+<div class="col-md-4">
+<div class="item-about item-choose">
+<div class="content">
+<h3>Децентрализованный майнинг</h3>
+<p>Как майнеру, вам необязательно использовать большие пулы, для получение прибыли<br>
+Алгоритм Equihash позволяет добывать монету, даже на домашнем компьютере.</p>
+</div>
+</div>
+</div>
+<!--Start item-->
+<div class="col-md-4">
+<div class="item-about item-choose">
+<div class="icon"><i class="pe-7s-light"></i>
+<div class="bg-icon"><i class="pe-7s-light"></i></div>
+</div>
+<div class="content">
+<h3>Нет <span>предварительной добычи</span></h3>
+<p>Монета абсолютно чистая</p>
+</div>
+</div>
+</div>
+<!--Start item-->
+<div class="col-md-4">
+<div class="item-about item-choose">
+<div class="icon"><i class="pe-7s-graph1"></i>
+<div class="bg-icon"><i class="pe-7s-graph1"></i></div>
+</div>
+<div class="content">
+<h3>BitcoinZ версия  <span>Bitcoin 2.0:</span></h3>
+<p>- 21 миллиард монет - Все люди на земле, могут иметь, хотябы одну монету BTCZ</p>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<!--Start item-->
+<div class="col-md-4">
+<div class="item-about item-choose">
+<div class="icon"><i class="pe-7s-like"></i>
+<div class="bg-icon"><i class="pe-7s-like"></i></div>
+</div>
+<div class="content">
+<h3>Активное <span>сообщество</span></h3>
+<p>Сообщество улучшается и растет с каждым днем.</p>
+</div>
+</div>
+</div>
+<!--Start item-->
+<div class="col-md-4">
+<div class="item-about item-choose">
+<div class="icon"><i class="pe-7s-help2"></i>
+<div class="bg-icon"><i class="pe-7s-help2"></i></div>
+</div>
+<div class="content">
+<h3>Анонимные  <span>транзакции</span></h3>
+<p>Все транзакции могут быть анонимными. используйте анонимные адреса.	</p>
+</div>
+</div>
+</div>
+<!--Start item-->
+<div class="col-md-4">
+<div class="item-about item-choose">
+<div class="icon"><i class="pe-7s-phone"></i>
+<div class="bg-icon"><i class="pe-7s-phone"></i></div>
+</div>
+<div class="content">
+<h3>Android и iOS <span>кошельки</span></h3>
+<p>Вы можете пользоваться вашими BitcoinZ в ваших смартфонах. Просто попробуйте наш кошелек.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<!--Start item-->
+<div class="col-md-4">
+<div class="item-about item-choose">
+<div class="icon"><i class="pe-7s-display1"></i>
+<div class="bg-icon"><i class="pe-7s-display1"></i></div>
+</div>
+<div class="content">
+<h3>Постоянный <span>рост</span></h3>
+<p>Наша монета рассчитывает на постоянный рост в цене.</p>
+</div>
+</div>
+</div>
+<!--Start item-->
+<div class="col-md-4">
+<div class="item-about item-choose">
+<div class="icon"><i class="pe-7s-link"></i>
+<div class="bg-icon"><i class="pe-7s-link"></i></div>
+</div>
+<div class="content">
+<h3>Децентрализованное  <span>развитие</span></h3>
+<p>Наше сообщество полностью децентрализованно. </p>
+</div>
+</div>
+</div>
+<!--Start item-->
+<div class="col-md-4">
+<div class="item-about item-choose">
+<div class="icon"><i class="pe-7s-paint"></i>
+<div class="bg-icon"><i class="pe-7s-paint"></i></div>
+</div>
+<div class="content">
+<h3>Только POW майнинг и <span>никакого POS</span></h3>
+<p>Монета доступна, только для добычи в режиме POW майнинга и никогда не будет изменена на PoS</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!--Section our clients-->
+<div class="our-clients">
+<div class="container">
+<div class="row">
+<div id="clients-carousel" class="clients-carousel">
+<div class="col-md-2">
+<div class="item-carousel"><a href="https://github.com/bitcoinz-pod/bitcoinz" target="_blank"><img src="/img/partners-1.png" alt="logo"></a></div>
+</div>
+<div class="col-md-2">
+<div class="item-carousel"><a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank"><img src="/img/partner2.png" alt="logo"></a></div>
+</div>
+<div class="col-md-2">
+<div class="item-carousel"><a href="http://slack.bitcoinz.site/" target="_blank"><img src="/img/partner3.png" alt="logo"></a></div>
+</div>
+<div class="col-md-2">
+<div class="item-carousel"><a href="https://www.reddit.com/r/BTCZCommunity/" target="_blank"><img src="/img/partner4.png" alt="logo"></a></div>
+</div>
+<div class="col-md-2">
+<div class="item-carousel"><a href="https://discordapp.com/invite/u3dkbFs" target="_blank"><img src="/img/disc.png" alt="logo"></a></div>
+</div>
+<div class="col-md-2">
+<div class="item-carousel"><a href="https://www.facebook.com/BitcoinZCommunity/" target="_blank"><img src="/img/face.png" alt="logo"></a></div>
+</div>
+<div class="col-md-2">
+<div class="item-carousel"><a href="https://t.me/joinchat/CDzlaRGMvBm4P2Z76sNclQ" target="_blank"><img src="/img/tel.png" alt="logo"></a></div>
+</div>
+<div class="col-md-2">
+<div class="item-carousel"><a href="https://twitter.com/BTCZCommunity" target="_blank"><img src="/img/twit.png" alt="logo"></a></div>
+</div>
+</div>
+</div>
+</div>
+<!-- Strat Control carousel-->
+<div id="control-clients" class="prev-next-block-rotate">
+<div class="wrap-prev">
+<div class="prev"><i aria-hidden="true" class="fa fa-angle-left"></i></div>
+</div>
+<div class="wrap-next">
+<div class="next"><i aria-hidden="true" class="fa fa-angle-right"></i></div>
+</div>
+</div>
+</div>
+
+<!-- Old browsers support--><!--[if lt IE 9]>
+    <script src="libs/html5shiv/es5-shim.min.js"></script>
+    <script src="libs/html5shiv/html5shiv.min.js"></script>
+    <script src="libs/html5shiv/html5shiv-printshiv.min.js"></script>
+    <script src="libs/respond/respond.min.js"></script>
+    <![endif]-->
+
+<footer>
+<div class="down-footer">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<p>© 2017 BitcoinZ Community. Все права защищены.</p>
+<ul class="footer-menu">
+<li><a href="#benefist" class="smooth-scroll">Преимущества</a></li>
+<li><a href="#exchange" class="smooth-scroll">Обмены</a></li>
+<li><a href="#wallets" class="smooth-scroll">Кошельки</a></li>
+<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" class="smooth-scroll" target="_blank">Форум bitcointalk</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<!--button to top-->
+<div class="top icon-down toTopFromBottom"><a href="#" class="smooth-scroll"><i class="pe-7s-angle-up"></i></a></div>
+<!--end button to top-->
+<!--Libs-->
+<script src="/js/libs.js.pagespeed.ce.Av_NAtkm4V.js"></script>
+<script src="/libs/style-customizer/style-customizer.js.pagespeed.ce.IgWtkWf8IC.js"></script>
+<!--Use scripts-->
+<script src="/js/common.js.pagespeed.ce.hW1NRi6zyn.js"></script>
+</body>
+</html>

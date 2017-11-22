@@ -1,0 +1,19 @@
+ioc0:
+  ProductID = 0x0001 (LSI53C1030 B0)
+  FWVersion = 0x01032920
+  MsgVersion = 0x0102
+  FirstWhoInit = 0x00
+  EventState = 0x00
+  CurrentHostMfaHighAddr = 0x00000004
+  CurrentSenseBufferHighAddr = 0x00000004
+  MaxChainDepth = 0x30 frames
+  MinBlockSize = 0x20 bytes
+  RequestFrames @ 0xffff880422fc2800 (Dma @ 0x0000000422fc2800)
+    {CurReqSz=96} x {CurReqDepth=128} = 12288 bytes ^= 0x4000
+    {MaxReqSz=96}   {MaxReqDepth=128}
+  Frames   @ 0xffff880422fc0000 (Dma @ 0x0000000422fc0000)
+    {CurRepSz=80} x {CurRepDepth=128} = 10240 bytes ^= 0x2880
+    {MaxRepSz=40}   {MaxRepDepth=128}
+  MaxDevices = 16
+  MaxBuses = 1
+  PortNumber = 1 (of 1)
