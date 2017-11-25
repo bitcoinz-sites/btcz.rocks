@@ -52,7 +52,7 @@ include_once '../explorer.php';
 <?php
 include_once '../social.php';
 ?>
-</ul> 
+</ul>
 <!--<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" class="smooth-scroll" target="_blank">ANN</a></li>-->
 <li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Lang</a>
 <ul class="sub-menu">
@@ -237,21 +237,24 @@ And also help make these ideas a reality.
 <div class="col-md-11">
 <div class="tabs tabs-default">
 <ul>
-<li><a href="#tabs-d1">MARKETING / EXCHANGE LISTING</a></li>
+<li><a href="#tabs-d1">Donate to the BitcoinZ Community Chest</a></li>
+<?php /*
 <li><a href="#tabs-d2"><font color="#A74DD0"><b>HARDWARE / EXPLORER / WALLET INFRASTRUCTURE</font></b></a></li>
 <li><a href="#tabs-d3"><font color="#556B2F"><b>TO THE DEVELOPER OF THIS WEB SITE</a></b></font></li>
+*/ ?>
 <!--<li><a href="#tabs-d4">eCommerce</a></li>
 <li><a href="#tabs-d5">Opencart</a></li>-->
 </ul>
 <div id="tabs-d1">
-  
+
 <p><h3><br><br>
 <img src="/img/btcz.png"> BitcoinZ: t1fHHnAXxoPWGY77sG5Zw2sFfGUTpW6BcSZ<br><br>
 <img src="/img/eth.png"> Ethereum: 0x4E3154bc8691BC480D0F317E866C064cC2c9455D<br><br>
 <img src="/img/btc.png"> Bitcoin: 1BzBfikDBGyWXGnPPk58nVVBppzfcGGXMx <br><br>
-<img src="/img/zec.png"> Zcash: t1ef9cxzpToGJcaSMXbTGRUDyrp76GfDLJG<br><br></h3> 
+<img src="/img/zec.png"> Zcash: t1ef9cxzpToGJcaSMXbTGRUDyrp76GfDLJG<br><br></h3>
 </p>
 </div>
+<?php /*
 <div id="tabs-d2"><br>
 <p>Before explaining all the circumstances, donations to the listing now go to another purse. Responsible @clikan
 </p>
@@ -272,6 +275,7 @@ And also help make these ideas a reality.
 <img src="/img/zec.png"> Zcash: t1abdxRBr1H7PZHwQB9gGf23DM6YSMJGPtY<br><br></h3>
 </p>
 </div>
+ */ ?>
 <!--<div id="tabs-d4">
 <p>There are many variations of passages m um ilable, but the majority have suffered alteration in some form, amr sonr bangla variations of passages oorpsum available, but the majority.</p>
 <p>There are many variations of passages m um ilable, but the majority have suffered alteration in some form, amr sonr bangla variations of passages oorpsum available, but the majority.</p>
@@ -334,7 +338,7 @@ And also help make these ideas a reality.
    </tr>
    <tr><td>2017.10.25</td><td>Payment transfer listing c-cex.com</td><td>4 BTC</td><td><a href="https://blockchain.info/tx/dade33f04eed0a1c6f746cae7abd41a73fcc0944686af16515773a15214ee60f" target="_blank">dade33f04eed0a1c6f746cae7abd41a73fcc0944686af16515773a15214ee60f</a></td></tr>
    <tr><td></td><td></td><td></td><td></td></tr>
- 
+
   </table></center>
 
 </section>

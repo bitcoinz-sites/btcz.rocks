@@ -1,14 +1,15 @@
+<?php $t = require __DIR__ . '/../translations/cz.php'; ?>
 <!DOCTYPE html>
 <html lang="cz" class="no-js">
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108218482-1"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-28037043-7"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-108218482-1');
+  gtag('config', 'UA-28037043-7');
 </script>
 <meta charset="utf-8">
 <title>BitcoinZ je vaše finanční svoboda</title>
@@ -29,7 +30,7 @@
 <nav class="top-menu">
 <ul class="sf-menu">
 <!--Menu default-->
-<li><a href="/media/Community_Paper_Final.pdf">DOKUMENTACE</a>
+<li><a href="https://docs.google.com/document/d/1hFi_sQirkF7hC6dFc4ov7WCgiyePSHHER1FsbNUFZ5E" target="_blank"><?php echo $t['Community Paper']; ?></a>
 <li><a href="#benefist" class="smooth-scroll">VÝHODY</a></li>
 <li><a href="#exchange" class="smooth-scroll">SMĚNÁRNY</a></li>
 <li><a href="p#wallets" class="smooth-scroll">PENĚŽENKY </a></li>
@@ -51,7 +52,7 @@ include_once '../explorer.php';
 <?php
 include_once '../social.php';
 ?>
-</ul> 
+</ul>
 <li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Lang</a>
 <ul class="sub-menu">
 <?php
@@ -71,7 +72,7 @@ include_once '../lang.php';
 include_once '../langmobile.php';
 ?>
 </ul></li>
-<li><a href="/media/Community_Paper_Final.pdf">DOKUMENTACE</a></li>
+<li><a href="https://docs.google.com/document/d/1hFi_sQirkF7hC6dFc4ov7WCgiyePSHHER1FsbNUFZ5E"><?php echo $t['Community Paper']; ?></a></li>
 <li><a href="p#benefist" class="smooth-scroll">VÝHODY</a></li>
 <li><a href="#exchange" class="smooth-scroll">SMĚNÁRNY</a></li>
 <li><a href="#wallets" class="smooth-scroll">PENĚŽENKY </a></li>

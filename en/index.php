@@ -1,14 +1,15 @@
+<?php $t = require __DIR__ . '/../translations/en.php'; ?>
 <!DOCTYPE html>
 <html lang="en" class="no-js">
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108218482-1"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-28037043-7"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-108218482-1');
+  gtag('config', 'UA-28037043-7');
 </script>
 <meta charset="utf-8">
 <title>Your Financial Freedom - BitcoinZ</title>
@@ -31,7 +32,7 @@
 <ul class="sf-menu">
 <!--Menu default-->
 <li><a href="/en/">Home</a></li>
-<li><a href="/media/Community_Paper_Final.pdf">Community Paper</a>
+<li><a href="https://docs.google.com/document/d/1hFi_sQirkF7hC6dFc4ov7WCgiyePSHHER1FsbNUFZ5E" target="_blank"><?php echo $t['Community Paper']; ?></a>
 <li><a href="#benefist" class="smooth-scroll">Benefits</a></li>
 <li><a href="#exchange" class="smooth-scroll">Exchange</a></li>
 <li><a href="#wallets" class="smooth-scroll">Wallets</a></li>
@@ -53,7 +54,7 @@ include_once '../explorer.php';
 <?php
 include_once '../social.php';
 ?>
-</ul> 
+</ul>
 <!--<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" class="smooth-scroll" target="_blank">ANN</a></li>-->
 <li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Lang</a>
 <ul class="sub-menu">
@@ -74,7 +75,7 @@ include_once '../lang.php';
 include_once '../langmobile.php';
 ?>
 </ul></li>
-<li><a href="/media/Community_Paper_Final.pdf">Community Paper</a></li>
+<li><a href="https://docs.google.com/document/d/1hFi_sQirkF7hC6dFc4ov7WCgiyePSHHER1FsbNUFZ5E"><?php echo $t['Community Paper']; ?></a></li>
 <li><a href="#benefist" class="smooth-scroll">Benefits</a></li>
 <li><a href="#exchange" class="smooth-scroll">Exchange</a></li>
 <li><a href="#wallets" class="smooth-scroll">Wallets</a></li>
@@ -120,7 +121,7 @@ include_once '../socialmobile.php';
 <div class="col-md-12">
 <div class="heading-title-big"><br>It's your coin <br><span>BitcoinZ: The True Bitcoin 2.0</span></div>
 <div class="description-slide">Welcome to the decentralization</div>
-<div class="buttons-section"><a href="/media/Community_Paper_Final.pdf" class="btn dark-btn large-btn">COMMUNITY PAPER</a><a href="https://connect.bitcoinz.global/" class="btn dark-btn large-btn" target="_blank">READ MORE</a><a href="https://bitcoinz.global/donations/" class="btn dark-btn large-btn" target="_blank">Donate</a><br><br><center><script type="text/javascript" src="/api.js"></script><div class="coinmarketcap-currency-widget" data-currency="bitcoinz" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center>
+<div class="buttons-section"><a href="https://docs.google.com/document/d/1hFi_sQirkF7hC6dFc4ov7WCgiyePSHHER1FsbNUFZ5E" target="_blank" class="btn dark-btn large-btn">COMMUNITY PAPER</a><a href="https://connect.bitcoinz.global/" class="btn dark-btn large-btn" target="_blank">READ MORE</a><a href="https://bitcoinz.global/donations/" class="btn dark-btn large-btn" target="_blank">Donate</a><br><br><center><script type="text/javascript" src="/api.js"></script><div class="coinmarketcap-currency-widget" data-currency="bitcoinz" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center>
 </div>
 </div>
 </div>
@@ -547,7 +548,7 @@ Equihash algorithm.<br>
 <div class="item-carousel"><a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank"><img src="/img/partner2.png" alt="logo"></a></div>
 </div>
 <div class="col-md-2">
-<div class="item-carousel"><a href="http://slack.bitcoinz.site/" target="_blank"><img src="/img/partner3.png" alt="logo"></a></div>
+<div class="item-carousel"><a href="https://slack.bitcoinz.global/" target="_blank"><img src="/img/partner3.png" alt="logo"></a></div>
 </div>
 <div class="col-md-2">
 <div class="item-carousel"><a href="https://www.reddit.com/r/BTCZCommunity/" target="_blank"><img src="/img/partner4.png" alt="logo"></a></div>
@@ -556,13 +557,13 @@ Equihash algorithm.<br>
 <div class="item-carousel"><a href="https://discordapp.com/invite/u3dkbFs" target="_blank"><img src="/img/disc.png" alt="logo"></a></div>
 </div>
 <div class="col-md-2">
-<div class="item-carousel"><a href="https://www.facebook.com/BitcoinZCommunity/" target="_blank"><img src="/img/face.png" alt="logo"></a></div>
+<div class="item-carousel"><a href="https://www.facebook.com/BTCZCommunity/" target="_blank"><img src="/img/face.png" alt="logo"></a></div>
 </div>
 <div class="col-md-2">
 <div class="item-carousel"><a href="https://t.me/joinchat/CDzlaRGMvBm4P2Z76sNclQ" target="_blank"><img src="/img/tel.png" alt="logo"></a></div>
 </div>
 <div class="col-md-2">
-<div class="item-carousel"><a href="https://twitter.com/BTCZCommunity" target="_blank"><img src="/img/twit.png" alt="logo"></a></div>
+<div class="item-carousel"><a href="https://twitter.com/BitcoinZTeam" target="_blank"><img src="/img/twit.png" alt="logo"></a></div>
 </div>
 </div>
 </div>

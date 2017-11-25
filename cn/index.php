@@ -1,14 +1,15 @@
+<?php $t = require __DIR__ . '/../translations/cn.php'; ?>
 <!DOCTYPE html>
 <html lang="zh" class="no-js">
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108218482-1"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-28037043-7"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-108218482-1');
+  gtag('config', 'UA-28037043-7');
 </script>
 <meta charset="utf-8">
 <title>你的财务自由 - BitcoinZ</title>
@@ -30,7 +31,7 @@
 <nav class="top-menu">
 <ul class="sf-menu">
 <!--Menu default-->
-<li><a href="/media/Community_Paper_Final.pdf">白皮书</a>
+<li><a href="https://docs.google.com/document/d/1hFi_sQirkF7hC6dFc4ov7WCgiyePSHHER1FsbNUFZ5E" target="_blank"><?php echo $t['Community Paper']; ?></a>
 <li><a href="#benefist" class="smooth-scroll">优势</a></li>
 <li><a href="#exchange" class="smooth-scroll">交易所</a></li>
 <li><a href="#wallets" class="smooth-scroll">钱包</a></li>
@@ -52,7 +53,7 @@ include_once '../explorer.php';
 <?php
 include_once '../social.php';
 ?>
-</ul> 
+</ul>
 <!--<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" class="smooth-scroll" target="_blank">ANN</a></li>-->
 <li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">语言</a>
 <ul class="sub-menu">
@@ -73,7 +74,7 @@ include_once '../lang.php';
 include_once '../langmobile.php';
 ?>
 </ul></li>
-<li><a href="/media/Community_Paper_Final.pdf">白皮书</a></li>
+<li><a href="https://docs.google.com/document/d/1hFi_sQirkF7hC6dFc4ov7WCgiyePSHHER1FsbNUFZ5E"><?php echo $t['Community Paper']; ?></a></li>
 <li><a href="#benefist" class="smooth-scroll">优势</a></li>
 <li><a href="#exchange" class="smooth-scroll">交易所</a></li>
 <li><a href="#wallets" class="smooth-scroll">钱包</a></li>
