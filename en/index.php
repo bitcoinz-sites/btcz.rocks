@@ -1,68 +1,71 @@
 <?php $t = require __DIR__ . '/../translations/en.php'; ?>
 <!DOCTYPE html>
 <html lang="en" class="no-js">
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-28037043-7"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-28037043-7"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
 
-  gtag('config', 'UA-28037043-7');
-</script>
-<meta charset="utf-8">
-<title>Your Financial Freedom - BitcoinZ</title>
-<meta name="description" content="BitcoinZ is a new type of payment calculation. Choose your coin" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta property="og:image" content="path/to/image.jpg">
-<!--Favicon-->
-<link rel="icon" href="/favicon.ico">
-<!--Libs css-->
-<link rel="stylesheet" href="/css/stylelibs.css">
-<!--Main css-->
-<link rel="stylesheet" data-style="styles" href="/css/stylemain.css">
+          gtag('config', 'UA-28037043-7');
+        </script>
+        <meta charset="utf-8">
+        <title>Your Financial Freedom - BitcoinZ</title>
+        <meta name="description" content="BitcoinZ is a new type of payment calculation. Choose your coin" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta property="og:image" content="/img/logo.png">
+        <!--Favicon-->
+        <link rel="icon" href="/favicon.ico">
+        <!--Libs css-->
+        <link rel="stylesheet" href="/css/stylelibs.css">
+        <!--Main css-->
+        <link rel="stylesheet" data-style="styles" href="/css/stylemain.css">
+    </head>
 
-</head>
-<body class="dark-load">
-<header id="top-nav" class="top-nav page-header">
-<div class="container"><a href="/" class="logo smooth-scroll"><img src="/img/logo.png" alt="logo" class="logo-white"><img src="/img/logo.png" alt="logo" class="logo-dark"></a>
-<nav class="top-menu">
-<ul class="sf-menu">
-<!--Menu default-->
-<li><a href="/en/">Home</a></li>
-<li><a href="https://docs.google.com/document/d/1hFi_sQirkF7hC6dFc4ov7WCgiyePSHHER1FsbNUFZ5E" target="_blank"><?php echo $t['Community Paper']; ?></a>
-<li><a href="#benefist" class="smooth-scroll">Benefits</a></li>
-<li><a href="#exchange" class="smooth-scroll">Exchange</a></li>
-<li><a href="#wallets" class="smooth-scroll">Wallets</a></li>
-<li><a href="#" class="smooth-scroll">Pools</a>
-<ul>
-<?php
-include_once '../pools.php';
-?>
-<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank">And more on the forum bitcointalk</a></li>
-</ul></li>
-<li><a href="#" class="smooth-scroll">Explorer</a>
-<ul>
-<?php
-include_once '../explorer.php';
-?>
-</ul></li>
-<li><a href="#" class="smooth-scroll">Social</a>
-<ul>
-<?php
-include_once '../social.php';
-?>
-</ul>
-<!--<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" class="smooth-scroll" target="_blank">ANN</a></li>-->
-<li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Lang</a>
-<ul class="sub-menu">
-<?php
-include_once '../lang.php';
-?>
-</ul></li>
-</nav>
+    <body class="dark-load">
+        <header id="top-nav" class="top-nav page-header">
+            <div class="container">
+                <a href="/" class="logo smooth-scroll">
+                    <img src="/img/logo.png" alt="logo" class="logo-white">
+                    <img src="/img/logo.png" alt="logo" class="logo-dark">
+                </a>
+                <nav class="top-menu">
+                    <ul class="sf-menu">
+                        <li><a href="/en/">Home</a></li>
+                        <li><a href="<?php echo $t['community-paper-link']; ?>" target="_blank"><?php echo $t['Community Paper']; ?></a>
+                        <li><a href="#benefist" class="smooth-scroll">Benefits</a></li>
+                        <li><a href="#exchange" class="smooth-scroll">Exchange</a></li>
+                        <li><a href="#wallets" class="smooth-scroll">Wallets</a></li>
+                        <li>
+                            <a href="#" class="smooth-scroll">Pools</a>
+                            <ul>
+                                <?php include_once '../pools.php'; ?>
+                                <li><a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank">And more on the forum bitcointalk</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#" class="smooth-scroll">Explorer</a>
+                            <ul>
+                                <?php include_once '../explorer.php'; ?>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#" class="smooth-scroll">Social</a>
+                            <ul>
+                                <?php include_once '../social.php'; ?>
+                            </ul>
+                        </li>
+                        <!--<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" class="smooth-scroll" target="_blank">ANN</a></li>-->
+                        <li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Lang</a>
+                        <ul class="sub-menu">
+                            <?php include_once '../lang.php'; ?>
+                        </ul>
+                    </li>
+                </nav>
+
 <!-- Start mobile menu-->
 <!-- Start toggle menu--><a href="#" class="toggle-mnu"><span></span></a>
 <div id="mobile-menu">
