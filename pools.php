@@ -7,18 +7,6 @@
 <li><a href="https://minez.zone/" target="_blank">Minez.zone</a></li>
 <li><a href="http://pcmining.xyz:8080/" target="_blank">pcmining</a></li>
 <li><a href="https://pool.miningspeed.com/" target="_blank">Miningspeed.com</a></li>
-
-
-
-
-
-
-
-
-
-
-
-
 <?php /*
 <li><a href="https://pool.cryptobroker.io/btcz/" target="_blank">Cryptobroker.io</a></li>
 <li><a href="http://mineflowpool.pl/" target="_blank">Mineflowpool.pl</a></li>

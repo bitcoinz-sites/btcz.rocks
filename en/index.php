@@ -75,7 +75,7 @@ include_once '../lang.php';
 include_once '../langmobile.php';
 ?>
 </ul></li>
-<li><a href="https://docs.google.com/document/d/1hFi_sQirkF7hC6dFc4ov7WCgiyePSHHER1FsbNUFZ5E"><?php echo $t['Community Paper']; ?></a></li>
+<li><a href="<?php echo $t['community-paper-link']; ?>"><?php echo $t['Community Paper']; ?></a></li>
 <li><a href="#benefist" class="smooth-scroll">Benefits</a></li>
 <li><a href="#exchange" class="smooth-scroll">Exchange</a></li>
 <li><a href="#wallets" class="smooth-scroll">Wallets</a></li>
@@ -121,7 +121,7 @@ include_once '../socialmobile.php';
 <div class="col-md-12">
 <div class="heading-title-big"><br>It's your coin <br><span>BitcoinZ: The True Bitcoin 2.0</span></div>
 <div class="description-slide">Welcome to the decentralization</div>
-<div class="buttons-section"><a href="https://docs.google.com/document/d/1hFi_sQirkF7hC6dFc4ov7WCgiyePSHHER1FsbNUFZ5E" target="_blank" class="btn dark-btn large-btn">COMMUNITY PAPER</a><a href="https://connect.bitcoinz.global/" class="btn dark-btn large-btn" target="_blank">READ MORE</a><a href="https://bitcoinz.global/donations/" class="btn dark-btn large-btn" target="_blank">Donate</a><br><br><center><script type="text/javascript" src="/api.js"></script><div class="coinmarketcap-currency-widget" data-currency="bitcoinz" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center>
+<div class="buttons-section"><a href="<?php echo $t['community-paper-link']; ?>" target="_blank" class="btn dark-btn large-btn"><?php echo $t['Community Paper']; ?></a><a href="https://connect.bitcoinz.global/" class="btn dark-btn large-btn" target="_blank">READ MORE</a><a href="https://bitcoinz.global/donations/" class="btn dark-btn large-btn" target="_blank">Donate</a><br><br><center><script type="text/javascript" src="/api.js"></script><div class="coinmarketcap-currency-widget" data-currency="bitcoinz" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center>
 </div>
 </div>
 </div>
