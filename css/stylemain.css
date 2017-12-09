@@ -2628,14 +2628,14 @@ body:not(.header-fixed) .logo,.toggle-mnu
 
 .heading-title-big
 {
-	font-size:4.6875rem;
-	font-family:Roboto,sans-serif;
-	font-weight:900;
-	text-transform:uppercase;
-	color:#fff;
-	letter-spacing:5px;
-	line-height:initial;
-	margin-bottom:15px
+	font-size: 4.5rem;
+	font-family: Roboto,sans-serif;
+	font-weight: 900;
+	text-transform: uppercase;
+	color: #fff;
+	letter-spacing: 0.05em;
+	line-height: 1;
+	margin-bottom: 15px;
 }
 
 .heading-title-big span
