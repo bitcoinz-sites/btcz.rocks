@@ -2624,14 +2624,14 @@ body:not(.header-fixed) .logo,.toggle-mnu
 
 .heading-title-big
 {
-	font-size:4.6875rem;
+	font-size:3.45rem;
 	font-family:Roboto,sans-serif;
-	font-weight:900;
+	font-weight:800;
 	text-transform:uppercase;
 	color:#fff;
-	letter-spacing:5px;
+	letter-spacing:2px;
 	line-height:initial;
-	margin-bottom:15px
+	margin-bottom:5px;
 }
 
 .heading-title-big span

@@ -2,10 +2,6 @@
 
 @import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
 
-* {
-    display: none;
-}
-
 body
 {
 	font-size:16px;
@@ -2628,14 +2624,14 @@ body:not(.header-fixed) .logo,.toggle-mnu
 
 .heading-title-big
 {
-	font-size:4.6875rem;
-	font-family:Roboto,sans-serif;
-	font-weight:900;
-	text-transform:uppercase;
-	color:#fff;
-	letter-spacing:5px;
-	line-height:initial;
-	margin-bottom:15px
+	font-size: 4.5rem;
+	font-family: Roboto,sans-serif;
+	font-weight: 900;
+	text-transform: uppercase;
+	color: #fff;
+	letter-spacing: 0.05em;
+	line-height: 1;
+	margin-bottom: 15px;
 }
 
 .heading-title-big span
@@ -6693,7 +6689,7 @@ footer .links p
 	color:#fff;
 	letter-spacing:2px;
 	line-height:initial;
-	margin-bottom:5px
+	margin-bottom:5px;
 	}
 }
 
@@ -6802,7 +6798,7 @@ footer .links p
 
 	header .logo
 	{
-		padding:12px 0 9px
+		padding:8px 0 8px
 	}
 
 	header .logo img
