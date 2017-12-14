@@ -11,7 +11,7 @@
           gtag('config', 'UA-28037043-7');
         </script>
         <meta charset="utf-8">
-        <title>Your Financial Freedom - BitcoinZ</title>
+        <title>Liria Juaj  Financiare  - BitcoinZ</title>
         <meta name="description" content="BitcoinZ is a new type of payment calculation. Choose your coin" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
