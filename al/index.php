@@ -165,7 +165,7 @@ include_once '../socialmobile.php';
 </div>
 <div class="content">
 <h3>Important <span>details</span></h3>
-<p>- Backup your wallet in many locations<br>- Store big amount of coins in cold wallets in anonymous addresses<br>- Don't give / send anyone your private keys. Private keys needs to be secured. You can recover your wallets. If you give or send anyone your private key please consider it as a red flag and quickly move your coins to other address</p>
+<p>- Ruajeni kuleten tuaj ne shume vende<br>- Vlerat e medha te monedhave te kuletave ne adresa anonyme<br>- Mos i jepni / dërgoni askujt çelësat tuaj privatë. Çelësi privat është e vetmja gjë që ju nevojitet për të zotëruar adresen e monedhës tuaj . Nëse jepni ose dërgoni dikë, çelësin tuaj privat e konsideroni atë si një flamur të kuq dhe shpejt lëvizni monedhat tuaja në adresë tjetër</p>
 
 </div>
 </div>
@@ -177,7 +177,7 @@ include_once '../socialmobile.php';
 </div>
 <div class="content">
 <h3>BitcoinZ is <span>Bitcoin 2.0:</span></h3>
-<p>- Bitcoin technology<br>- Anonymous transactions (zk-SNARKs privacy) - Bitcoin has all transactions publicly available.<br>- decentralized GPU mining (ASIC miners are banned, hardforks to prevent ASIC miners are allowed)<br>- Decentralized development / All contributors are volunteers<br>- Big blocks -> blocks are similar to BCC / BCH</p>
+<p>- Bitcoin technology<br>- Transaksionet anonime (zK-SNARKs privatesi) - Bitcoin ka të gjitha transaksionet në dispozicion të publikut.<br>- minierat e decentralizuara të GPU (minierat e ASIC janë të ndaluara, hardforks për të parandaluar minierat ASIC janë të lejuara)<br>- Zhvillimi i Decentralizuar / Të gjithë kontribuesit janë vullnetarë<br>- Blloqe të mëdha -> lloqe janë të ngjashme me BCC/BCH</p>
 </div>
 </div>
 </div>
@@ -187,8 +187,8 @@ include_once '../socialmobile.php';
 <div class="bg-icon"><i class="pe-7s-light"></i></div>
 </div>
 <div class="content">
-<h3>Active <span>community</span></h3>
-<p>Our community is active and we are always developing. <br>You can follow us in social networks, on the forum, as well as Slack</p>
+<h3>Komuniteti <span>aktiv</span></h3>
+<p>Komuniteti ynë është aktiv dhe ne jemi gjithnjë në zhvillim. <br>YJu mund të na ndiqni në rrjetet shoqërore, në forum, si dhe slack</p>
 </div>
 </div>
 </div>
@@ -227,30 +227,29 @@ include_once '../socialmobile.php';
 <div id="tabs-1">
 <div class="col-md-6">
 <div class="head-service small-head text-left">
-<h2>Our goal is to port all best free software on the  <span>market to be able to use in BitcoinZ.</span></h2>
+<h2>Qëllimi ynë është që të hartojmë të gjithë softuerët më të mirë e të lirë në treg që të mund të përdorim në BitcoinZ.</span></h2>
 <p>Immutable params:</p>
 </div>
-<p>- max supply </p>
-<p>- inflation </p>
-<p>- only POW algo  - we may change Equihash algo to other POW algo to prevent ASIC miners </p>
-<p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>
+<p>- furnizimi maximal </p>
+<p>- inflationi </p>
+<p>- vetëm Algo POW - ne mund të ndryshojëme  algjo Equihash në algo POW të tjera  për të parandaluar minatorët ASIC </p>
 </div>
 <div class="col-md-5 col-md-push-1">
 <ul class="list">
-<li>Algo: Equihash (always GPU mining - we promote decentralization in mining) </li>
-<li>Max supply 21B coins </li>
-<li>Current supply: 12500 coins every 2.5 minutes</li>
-<li>Current block size is similar to BCC/BCH (BTCZ = 2MB every 2.5 mins ~ BCC/BCH = 8MB every 10 min)</li>
+<li>Algo: Equihash (gjithmonë minierat e GPU-së - ne promovojmë decentralizimin në miniera) </li>
+<li>Furnizimi Maximal 21B coins </li>
+<li>Furnizimi i pranishem: 12500 coins every 2.5 minutes</li>
+<li>Madhësia e tanishme e bllokut është e ngjashme me BCC / BCH (BTC = 2MB çdo 2.5 minuta ~ BCC / BCH = 8MB çdo 10 min)</li>
 </ul>
 </div>
 </div>
 <div id="tabs-2">
 <div class="col-md-6">
 <div class="head-service small-head text-left">
-<h2>The most  secure software is included in <span>bitcoinz-pod/bitcoinz linux client.</span></h2>
-<p>Sensitive data programs like wallets should provide free open source code and sha256 to their releases to be able to review their wallets by other teams / pods. It not recommended to use any wallet which hasn't been reviewed by other team. </p>
+<h2>Softueri më i sigurt është i përfshirë në bitcoins-pod / bitcoins linux client.</span></h2>
+<p>Programet e ndjeshme të të dhënave si kuletat duhet të ofrojnë kodin falas me kod të hapur dhe 256 në lëshimet e tyre për të qenë në gjendje të rishikojnë kuletat e tyre nga ekipe të tjera / pods. Nuk rekomandohet të përdoret ndonjë portofol që nuk është shqyrtuar nga ekipi tjetër. </p>
 </div>
-<p>Software without any confirmations should be treated as red flag and not used.</p>
+<p>Softueri pa asnjë konfirmim duhet të trajtohet si flamur i kuq dhe nuk përdoret.</p>
 </div>
 <!--<div class="col-md-5 col-md-push-1">
 <ul class="list">
@@ -324,9 +323,9 @@ include_once '../socialmobile.php';
 <div class="row">
 <div class="col-md-8 col-md-push-2">
 <div class="heading-title center">
-<h2>Why BitcoinZ ?</h2>
-<div class="small-desd">We are a fully decentralized network</div>
-<p>Here are some advantages</p>
+<h2>PSE BITCOINZ ?</h2>
+<div class="small-desd">JEMI RRJETI PLOTESISHTE I DECENTRALIZUAR</div>
+<p>Këtu janë disa avantazhe</p>
 </div>
 </div>
 </div>
@@ -336,16 +335,16 @@ include_once '../socialmobile.php';
 <div class="icon-container">
 <div class="icon icon-circle"><i class="pe-7s-look"></i></div>
 </div>
-<h3>Anonymity</h3>
-<p>All transactions are completely anonymous.</p>
+<h3>ANONIMITETI</h3>
+<p>Të gjitha transaksionet janë plotësisht anonime..</p>
 </div>
 <!-- Item-->
 <div class="col-md-3 col-sm-6 col-xs-12 item-icon">
 <div class="icon-container">
 <div class="icon icon-circle"><i class="pe-7s-light"></i></div>
 </div>
-<h3>Support for different platforms</h3>
-<p>Our wallet is compatible with Linux, Windows, iOS and Android.</p>
+<h3>MBËSHTETJE PËR PLATFORMA TË NDRYSHME</h3>
+<p>Kuleta jonë është i përputhshëm me linux, windows, ios dhe android. Dhe ne gjithmonë punojmë në përmirësime.</p>
 </div>
 <!-- Item-->
 <div class="col-md-3 col-sm-6 col-xs-12 item-icon">
@@ -353,15 +352,15 @@ include_once '../socialmobile.php';
 <div class="icon icon-circle"><i class="pe-7s-like2"></i></div>
 </div>
 <h3>Community</h3>
-<p>We listen to our dear community, so we can succeed.</p>
+<p>Ne dëgjojmë komunitetin tonë të dashur, kështu që ne mund të arrijmë.</p>
 </div>
 <!-- Item-->
 <div class="col-md-3 col-sm-6 col-xs-12 item-icon">
 <div class="icon-container">
 <div class="icon icon-circle"><i class="pe-7s-graph1"></i></div>
 </div>
-<h3>Active price growth</h3>
-<p>BitcoinZ is focused on organic growth.</p>
+<h3>RRITJA AKTIVE E ÇMIMEVE</h3>
+<p>BitcoinZ fokusohet në rritjen organike.</p>
 </div>
 <!-- Edn items-->
 </div>
@@ -374,7 +373,7 @@ include_once '../socialmobile.php';
 <div class="col-md-3">
 <div class="heading-title small-heading text-left">
 <h2>Exchanges</h2>
-<p>Buy or sell your coins BitcoinZ</p>
+<p>Blej ose shesni monedhat tuaja BitcoinZ</p>
 </div>
 </div>
 <?php
@@ -407,7 +406,7 @@ include_once '../wallets.php';
 </br>
 </br>
 </br>
-<!--Section why chose us-->
+<!--Section PSE ZGJEDHIM BITCOINS-->
 <?php
 include_once '../roadmap.php';
 ?>
@@ -417,8 +416,8 @@ include_once '../roadmap.php';
 <div class="col-md-8 col-md-push-2">
 <div class="heading-title center">
 <h2>Why choose <span>BitcoinZ</span></h2>
-<div class="small-desd">Here are a few <span> reasons</span></div>
-<p>WARNING. Always remember about the pitfalls and keep your backup keys in a safe place!</p>
+<div class="small-desd">KETU JANE DISA  <span> ARSYJE</span></div>
+<p>KUJDES. Gjithmonë kujtohuni për metat dhe mbani çelësat e rezervimit në një vend të sigurt!</p>
 </div>
 </div>
 </div>
@@ -427,11 +426,10 @@ include_once '../roadmap.php';
 <div class="col-md-4">
 <div class="item-about item-choose">
 <div class="content">
-<h3>Decentralized mining</h3>
-<p>As a miner you should not use the biggest pools to follow main principles.<br>
-Easy to mine<br>
+<h3>MINIERA E DECENTRALIZUAR</h3>
+<p>Si një minator ju nuk duhet të përdorni pishinat më të mëdha për të ndjekur parimet kryesore.<br>
 Equihash algorithm.<br>
- Decentralized Exchanges</p>
+Decentalized Exchanges</p>
 </div>
 </div>
 </div>
@@ -443,7 +441,7 @@ Equihash algorithm.<br>
 </div>
 <div class="content">
 <h3>No <span>Pre-mine</span></h3>
-<p>Pure coin. No  pre-mine</p>
+<p>Pure coin. PA  pre-mine</p>
 </div>
 </div>
 </div>
@@ -455,7 +453,7 @@ Equihash algorithm.<br>
 </div>
 <div class="content">
 <h3>BitcoinZ is  <span>Bitcoin 2.0:</span></h3>
-<p>- 21 billion coins - Everyone in the world can have at least one BTCZ</p>
+<p>- 21 billion coins - Të gjitha në botë mund të kenë së paku një BTCZ</p>
 </div>
 </div>
 </div>
@@ -469,7 +467,7 @@ Equihash algorithm.<br>
 </div>
 <div class="content">
 <h3>Active <span>community</span></h3>
-<p>Our community is actively developing and growing every day.	</p>
+<p>Komuniteti ynë po zhvillohet në mënyrë aktive dhe po rritet çdo ditë.	</p>
 </div>
 </div>
 </div>
@@ -481,7 +479,7 @@ Equihash algorithm.<br>
 </div>
 <div class="content">
 <h3>Anonymous  <span>transactions</span></h3>
-<p>All transactions remain anonymous. So you do not have to worry about anonymity	</p>
+<p>TRANSAKSIONE ANONIME. Pra, nuk duhet të shqetësoheni për anonimitetin	</p>
 </div>
 </div>
 </div>
@@ -493,7 +491,7 @@ Equihash algorithm.<br>
 </div>
 <div class="content">
 <h3>Android and iOS <span>wallet</span></h3>
-<p>Use bitcoinz coins in your smartphones</p>
+<p>Përdorni BitcoinZ monedha në smartphone</p>
 </div>
 </div>
 </div>
@@ -506,8 +504,8 @@ Equihash algorithm.<br>
 <div class="bg-icon"><i class="pe-7s-display1"></i></div>
 </div>
 <div class="content">
-<h3>Natural <span>growth</span></h3>
-<p>Your coin will grow and develop in a natural way	</p>
+<h3>rritja  <span>natyrale</span></h3>
+<p>Monedha juaj do të rritet dhe zhvillohet në mënyrë të natyrshme</p>
 </div>
 </div>
 </div>
@@ -518,8 +516,8 @@ Equihash algorithm.<br>
 <div class="bg-icon"><i class="pe-7s-link"></i></div>
 </div>
 <div class="content">
-<h3>Decentralized  <span>development</span></h3>
-<p>All exchanges are allowed. The best ones are decentralized. We plan to implement fully decentralized XCAT exchange.</p>
+<h3>zhvillim i  <span>dezentalizuar</span></h3>
+<p>Të gjitha shkëmbimet janë të lejuara. Më të mirat janë decentralizuar. Ne plan për të zbatuar shkëmbimin plotësisht të decentralizuar XCAT.</p>
 </div>
 </div>
 </div>
@@ -531,7 +529,7 @@ Equihash algorithm.<br>
 </div>
 <div class="content">
 <h3>Only POW and <span>no POS</span></h3>
-<p>The coin is calculated only for POW mining, and will never be changed to POS</p>
+<p>Monedha llogaritet vetëm për minierat POW dhe nuk do të ndryshohet kurrë në POS</p>
 </div>
 </div>
 </div>
