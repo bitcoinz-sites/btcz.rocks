@@ -1,4 +1,4 @@
-<?php $t = require __DIR__ . '/../translations/en.php'; ?>
+<?php $t = require __DIR__ . '/../translations/al.php'; ?>
 <!DOCTYPE html>
 <html lang="en" class="no-js">
     <head>
@@ -11,7 +11,7 @@
           gtag('config', 'UA-28037043-7');
         </script>
         <meta charset="utf-8">
-        <title>Liria Juaj  Financiare  - BitcoinZ</title>
+        <title>Liria Juaj Financiare  - BitcoinZ</title>
         <meta name="description" content="BitcoinZ is a new type of payment calculation. Choose your coin" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -121,9 +121,9 @@ include_once '../socialmobile.php';
 <div class="container">
 <div class="row">
 <div class="col-md-12">
-<div class="heading-title-big"><br>It's your coin <br><span>BitcoinZ: The True Bitcoin 2.0</span></div>
-<div class="description-slide">Welcome to the decentralization</div>
-<div class="buttons-section"><a href="<?php echo $t['community-paper-link']; ?>" target="_blank" class="btn dark-btn large-btn"><?php echo $t['Community Paper']; ?></a><a href="https://connect.bitcoinz.global/" class="btn dark-btn large-btn" target="_blank">READ MORE</a><a href="https://bitcoinz.global/donations/" class="btn dark-btn large-btn" target="_blank">Donate</a><br><br><center><script type="text/javascript" src="/api.js"></script><div class="coinmarketcap-currency-widget" data-currency="bitcoinz" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center>
+<div class="heading-title-big"><br><?= $t['It\'s your coin']; ?><br><span><?= $t['BitcoinZ: The true Bitcoin 2.0']; ?></span></div>
+<div class="description-slide"><?= $t['Welcome to the decentralization']; ?></div>
+<div class="buttons-section"><a href="<?php echo $t['community-paper-link']; ?>" target="_blank" class="btn dark-btn large-btn"><?php echo $t['Community Paper']; ?></a><a href="https://connect.bitcoinz.global/" class="btn dark-btn large-btn" target="_blank"><?= $t['Read More']; ?></a><a href="https://bitcoinz.global/donations/" class="btn dark-btn large-btn" target="_blank">Donate</a><br><br><center><script type="text/javascript" src="/api.js"></script><div class="coinmarketcap-currency-widget" data-currency="bitcoinz" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center>
 </div>
 </div>
 </div>
@@ -164,7 +164,7 @@ include_once '../socialmobile.php';
 <div class="bg-icon"><i class="pe-7s-target"></i></div>
 </div>
 <div class="content">
-<h3>Important <span>details</span></h3>
+<h3><?= $t['Important']; ?> <span><?= $t['details']; ?></span></h3>
 <p>- Ruajeni kuleten tuaj ne shume vende<br>- Vlerat e medha te monedhave te kuletave ne adresa anonyme<br>- Mos i jepni / dërgoni askujt çelësat tuaj privatë. Çelësi privat është e vetmja gjë që ju nevojitet për të zotëruar adresen e monedhës tuaj . Nëse jepni ose dërgoni dikë, çelësin tuaj privat e konsideroni atë si një flamur të kuq dhe shpejt lëvizni monedhat tuaja në adresë tjetër</p>
 
 </div>
@@ -176,7 +176,7 @@ include_once '../socialmobile.php';
 <div class="bg-icon"><i class="pe-7s-help2"></i></div>
 </div>
 <div class="content">
-<h3>BitcoinZ is <span>Bitcoin 2.0:</span></h3>
+<h3><?= $t['BitcoinZ is']; ?> <span><?= $t['Bitcoin 2.0:']; ?></span></h3>
 <p>- Bitcoin technology<br>- Transaksionet anonime (zK-SNARKs privatesi) - Bitcoin ka të gjitha transaksionet në dispozicion të publikut.<br>- minierat e decentralizuara të GPU (minierat e ASIC janë të ndaluara, hardforks për të parandaluar minierat ASIC janë të lejuara)<br>- Zhvillimi i Decentralizuar / Të gjithë kontribuesit janë vullnetarë<br>- Blloqe të mëdha -> lloqe janë të ngjashme me BCC/BCH</p>
 </div>
 </div>

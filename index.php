@@ -2,6 +2,7 @@
 
 $sites = [
     'en' => '/en/',        // English
+    'al' => '/al/',        // Albenian
     'cz' => '/cz/',        // Cheiz
     'ru' => '/ru/',        // Russia
     'de' => '/de/',        // Gegmany
