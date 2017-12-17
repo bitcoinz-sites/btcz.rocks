@@ -7,8 +7,8 @@ return array_merge(require_once __DIR__ . '/global.php', [
     'Community Paper' => 'Letër Komunitare',
     'details' => 'details',
     'Important' => 'Important',
-    'It\'s your coin' => 'It\'s your coin',
+    "It's your coin" => 'Eshte Monedha e Juaj',
     'Read More' => 'Read More',
-    'Welcome to the decentralization' => 'Welcome to the decentralization',
+    'Welcome to the decentralization' => 'Mirsevini ne Dezentralizim',
 ]);
 
