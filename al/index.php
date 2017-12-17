@@ -121,8 +121,8 @@ include_once '../socialmobile.php';
 <div class="container">
 <div class="row">
 <div class="col-md-12">
-<div class="heading-title-big"><br>It's your coin <br><span>BitcoinZ: The True Bitcoin 2.0</span></div>
-<div class="description-slide">Welcome to the decentralization</div>
+<div class="heading-title-big"><br>Eshte Monedha e Juaj <br><span>BitcoinZ: The True Bitcoin 2.0</span></div>
+<div class="description-slide">Mirsevini ne Dezentralizim</div>
 <div class="buttons-section"><a href="<?php echo $t['community-paper-link']; ?>" target="_blank" class="btn dark-btn large-btn"><?php echo $t['Community Paper']; ?></a><a href="https://connect.bitcoinz.global/" class="btn dark-btn large-btn" target="_blank">READ MORE</a><a href="https://bitcoinz.global/donations/" class="btn dark-btn large-btn" target="_blank">Donate</a><br><br><center><script type="text/javascript" src="/api.js"></script><div class="coinmarketcap-currency-widget" data-currency="bitcoinz" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center>
 </div>
 </div>
