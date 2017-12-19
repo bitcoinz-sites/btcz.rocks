@@ -2,13 +2,12 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js">
     <head>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-28037043-7"></script>
+        <?= $t['google-tag-manager-head']; ?>
         <script>
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'UA-28037043-7');
+          gtag("js", new Date());
+          gtag("config", "<?= $t['google-analytics-id']; ?>");
         </script>
         <meta charset="utf-8">
         <title>Liria Juaj Financiare  - BitcoinZ</title>

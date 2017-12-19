@@ -2,18 +2,17 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js">
     <head>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-28037043-7"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
+        <?= $t['google-tag-manager-head']; ?>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag("js", new Date());
 
-          gtag('config', 'UA-28037043-7');
-        </script>
+gtag("config", "<?= $t['google-analytics-id']; ?>");
+</script>
         <meta charset="utf-8">
-        <title>Your Financial Freedom - BitcoinZ</title>
-        <meta name="description" content="BitcoinZ is a new type of payment calculation. Choose your coin" />
+        <title><?= $t['Your Financial Freedom - BitcoinZ']; ?></title>
+        <meta name="description" content="<?= $t['BitcoinZ is a new type of payment calculation. Choose your coin']; ?>" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         <meta property="og:image" content="/img/logo.png">
@@ -34,95 +33,95 @@
                 </a>
                 <nav class="top-menu">
                     <ul class="sf-menu">
-                        <li><a href="/en/">Home</a></li>
+                        <li><a href="/en/"><?= $t['Home']; ?></a></li>
                         <li><a href="<?php echo $t['community-paper-link']; ?>" target="_blank"><?php echo $t['Community Paper']; ?></a>
-                        <li><a href="#benefist" class="smooth-scroll">Benefits</a></li>
-                        <li><a href="#exchange" class="smooth-scroll">Exchange</a></li>
-                        <li><a href="#wallets" class="smooth-scroll">Wallets</a></li>
+                        <li><a href="#benefist" class="smooth-scroll"><?= $t['Benefits']; ?></a></li>
+                        <li><a href="#exchange" class="smooth-scroll"><?= $t['Exchange']; ?></a></li>
+                        <li><a href="#wallets" class="smooth-scroll"><?= $t['Wallets']; ?></a></li>
                         <li>
-                            <a href="#" class="smooth-scroll">Pools</a>
+                            <a href="#" class="smooth-scroll"><?= $t['Pools']; ?></a>
                             <ul>
                                 <?php include_once '../pools.php'; ?>
-                                <li><a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank">And more on the forum bitcointalk</a></li>
+                                <li><a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank"><?= $t['More in the bitcointalk ANN thread']; ?></a></li>
                             </ul>
                         </li>
                         <li>
-                            <a href="#" class="smooth-scroll">Explorer</a>
+                            <a href="#" class="smooth-scroll"><?= $t['Explorer']; ?></a>
                             <ul>
                                 <?php include_once '../explorer.php'; ?>
                             </ul>
                         </li>
                         <li>
-                            <a href="#" class="smooth-scroll">Social</a>
+                            <a href="#" class="smooth-scroll"><?= $t['Social']; ?></a>
                             <ul>
                                 <?php include_once '../social.php'; ?>
                             </ul>
                         </li>
-                        <!--<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" class="smooth-scroll" target="_blank">ANN</a></li>-->
-                        <li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Lang</a>
+                        <!--<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" class="smooth-scroll" target="_blank"><?= $t['ANN']; ?></a></li>-->
+                        <li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll"><?= $t['Lang']; ?></a>
                         <ul class="sub-menu">
                             <?php include_once '../lang.php'; ?>
                         </ul>
                     </li>
                 </nav>
 
-<!-- Start mobile menu-->
-<!-- Start toggle menu--><a href="#" class="toggle-mnu"><span></span></a>
-<div id="mobile-menu">
-<div class="inner-wrap">
-<nav>
-<ul class="nav_menu"><br><br><br>
-<li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Language</a>
-<ul class="sub-menu"><br><br>
-<?php
-include_once '../langmobile.php';
-?>
-</ul></li>
-<li><a href="<?php echo $t['community-paper-link']; ?>"><?php echo $t['Community Paper']; ?></a></li>
-<li><a href="#benefist" class="smooth-scroll">Benefits</a></li>
-<li><a href="#exchange" class="smooth-scroll">Exchange</a></li>
-<li><a href="#wallets" class="smooth-scroll">Wallets</a></li>
-<li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Pools</a>
-<ul class="sub-menu"><br>
-<?php
-include_once '../poolsmobile.php';
-?>
-<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank">And more...</a></li>
-</ul></li>
-<li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Explorer</a>
-<ul class="sub-menu"><br>
-<?php
-include_once '../explorermobile.php';
-?>
-</ul></li>
-<li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Social</a>
-<ul class="sub-menu"><br>
-<?php
-include_once '../socialmobile.php';
-?>
-</ul></li>
-<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" class="smooth-scroll" target="_blank">FORUM bitcointalk </a>
-</ul>
-</nav>
-</div>
-</div>
-<!-- End mobile menu-->
-</div>
-</header>
+                <!-- Start mobile menu-->
+                <!-- Start toggle menu--><a href="#" class="toggle-mnu"><span></span></a>
+                <div id="mobile-menu">
+                    <div class="inner-wrap">
+                        <nav>
+                            <ul class="nav_menu">
+                                <br /><br /><br />
+                                <li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll"><?= $t['Language']; ?></a>
+                                <ul class="sub-menu"><br><br>
+                                    <?php include_once '../langmobile.php'; ?>
+                                </ul>
+                            </li>
+                            <li><a href="<?php echo $t['community-paper-link']; ?>"><?php echo $t['Community Paper']; ?></a></li>
+                            <li><a href="#benefist" class="smooth-scroll"><?= $t['Benefits']; ?></a></li>
+                            <li><a href="#exchange" class="smooth-scroll"><?= $t['Exchange']; ?></a></li>
+                            <li><a href="#wallets" class="smooth-scroll"><?= $t['Wallets']; ?></a></li>
+                            <li class="menu-item-has-children current-menu-item">
+                                <a href="#" class="smooth-scroll"><?= $t['Pools']; ?></a>
+                                <ul class="sub-menu">
+                                    <br />
+                                    <?php include_once '../poolsmobile.php'; ?>
+                                    <li><a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank"><?= $t['And more...']; ?></a></li>
+                                </ul>
+                            </li>
+                            <li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll"><?= $t['Explorer']; ?></a>
+                                <ul class="sub-menu">
+                                    <br />
+                                    <?php include_once '../explorermobile.php'; ?>
+                                </ul>
+                            </li>
+                            <li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll"><?= $t['Social']; ?></a>
+                                <ul class="sub-menu">
+                                    <br />
+                                    <?php include_once '../socialmobile.php'; ?>
+                                </ul>
+                            </li>
+                            <li><a href="https://bitcointalk.org/index.php?topic=2166510.0" class="smooth-scroll" target="_blank"><?= $t['Bitcointalk ANN Thread']; ?></a></ul>
+                        </nav>
+                    </div>
+                </div>
+                <!-- End mobile menu-->
+            </div>
+        </header>
 
-<!-- Start slider section-->
-<div id="top" class="slider">
-<div id="preloader">
-<div id="status"></div>
-</div>
-<div class="full-slider intro">
-<!-- Start slide-->
-<div data-image="/img/bgn22.jpg" class="slide bg-mask background-image full-vh">
-<div class="container-slide vertical-align center head-desc">
-<div class="container">
-<div class="row">
-<div class="col-md-12">
-<div class="heading-title-big"><br>It's your coin <br><span>BitcoinZ: The True Bitcoin 2.0</span></div>
+        <!-- Start slider section-->
+        <div id="top" class="slider">
+            <div id="preloader">
+                <div id="status"></div>
+            </div>
+            <div class="full-slider intro">
+                <!-- Start slide-->
+                <div data-image="/img/bgn22.jpg" class="slide bg-mask background-image full-vh">
+                    <div class="container-slide vertical-align center head-desc">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="heading-title-big"><br><?= $t["It's your coin"]; ?><br><span>BitcoinZ: The True Bitcoin 2.0</span></div>
 <div class="description-slide">Welcome to the decentralization</div>
 <div class="buttons-section"><a href="<?php echo $t['community-paper-link']; ?>" target="_blank" class="btn dark-btn large-btn"><?php echo $t['Community Paper']; ?></a><a href="https://connect.bitcoinz.global/" class="btn dark-btn large-btn" target="_blank">READ MORE</a><a href="https://bitcoinz.global/donations/" class="btn dark-btn large-btn" target="_blank">Donate</a><br><br><center><script type="text/javascript" src="/api.js"></script><div class="coinmarketcap-currency-widget" data-currency="bitcoinz" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center>
 </div>
@@ -614,5 +613,6 @@ Equihash algorithm.<br>
 <script src="/libs/style-customizer/style-customizer.js.pagespeed.ce.IgWtkWf8IC.js"></script>
 <!--Use scripts-->
 <script src="/js/common.js.pagespeed.ce.hW1NRi6zyn.js"></script>
+<?= $t['google-tag-manager-body']; ?>
 </body>
 </html>
