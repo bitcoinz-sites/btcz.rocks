@@ -72,7 +72,7 @@
 <li><a href="https://t.me/joinchat/CDzlaRGMvBm4P2Z76sNclQ" target="_blank">Telegram</a></li>
 <li><a href="https://discordapp.com/invite/u3dkbFs" target="_blank">Discord</a></li>
 <li><a href="https://www.reddit.com/r/BTCZCommunity/" target="_blank">Reddit</a></li>
-</ul> 
+</ul>
 <!--<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" class="smooth-scroll" target="_blank">ANN</a></li>-->
 <li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Lang</a>
 <ul class="sub-menu">
@@ -416,7 +416,7 @@
 </div>
 </div>
 <div class="col-md-3 col-sm-4">
-<a href="https://trade.cryptobroker.io/markets/btczbtc" target="_blank"><img src="/img/1.png"></img></a>
+<!-- <a href="https://trade.cryptobroker.io/markets/btczbtc" target="_blank"><img src="/img/1.png"></img></a> -->
 </div>
 <div class="col-md-3 col-sm-4">
 <a href="https://tradesatoshi.com/Exchange?market=BTCZ_BTC" target="_blank"><img src="/img/2.png"></img></a>
