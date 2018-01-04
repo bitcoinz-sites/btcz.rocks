@@ -11,6 +11,7 @@ return [
     'ANN' => 'ANN',
     'Benefits' => 'Benefits',
     'Bitcoin 2.0:' => 'Bitcoin 2.0:',
+    'Bitcointalk ANN Thread', 'Bitcointalk ANN Thread',
     'BitcoinZ is a new type of payment calculation. Choose your coin' => 'BitcoinZ is a new type of payment calculation. Choose your coin',
     'Bitcoinz is' => 'Bitcoinz is',
     'BitcoinZ: The true Bitcoin 2.0' => 'BitcoinZ: The true Bitcoin 2.0',
@@ -18,6 +19,7 @@ return [
     'details' => 'details',
     'Exchange' => 'Exchange',
     'Explorer' => 'Explorer',
+    'Guides' => 'Guides',
     'Home' => 'Home',
     'Important' => 'Important',
     "It's your coin" => "It's your coin",
@@ -30,5 +32,4 @@ return [
     'Wallets' => 'Wallets',
     'Welcome to the decentralization' => 'Welcome to the decentralization',
     'Your Financial Freedom - BitcoinZ' => 'Your Financial Freedom - BitcoinZ',
-    'Bitcointalk ANN Thread', 'Bitcointalk ANN Thread',
 ];

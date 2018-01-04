@@ -38,6 +38,7 @@ gtag("config", "<?= $t['google-analytics-id']; ?>");
                         <li><a href="#benefist" class="smooth-scroll"><?= $t['Benefits']; ?></a></li>
                         <li><a href="#exchange" class="smooth-scroll"><?= $t['Exchange']; ?></a></li>
                         <li><a href="#wallets" class="smooth-scroll"><?= $t['Wallets']; ?></a></li>
+                        <li><a href="http://bitcoinzguiding.ovh" class="smooth-scroll" target="_blank"><?= $t['Guides']; ?></a></li>
                         <li>
                             <a href="#" class="smooth-scroll"><?= $t['Pools']; ?></a>
                             <ul>
@@ -81,6 +82,7 @@ gtag("config", "<?= $t['google-analytics-id']; ?>");
                             <li><a href="#benefist" class="smooth-scroll"><?= $t['Benefits']; ?></a></li>
                             <li><a href="#exchange" class="smooth-scroll"><?= $t['Exchange']; ?></a></li>
                             <li><a href="#wallets" class="smooth-scroll"><?= $t['Wallets']; ?></a></li>
+                            <li><a href="http://bitcoinzguiding.ovh" class="smooth-scroll" target="_blank"><?= $t['Guides']; ?></a></li>
                             <li class="menu-item-has-children current-menu-item">
                                 <a href="#" class="smooth-scroll"><?= $t['Pools']; ?></a>
                                 <ul class="sub-menu">
@@ -123,7 +125,8 @@ gtag("config", "<?= $t['google-analytics-id']; ?>");
                                 <div class="col-md-12">
                                     <div class="heading-title-big"><br><?= $t["It's your coin"]; ?><br><span>BitcoinZ: The True Bitcoin 2.0</span></div>
 <div class="description-slide">Welcome to the decentralization</div>
-<div class="buttons-section"><a href="<?php echo $t['community-paper-link']; ?>" target="_blank" class="btn dark-btn large-btn"><?php echo $t['Community Paper']; ?></a><a href="https://connect.bitcoinz.global/" class="btn dark-btn large-btn" target="_blank">READ MORE</a><a href="https://bitcoinz.global/donations/" class="btn dark-btn large-btn" target="_blank">Donate</a><br><br><center><script type="text/javascript" src="/api.js"></script><div class="coinmarketcap-currency-widget" data-currency="bitcoinz" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center>
+<div class="buttons-section"><a href="<?php echo $t['community-paper-link']; ?>" target="_blank" class="btn dark-btn large-btn"><?php echo $t['Community Paper']; ?></a><a href="https://youtu.be/RI-V7n8amFk" target="_blank" class="btn dark-btn large-btn">Start Mining</a><a href="https://info.btcz.rocks/" class="btn dark-btn large-btn" target="_blank">Latest News</a><a href="https://btcz.fund/" class="btn dark-btn large-btn" target="_blank">Donate</a><br><br><center><script type="text/javascript" src="/api.js"></script><div class="coinmarketcap-currency-widget" data-currency="bitcoinz" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center>
+
 </div>
 </div>
 </div>
