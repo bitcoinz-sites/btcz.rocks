@@ -31,8 +31,8 @@
 <ul class="sf-menu">
 <!--Menu default-->
 <li><a href="/media/Community_Paper_Final.pdf">Gemenskapspapper</a>
-<li><a href="#benefist" class="smooth-scroll">fördelar</a></li>
-<li><a href="#exchange" class="smooth-scroll">Utbyta</a></li>
+<li><a href="#benefist" class="smooth-scroll">Fördelar</a></li>
+<li><a href="#exchange" class="smooth-scroll">Börser</a></li>
 <li><a href="#wallets" class="smooth-scroll">Plånböcker</a></li>
 <li><a href="#" class="smooth-scroll">Pools</a>
 <ul>
@@ -41,13 +41,13 @@ include_once '../pools.php';
 ?>
 <li><a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank">Och mer på forumet bitcointalk</a></li>
 </ul></li>
-<li><a href="#" class="smooth-scroll">upptäckts</a>
+<li><a href="#" class="smooth-scroll">Explorer</a>
 <ul>
 <?php
 include_once '../explorer.php';
 ?>
 </ul></li>
-<li><a href="#" class="smooth-scroll">Social</a>
+<li><a href="#" class="smooth-scroll">Socialt</a>
 <ul>
 <?php
 include_once '../social.php';
@@ -74,15 +74,15 @@ include_once '../langmobile.php';
 ?>
 </ul></li>
 <li><a href="/media/Community_Paper_Final.pdf">Gemenskapspapper</a></li>
-<li><a href="#benefist" class="smooth-scroll">fördelar</a></li>
-<li><a href="#exchange" class="smooth-scroll">Utbyta</a></li>
+<li><a href="#benefist" class="smooth-scroll">Fördelar</a></li>
+<li><a href="#exchange" class="smooth-scroll">Börser</a></li>
 <li><a href="#wallets" class="smooth-scroll">Plånböcker</a></li>
 <li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Pools</a>
 <ul class="sub-menu"><br>
 <?php
 include_once '../poolsmobile.php';
 ?>
-<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank">Och mer på forumet bitcointalk</a></li>
+<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank">Fler..</a></li>
 </ul></li>
 <li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Explorer</a>
 <ul class="sub-menu"><br>
@@ -90,7 +90,7 @@ include_once '../poolsmobile.php';
 include_once '../explorermobile.php';
 ?>
 </ul></li>
-<li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Social</a>
+<li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Socialt</a>
 <ul class="sub-menu"><br>
 <?php
 include_once '../socialmobile.php';
@@ -117,9 +117,9 @@ include_once '../socialmobile.php';
 <div class="container">
 <div class="row">
 <div class="col-md-12">
-<div class="heading-title-big"><br>Det är ditt mynt <br><span>BitcoinZ: ÄR Bitcoin 2.0</span></div>
+<div class="heading-title-big"><br>Det är ditt mynt <br><span>BitcoinZ: är Bitcoin 2.0</span></div>
 <div class="description-slide">Välkommen till decentraliseringen</div>
-<div class="buttons-section">&nbsp;&nbsp;<a href="/media/Community_Paper_Final.pdf" class="btn dark-btn large-btn">Gemenskapspapper</a><a href="https://connect.bitcoinz.global/" class="btn dark-btn large-btn" target="_blank">LÄS MER</a><a href="https://bitcoinz.global/donations/" class="btn dark-btn large-btn" target="_blank">Donate</a><br><br><center><script type="text/javascript" src="/api.js"></script><div class="coinmarketcap-currency-widget" data-currency="bitcoinz" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center>
+<div class="buttons-section">&nbsp;&nbsp;<a href="/media/Community_Paper_Final.pdf" class="btn dark-btn large-btn">Gemenskapspapper</a><a href="https://connect.bitcoinz.global/" class="btn dark-btn large-btn" target="_blank">LÄS MER</a><a href="https://bitcoinz.global/donations/" class="btn dark-btn large-btn" target="_blank">Donera</a><br><br><center><script type="text/javascript" src="/api.js"></script><div class="coinmarketcap-currency-widget" data-currency="bitcoinz" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center>
 </div>
 </div>
 </div>
@@ -147,7 +147,7 @@ include_once '../socialmobile.php';
 <div class="row">
 <div class="col-md-8 col-md-push-2">
 <div class="heading-title center">
-<h2>OM <span>MUNTEN</span></h2>
+<h2>OM <span>MYNTEN</span></h2>
 <!--<div class="small-desd">We create <span>awesome stuff</span></div>
 <p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum</p>-->
 </div>
@@ -161,8 +161,7 @@ include_once '../socialmobile.php';
 </div>
 <div class="content">
 <h3>VIKTIGA  <span>UPPGIFTER</span></h3>
-<p>- Säkerhetskopiera din plånbok på många ställen<br>- Spara stora mängder mynt i kalla plånböcker i anonyma adresser<br>- Ge inte / skicka någon till dina privata nycklar. Privat nyckel är det enda du behöver för att äga dina adressmynt. Om du ger eller skickar någon din privata nyckel, betrakta den som en röd flagga och flytta snabbt dina mynt till annan adress</p>
-
+<p>- Säkerhetskopiera din plånbok på många ställen<br>- -	Lagra tjocka plånböcker offline i annonyma adresser<br>- Ge / skicka aldrig dina privata nycklar. Privata nycklar är det ända som behövs för att äga dina adresser. Om du nu råkar ge någon dina privata nycklar, flagga detta direkt och flytta dina mynt till annan adress</p>
 </div>
 </div>
 </div>
@@ -173,7 +172,7 @@ include_once '../socialmobile.php';
 </div>
 <div class="content">
 <h3>BitcoinZ ÄR <span>Bitcoin 2.0:</span></h3>
-<p>- Bitcoin-teknik<br>- Anonyma transaktioner (sekretess för zk-SNARK) - Bitcoin har alla transaktioner allmänt tillgängliga.<br>- decentraliserad GPU-gruvdrift (ASIC-gruvarbetare är förbjudna, hardforks för att förhindra ASIC-gruvarbetare är tillåtna)<br>- Decentraliserad utveckling / Alla bidragsgivare är volontärer<br>- Stora block -> block liknar BCC / BCH</p>
+<p>- Bitcoin-teknik<br>- Anonyma transaktioner (zk-SNARK) - Bitcoin har alla transaktioner allmänt tillgängliga.<br>- Decentraliserad GPU mining (ASIC miners är förbjudna, hardforks för att förhindra ASIC miners är tillåtet)<br>- Decentraliserad utveckling / Alla bidragsgivare är volontärer<br>- Stora block -> Likt BCC och BCH</p>
 </div>
 </div>
 </div>
@@ -183,8 +182,8 @@ include_once '../socialmobile.php';
 <div class="bg-icon"><i class="pe-7s-light"></i></div>
 </div>
 <div class="content">
-<h3>AKTIVA  <span>GEMENSKAPEN</span></h3>
-<p>Vårt samhälle är aktivt och vi utvecklar alltid. <br>Du kan följa oss i sociala nätverk, på forumet och på Slack</p>
+<h3>AKTIV <span>GEMENSKAP</span></h3>
+<p>Vår gemenskap är aktiv och vi utvecklar alltid. <br>Du kan följa oss i sociala nätverk, på forumet och på Slack</p>
 </div>
 </div>
 </div>
@@ -197,7 +196,7 @@ include_once '../socialmobile.php';
 <div class="row">
 <div class="col-md-8 col-md-push-2">
 <div class="heading-title small-heading center">
-<h2>fördelar <span>BitcoinZ</span></h2>
+<h2>Fördelar med<span>BitcoinZ</span></h2>
 <!--<p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum</p>-->
 </div>
 </div>
@@ -215,38 +214,38 @@ include_once '../socialmobile.php';
 <h4>Snabba transaktioner</h4>
 <p>BTCZ = 2 MB varje 2,5 minut ~</p></a></li>
 <li class="animated-service anim-shadow"><a href="#tabs-4"><i class="pe-7s-map"></i>
-<h4>Cirkulerande försörjning</h4>
-<p>12500 mynt var 2,5: e minut.</p></a></li>
+<h4>Cirkulerande tillförsel</h4>
+<p>12500 mynt var 2,5:e minut.</p></a></li>
 </ul>
 <div id="dots-control-tabs" class="dots-control-carousel"></div>
 <!--Start tabs-->
 <div id="tabs-1">
 <div class="col-md-6">
 <div class="head-service small-head text-left">
-<h2>Vårt mål är att porta all bästa gratis programvara på marknaden <span>för att kunna använda i BitcoinZ</span></h2>
-<p>Immutable Params:</p>
+<h2>Vårt mål är att porta de bästa programvarorna som är gratis på marknaden <span>för att kunna använda i BitcoinZ</span></h2>
+<p>Oföränderliga parametrar:</p>
 </div>
-<p>- maxtillförsel </p>
-<p>- inflation </p>
-<p>- endast POW-algo - vi kan ändra Equihash algo till andra POW-algor för att förhindra ASIC-gruvarbetare </p>
-<p>- Nya funktioner får förbättra användningen / skalbarheten, men vi kommer aldrig att ändra historia (ETH / ETC-fall) </p>
+<p>- Maxtillförsel</p>
+<p>- Inflation</p>
+<p>- Endast POW-algo - vi kan komma att förändra Equihash algo till andra POW-algor för att förhindra ASIC miners</p>
+<p>- Nya funktioner är tillåtet för att förbättra användningen / skalbarheten, men vi kommer aldrig att ändra historia (ETH / ETC-fall)</p>
 </div>
 <div class="col-md-5 col-md-push-1">
 <ul class="list">
-<li>Algo: Equihash (alltid GPU-gruvdrift - vi främjar decentralisering i gruvdrift) </li>
-<li>Max leverans 21B mynt</li>
-<li>Nuvarande leverans: 12500 mynt var 2,5: e minut</li>
-<li>Nuvarande blockstorlek liknar BCC / BCH (BTCZ = 2 MB varje 2,5 min ~ BCC / BCH = 8 MB var 10: e minut)</li>
+<li>Algo: Equihash (alltid GPU mining - vi främjar decentralisering i mining) </li>
+<li>Max leverans 21 miljarder mynt</li>
+<li>Nuvarande leverans: 12500 mynt var 2,5:e minut</li>
+<li>Nuvarande blockstorlek liknar BCC / BCH (BTCZ = 2 MB varje 2,5 min ~ BCC / BCH = 8 MB var 10:e minut)</li>
 </ul>
 </div>
 </div>
 <div id="tabs-2">
 <div class="col-md-6">
 <div class="head-service small-head text-left">
-<h2>Den säkraste mjukvaran ingår i<span>bitcoinz-pod / bitcoinz Linux-klienten.</span></h2>
-<p>Känsliga dataprogram som plånböcker ska ge fri öppen källkod och sha256 till sina utgåvor för att kunna granska sina plånböcker av andra lag / pods. Det rekommenderas inte att använda någon plånbok som inte har granskats av andra lag.</p>
+<h2>Den säkraste mjukvaran inkluderas i Linux-klienten <span>bitcoinz-pod/bitcoinz.</span></h2>
+<p>Känsliga dataprogram som plånböcker ska vara öppna källkoder och sha256 till sina utgåvor för att kunna granska sina plånböcker av andra team / pods. Det rekommenderas inte att använda någon plånbok som inte har granskats av andra team.</p>
 </div>
-<p>Programvara utan några bekräftelser bör behandlas som röd flagga och inte användas</p>
+<p>Programvara utan några bekräftelser bör flaggas och skall inte användas</p>
 </div>
 <!--<div class="col-md-5 col-md-push-1">
 <ul class="list">
@@ -341,7 +340,7 @@ include_once '../socialmobile.php';
 <div class="icon icon-circle"><i class="pe-7s-light"></i></div>
 </div>
 <h3>Stöd för olika plattformar</h3>
-<p>Vår plånbok är kompatibel med Linux, Windows, IOS och Android.</p>
+<p>Vår plånbok är kompatibel med Linux, Windows, Mac, iOS och Android.</p>
 </div>
 <!-- Item-->
 <div class="col-md-3 col-sm-6 col-xs-12 item-icon">
@@ -349,7 +348,7 @@ include_once '../socialmobile.php';
 <div class="icon icon-circle"><i class="pe-7s-like2"></i></div>
 </div>
 <h3>GEMENSKAP</h3>
-<p>Vi lyssnar på vårt kära samhälle, så vi kan lyckas.</p>
+<p>Vi lyssnar på vårt gemenskap, så vi kan lyckas.</p>
 </div>
 <!-- Item-->
 <div class="col-md-3 col-sm-6 col-xs-12 item-icon">
@@ -369,8 +368,8 @@ include_once '../socialmobile.php';
 <div class="row">
 <div class="col-md-3">
 <div class="heading-title small-heading text-left">
-<h2>utbyten</h2>
-<p>Köp eller sälj dina mynt BitcoinZ </p>
+<h2>Börser</h2>
+<p>Köp eller sälj dina BitcoinZ mynt</p>
 </div>
 </div>
 <?php
@@ -383,8 +382,8 @@ include_once '../exchange.php';
 <div class="row">
 <div class="col-md-12">
 <div class="heading-title center">
-<h2>Ladda ner <span>plånboken</span></h2>
-<p>Linux, Windows och mobil plånböcker</p>
+<h2>Ladda ner <span>plånbok</span></h2>
+<p>Linux, Windows, Mac och mobila plånböcker</p>
 </div>
 <div class="controls-portfolio center">
 <?php
@@ -412,8 +411,8 @@ include_once '../roadmap.php';
 <div class="row">
 <div class="col-md-8 col-md-push-2">
 <div class="heading-title center">
-<h2>Varför välj <span>BitcoinZ</span></h2>
-<div class="small-desd">HÄR ÄR VISSA  <span> SKÄL</span></div>
+<h2>Varför välja <span>BitcoinZ</span></h2>
+<div class="small-desd">HÄR ÄR VISSA <span> SKÄL</span></div>
 <p>VARNING. Kom alltid ihåg om fallgroparna och behåll dina backupnycklar på ett säkert ställe!</p>
 </div>
 </div>
@@ -424,8 +423,8 @@ include_once '../roadmap.php';
 <div class="item-about item-choose">
 <div class="content">
 <h3>DECENTRALISERAD MINING</h3>
-<p>Som gruvarbetare borde du inte använda de största poolerna för att följa huvudprinciperna.<br>
-Lätt att gruva<br>
+<p>Som miner borde du inte använda de största poolerna för att följa huvudprinciperna.<br>
+Lätt att mine:a<br>
 Equihash algoritm.<br>
 Decentraliserad utbyte</p>
 </div>
@@ -438,8 +437,8 @@ Decentraliserad utbyte</p>
 <div class="bg-icon"><i class="pe-7s-light"></i></div>
 </div>
 <div class="content">
-<h3>INGEN <span>förgruva</span></h3>
-<p>Rent mynt. Ingen förgruva</p>
+<h3>INGEN <span>pre-mine</span></h3>
+<p>Rent mynt. Ingen pre-mine</p>
 </div>
 </div>
 </div>
@@ -464,8 +463,8 @@ Decentraliserad utbyte</p>
 <div class="bg-icon"><i class="pe-7s-like"></i></div>
 </div>
 <div class="content">
-<h3>AKTIVA  <span>GEMENSKAPEN</span></h3>
-<p>Vårt samhälle utvecklas och växer aktivt varje dag.</p>
+<h3>AKTIV  <span>GEMENSKAP</span></h3>
+<p>Vårt gemenskap utvecklas och växer aktivt varje dag.</p>
 </div>
 </div>
 </div>
@@ -476,7 +475,7 @@ Decentraliserad utbyte</p>
 <div class="bg-icon"><i class="pe-7s-help2"></i></div>
 </div>
 <div class="content">
-<h3>ANONYMOUS <span>TRANSACTIONS</span></h3>
+<h3>ANNONYMA <span>TRANSACKTIONER</span></h3>
 <p>Alla transaktioner förblir anonyma. Så du behöver inte oroa dig för anonymitet</p>
 </div>
 </div>
@@ -489,7 +488,7 @@ Decentraliserad utbyte</p>
 </div>
 <div class="content">
 <h3>ANDROID OCH IOS <span>PLÅNBOK</span></h3>
-<p>Använd bitcoinz mynt i dina smartphones</p>
+<p>Använd BitcoinZ mynt i din smartphone</p>
 </div>
 </div>
 </div>
@@ -502,7 +501,7 @@ Decentraliserad utbyte</p>
 <div class="bg-icon"><i class="pe-7s-display1"></i></div>
 </div>
 <div class="content">
-<h3><span>NATURVÄXT</span></h3>
+<h3><span>NATURLIG TILLVÄXT</span></h3>
 <p>Ditt mynt kommer att växa och utvecklas på ett naturligt sätt</p>
 </div>
 </div>
@@ -515,7 +514,7 @@ Decentraliserad utbyte</p>
 </div>
 <div class="content">
 <h3>DECENTRALISERAD <span>UTVECKLING</span></h3>
-<p>Alla utbyten är tillåtna. De bästa är decentraliserade. Vi planerar att genomföra helt decentraliserad XCAT-utbyte</p>
+<p>Alla börser är tillåtna. De bästa är decentraliserade. Vi planerar att genomföra helt decentraliserad XCAT-börs</p>
 </div>
 </div>
 </div>
@@ -526,8 +525,8 @@ Decentraliserad utbyte</p>
 <div class="bg-icon"><i class="pe-7s-paint"></i></div>
 </div>
 <div class="content">
-<h3>ENDAST POW OCH<span>NO POS</span></h3>
-<p>Mynt beräknas endast för POW-gruvning, och kommer aldrig att ändras till POS</p>
+<h3>ENDAST POW OCH <span>INTE POS</span></h3>
+<p>Mynt beräknas endast genom POW mining, och kommer aldrig att ändras till POS</p>
 </div>
 </div>
 </div>
@@ -591,8 +590,8 @@ Decentraliserad utbyte</p>
 <div class="col-md-12">
 <p>© 2017 BitcoinZ Gemenskap. Alla rättigheter förbehållna</p>
 <ul class="footer-menu">
-<li><a href="#benefist" class="smooth-scroll">fördelar</a></li>
-<li><a href="#exchange" class="smooth-scroll">Utbyta</a></li>
+<li><a href="#benefist" class="smooth-scroll">Fördelar</a></li>
+<li><a href="#exchange" class="smooth-scroll">Börser</a></li>
 <li><a href="#wallets" class="smooth-scroll">Plånböcker</a></li>
 <li><a href="https://bitcointalk.org/index.php?topic=2166510.0" class="smooth-scroll" target="_blank">Forum bitcointalk</a></li>
 </ul>
