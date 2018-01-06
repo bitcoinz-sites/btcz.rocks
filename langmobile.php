@@ -1,5 +1,5 @@
 <li><a href="/en/"><img src="/lang/img/en.png" class="lang_img">English</a></li>
-<li><a href="/al/"><img src="/lang/img/al.png" class="lang_img">Albenian</a></li>
+<li><a href="/al/"><img src="/lang/img/al.png" class="lang_img">Albanian</a></li>
 <li><a href="/bg/"><img src="/lang/img/bl.png" class="lang_img">Bulgarian</a></li>
 <li><a href="/zh/"><img src="/lang/img/ta.png" class="lang_img">Chinese (traditional)</a></li>
 <li><a href="/cn/"><img src="/lang/img/china.png" class="lang_img">Chinese (simplified)</a></li>
