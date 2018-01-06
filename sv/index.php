@@ -160,8 +160,8 @@ include_once '../socialmobile.php';
 <div class="bg-icon"><i class="pe-7s-target"></i></div>
 </div>
 <div class="content">
-<h3>VIKTIGA  <span>UPPGIFTER</span></h3>
-<p>- Säkerhetskopiera din plånbok på många ställen<br>- -	Lagra tjocka plånböcker offline i annonyma adresser<br>- Ge / skicka aldrig dina privata nycklar. Privata nycklar är det ända som behövs för att äga dina adresser. Om du nu råkar ge någon dina privata nycklar, flagga detta direkt och flytta dina mynt till annan adress</p>
+<h3>VIKTIGA <span>UPPGIFTER</span></h3>
+<p>- Säkerhetskopiera din plånbok på många ställen<br>- Lagra tjocka plånböcker offline i annonyma adresser<br>- Ge / skicka aldrig dina privata nycklar. Privata nycklar är det ända som behövs för att äga dina adresser. Om du nu råkar ge någon dina privata nycklar, flagga detta direkt och flytta dina mynt till annan adress</p>
 </div>
 </div>
 </div>
