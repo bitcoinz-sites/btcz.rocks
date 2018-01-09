@@ -41,7 +41,7 @@ include_once '../pools.php';
 ?>
 <li><a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank">And more on the forum bitcointalk</a></li>
 </ul></li>
-<li><a href="#" class="smooth-scroll">Erkundschafter</a>
+<li><a href="#" class="smooth-scroll">Explorer</a>
 <ul>
 <?php
 include_once '../explorer.php';
@@ -84,7 +84,7 @@ include_once '../poolsmobile.php';
 ?>
 <li><a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank">And more...</a></li>
 </ul></li>
-<li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Erkundschafter </a>
+<li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Explorer </a>
 <ul class="sub-menu">
 <?php
 include_once '../explorermobile.php';
@@ -161,7 +161,7 @@ include_once '../socialmobile.php';
 </div>
 <div class="content">
 <h3>WICHTIGE <span>DETAILS</span></h3>
-<p>- Sichere deine Brieftasche an mehreren Orten<br>- Lagere große Mengen an Münzen in kalten Brieftaschen (Cold Wallets) mit anonymen Adressen<br>- Gebe/ Sende niemals irgendwem deine privaten Schlüssel. Es ist jediglich der private Schlüssel nötig um an deine Münz Adressen herran zu kommen. Solltest du dennoch jemandem unabsichtlich deinen privaten Schlüssel gegeben haben, dann setze die rote Flagge und schicke deine Münzen schnell an eine andere Adresse.</p>
+<p>- Sichere deine Brieftasche an mehreren Orten<br>- Lagere große Mengen an Münzen in kalten Brieftaschen (Cold Wallets) mit anonymen Adressen<br>- Gib niemals irgendjemanden deine privaten Schlüssel. Es ist lediglich der private Schlüssel nötig um Kontrolle über deine Münzen zu bekommen. Solltest du dennoch jemandem unabsichtlich deinen privaten Schlüssel gegeben haben, dann überweise dein Guthaben so schnell wie möglich an eine neue, sichere Adresse.</p>
 </div>
 </div>
 </div>
@@ -172,7 +172,7 @@ include_once '../socialmobile.php';
 </div>
 <div class="content">
 <h3>BitcoinZ ist  <span>Bitcoin 2.0:</span></h3>
-<p>- Bitcoin-Technologie<br>- Anonyme Transaktionen (zk-SNARKs Privatsphäre) - Bitcoin hat alle Transaktionen öffentlich verfügbar.<br>- dezentraler GPU-Abbau (ASIC-Miner sind verboten, Hardforks zur Vermeidung von ASIC-Miner sind erlaubt)<br>- Dezentrale Entwicklung / Alle Mitwirkenden sind Freiwillige<br>- Große Blöcke -> Blöcke ähneln BCC / BCH</p>
+<p>- Bitcoin-Technologie<br>- Anonyme Transaktionen (zk-SNARKs Privatsphäre) - Bei Bitcoin sind alle Transaktionen öffentlich einsehbar.<br>- dezentrales GPU-Mining (ASIC-Miner sind verboten, Hardforks zur Vermeidung von ASIC-Minern sind erlaubt)<br>- Dezentrale Entwicklung / Alle Mitwirkenden sind Freiwillige<br>- Große Blöcke -> Blöcke ähneln BCC / BCH</p>
 </div>
 </div>
 </div>
@@ -183,7 +183,7 @@ include_once '../socialmobile.php';
 </div>
 <div class="content">
 <h3>Aktive  <span>Gemeinschaft</span></h3>
-<p>Unsere Gemeinschaft ist aktiv und wir entwickeln uns immer weiter. <br>Sie können uns in sozialen Netzwerken folgen, auf dem Forum, sowie Slack</p>
+<p>Unsere Gemeinschaft ist aktiv und wir entwickeln uns immer weiter. <br>Folge uns in sozialen Netzwerken, im Forum, sowie Slack</p>
 </div>
 </div>
 </div>
@@ -206,9 +206,9 @@ include_once '../socialmobile.php';
 <ul class="services-carousel">
 <li class="animated-service anim-shadow"><a href="#tabs-1"><i class="pe-7s-graph"></i>
 <h4>Max Versorgung</h4>
-<p>21 000 000 000 btcz.</p></a></li>
+<p>21 000 000 000 BTCZ.</p></a></li>
 <li class="animated-service anim-shadow"><a href="#tabs-2"><i class="pe-7s-drop"></i>
-<h4>Algorythmus</h4>
+<h4>Algorithmus</h4>
 <p>Equihash.</p></a></li>
 <li class="animated-service anim-shadow"><a href="#tabs-3"><i class="pe-7s-timer"></i>
 <h4>Schnelle Transaktionen</h4>
@@ -227,12 +227,12 @@ include_once '../socialmobile.php';
 </div>
 <p>- maximale Versorgung </p>
 <p>- Inflation </p>
-<p>- nur POW algo - wir können Equihash algo zu anderen POW algo ändern, um ASIC Miner zu verhindern</p>
+<p>- nur POW algo - wir können vom aktuellen Equihash Algorithmus zu einem anderen Proof-of-Work (POW) Algorithmus wechseln, um ASIC Miner zu verhindern</p>
 <p>- neue Funktionen können die Nutzung / Skalierbarkeit verbessern, aber wir werden nie die Geschichte ändern (ETH / ETC-Fall) </p>
 </div>
 <div class="col-md-5 col-md-push-1">
 <ul class="list">
-<li>Algorythmus: Equihash (immer GPU-Mining - wir fördern die Dezentralisierung im Bergbau) </li>
+<li>Algorithmus: Equihash (immer GPU-Mining - wir fördern die Dezentralisierung beim Abbau) </li>
 <li>Max Versorgung: 21B Münzen</li>
 <li>Stromversorgung: 12500 Münzen alle 2,5 Minuten</li>
 <li>Die aktuelle Blockgröße ist ähnlich zu BCC / BCH (BTCZ = 2 MB alle 2,5 Minuten ~ BCC / BCH = 8 MB alle 10 Minuten)</li>
@@ -243,7 +243,7 @@ include_once '../socialmobile.php';
 <div class="col-md-6">
 <div class="head-service small-head text-left">
 <h2>BitcoinZ-pod/BitcoinZ Klienten beinhalten  <span>die sicherste Software.</span></h2>
-<p>Sensible Daten Programme wie die Brieftaschen sollten einen freien Quellcode (Open Source Code) und einen Sha256 bei der Veröffentlichung zur Verfügung stellen, damit andere Teams diese Brieftaschen überprüfen können. Es ist nicht üblich irgendeine Brieftasche zu wählen, welche von noch keinem Team überprüft wurde. </p>
+<p>Sensible Programme wie die Wallets (Brieftaschen) sollten ihren Quellcode und einen Sha256 bei der Veröffentlichung zur Verfügung stellen (=Open Source Code), damit andere Teams diese Brieftaschen überprüfen können. Es ist nicht üblich und ratsam Wallets zu wählen, welche noch nicht von unabhängigen Softwareentwicklern überprüft wurden. </p>
 </div>
 <p>Software ohne Bestätigungen sollten mit der roten Flagge versehen und nicht genutzt werden. </p>
 </div>
@@ -340,7 +340,7 @@ include_once '../socialmobile.php';
 <div class="icon icon-circle"><i class="pe-7s-light"></i></div>
 </div>
 <h3>UNTERSTÜTZUNG FÜR VERSCHIEDENE PLATTFORMEN</h3>
-<p>OUnsere Brieftasche ist mit Linux, Windows, iOS und Android kompatibel. Und wir arbeiten ständig an Verbesserungen</p>
+<p>Unsere Wallet (Brieftasche) ist mit Linux, Windows, iOS und Android kompatibel. Wir arbeiten auch ständig daran, unsere Wallets zu verbessern.</p>
 </div>
 <!-- Item-->
 <div class="col-md-3 col-sm-6 col-xs-12 item-icon">
@@ -348,7 +348,7 @@ include_once '../socialmobile.php';
 <div class="icon icon-circle"><i class="pe-7s-like2"></i></div>
 </div>
 <h3>GEMEINSCHAFT</h3>
-<p>Wir hören auf unsere geliebte Gemeinschaft, nur so kann es gelingen.</p>
+<p>Wir hören auf unsere Community, nur so kann es gelingen.</p>
 </div>
 <!-- Item-->
 <div class="col-md-3 col-sm-6 col-xs-12 item-icon">
@@ -356,7 +356,7 @@ include_once '../socialmobile.php';
 <div class="icon icon-circle"><i class="pe-7s-graph1"></i></div>
 </div>
 <h3>STETIGER PREIS WACHSTUM</h3>
-<p>BitcoinZ konzentriert sich auf organischen Wachstum.</p>
+<p>BitcoinZ konzentriert sich auf organisches Wachstum.</p>
 </div>
 <!-- Edn items-->
 </div>
@@ -382,8 +382,8 @@ include_once '../exchange.php';
 <div class="row">
 <div class="col-md-12">
 <div class="heading-title center">
-<h2>Herunterladen <span>brieftaschen</span></h2>
-<p>Linux, Windows und mobile Geldbeutel</p>
+<h2>Herunterladen <span>Wallets</span></h2>
+<p>Linux, Windows und mobile Wallets</p>
 </div>
 <div class="controls-portfolio center">
 <?php
@@ -413,7 +413,7 @@ include_once '../roadmap.php';
 <div class="heading-title center">
 <h2>WARUM <span>BitcoinZ WÄHLEN?</span></h2>
 <div class="small-desd">HIER SIND EINIGE  <span> GRÜNDE</span></div>
-<p>WARNUNG. Bedenke alle Fallen und behalte deine Sicherungsschlüssel an einem gut gesichterem Ort!</p>
+<p>WARNUNG. Sei vorsichtig und behalte deine Zugangsschlüssel an einem gut gesichteren Ort!</p>
 </div>
 </div>
 </div>
@@ -423,7 +423,7 @@ include_once '../roadmap.php';
 <div class="item-about item-choose">
 <div class="content">
 <h3>DEZENTRALISIERTES MINING</h3>
-<p>Als Miner solltest du nicht einfach auf dem größten Pool herstellen.<br>
+<p>Als Miner solltest du nicht einfach den größten Pool wählen.<br>
 Einfach zu minen.<br>
 Equihash Algorythmus.<br>
 Dezentralisierte Austauschbörsen.</p>
@@ -476,7 +476,7 @@ Dezentralisierte Austauschbörsen.</p>
 </div>
 <div class="content">
 <h3>ANONYME  <span>TRANSAKTIONEN</span></h3>
-<p>Alle transaktionen verbleiben anonym. Also brauchst du dir wegen der Anonymität keine Sorgen machen.</p>
+<p>Alle Transaktionen bleiben anonym. Du musst dir also wegen der Anonymität keine Sorgen machen.</p>
 </div>
 </div>
 </div>
@@ -514,7 +514,7 @@ Dezentralisierte Austauschbörsen.</p>
 </div>
 <div class="content">
 <h3>DEZENTRALISIERTE <span>ENTWICKLUNG</span></h3>
-<p>Alle Austauschbörsen sind erlaubt. Dezentralisierte sind die besten. Wir planen den dezentralisierten XCAT Austausch zu implementieren</p>
+<p>Alle Börsen sind erlaubt. Dezentralisierte sind die besten. Wir planen den dezentralisierten XCAT Austausch zu implementieren</p>
 </div>
 </div>
 </div>
@@ -526,7 +526,7 @@ Dezentralisierte Austauschbörsen.</p>
 </div>
 <div class="content">
 <h3>NUR POW UND <span>KEIN POS</span></h3>
-<p>Die münze wurde ausschliesslich zum POW minen kalkuliert, und wird niemals auf POS wechseln</p>
+<p>Die Münze wurde ausschliesslich zum POW minen entworfen, und wird niemals auf POS wechseln</p>
 </div>
 </div>
 </div>
