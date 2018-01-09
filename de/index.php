@@ -382,7 +382,7 @@ include_once '../exchange.php';
 <div class="row">
 <div class="col-md-12">
 <div class="heading-title center">
-<h2>Herunterladen <span>Wallets</span></h2>
+<h2>Wallets <span>herunterladen</span></h2>
 <p>Linux, Windows und mobile Wallets</p>
 </div>
 <div class="controls-portfolio center">
