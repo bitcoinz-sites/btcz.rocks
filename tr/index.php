@@ -11,7 +11,7 @@
   gtag('config', 'UA-108218482-1');
 </script>
 <meta charset="utf-8">
-<title>Mali Özgürlükiniz - BitcoinZ</title>
+<title>Mali Özgürlüğünüz - BitcoinZ</title>
 <meta name="description" content="BitcoinZ, yeni bir ödeme hesaplama türüdür. Paranı seç" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -32,16 +32,16 @@
 <!--Menu default-->
 <li><a href="/media/Community_Paper_Final.pdf">Topluluk Kağıdı</a>
 <li><a href="#benefist" class="smooth-scroll">Yararları</a></li>
-<li><a href="#exchange" class="smooth-scroll">Değiş tokuş</a></li>
-<li><a href="#wallets" class="smooth-scroll">cüzdan</a></li>
+<li><a href="#exchange" class="smooth-scroll">Değiş Tokuş</a></li>
+<li><a href="#wallets" class="smooth-scroll">Cüzdan</a></li>
 <li><a href="#" class="smooth-scroll">Havuzlar</a>
 <ul>
 <?php
 include_once '../pools.php';
 ?>
-<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank">And more on the forum bitcointalk</a></li>
+<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank">Daha Fazlası...</a></li>
 </ul></li>
-<li><a href="#" class="smooth-scroll">kâşif</a>
+<li><a href="#" class="smooth-scroll">Kâşif</a>
 <ul>
 <?php
 include_once '../explorer.php';
@@ -54,7 +54,7 @@ include_once '../social.php';
 ?>
 </ul> 
 <!--<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" class="smooth-scroll" target="_blank">ANN</a></li>-->
-<li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Lang</a>
+<li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Dil</a>
 <ul class="sub-menu">
 <?php
 include_once '../lang.php';
@@ -67,7 +67,7 @@ include_once '../lang.php';
 <div class="inner-wrap">
 <nav>
 <ul class="nav_menu"><br>
-<li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Language</a>
+<li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Dil</a>
 <ul class="sub-menu"><br>
 <?php
 include_once '../langmobile.php';
@@ -75,16 +75,16 @@ include_once '../langmobile.php';
 </ul></li>
 <li><a href="/media/Community_Paper_Final.pdf">Topluluk Kağıdı</a></li>
 <li><a href="#benefist" class="smooth-scroll">Yararları</a></li>
-<li><a href="#exchange" class="smooth-scroll">Değiş tokuş</a></li>
-<li><a href="#wallets" class="smooth-scroll">cüzdan</a></li>
+<li><a href="#exchange" class="smooth-scroll">Değiş Tokuş</a></li>
+<li><a href="#wallets" class="smooth-scroll">Cüzdan</a></li>
 <li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Havuzlar</a>
 <ul class="sub-menu"><br>
 <?php
 include_once '../poolsmobile.php';
 ?>
-<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank">Ve dahası...</a></li>
+<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank">Daha Fazlası...</a></li>
 </ul></li>
-<li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">kâşif</a>
+<li class="menu-item-has-children current-menu-item"><a href="#" class="smooth-scroll">Kâşif</a>
 <ul class="sub-menu"><br>
 <?php
 include_once '../explorermobile.php';
@@ -96,7 +96,7 @@ include_once '../explorermobile.php';
 include_once '../socialmobile.php';
 ?>
 </ul></li>
-<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" class="smooth-scroll" target="_blank">Forum bitcointalk</a>
+<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" class="smooth-scroll" target="_blank">Bitcointalk Forumu</a>
 </ul>
 </nav>
 </div>
@@ -117,8 +117,8 @@ include_once '../socialmobile.php';
 <div class="container">
 <div class="row">
 <div class="col-md-12">
-<div class="heading-title-big"><br>Paranız bu<br><span>BitcoinZ: Gerçek Bitcoin 2.0</span></div>
-<div class="description-slide">Welcome to the decentralization</div>
+<div class="heading-title-big"><br>YENİ PARANIZ<br><span>BITCOINZ: GERÇEK BITCON 2.0</span></div>
+<div class="description-slide">Merkezsiz paraya hoşgeldiniz!</div>
 <div class="buttons-section">&nbsp;&nbsp;<a href="/media/Community_Paper_Final.pdf" class="btn dark-btn large-btn">Topluluk Kağıdı</a><a href="https://connect.bitcoinz.global/" class="btn dark-btn large-btn" target="_blank">DAHA FAZLA OKU</a><a href="https://bitcoinz.global/donations/" class="btn dark-btn large-btn" target="_blank">Donate</a><br><br><center><script type="text/javascript" src="/api.js"></script><div class="coinmarketcap-currency-widget" data-currency="bitcoinz" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center>
 </div>
 </div>
@@ -147,7 +147,7 @@ include_once '../socialmobile.php';
 <div class="row">
 <div class="col-md-8 col-md-push-2">
 <div class="heading-title center">
-<h2>Sikke <span>Hakkında</span></h2>
+<h2>PARA <span>HAKKINDA</span></h2>
 <!--<div class="small-desd">We create <span>awesome stuff</span></div>
 <p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum</p>-->
 </div>
@@ -161,7 +161,12 @@ include_once '../socialmobile.php';
 </div>
 <div class="content">
 <h3>ÖNEMLİ  <span>BİLGİLER</span></h3>
-<p>- Cüzdanınızı bir çok yerde yedekleyin<br>- Anonim adreslerde büyük miktarda paraları soğuk cüzdanlarda saklayın<br>-Kimseye özel anahtarlarınızı vermeyin / göndermeyin. Özel parola, adres paralarınızın olması gereken tek şey. Kimseye özel anahtarınızı veremez veya gönderirseniz lütfen kırmızı bayrak olarak düşünün ve paralarınızı diğer adrese hızlıca taşıyın</p>
+<p>
+- Cüzdanınızı birçok yere yedekleyin.<br>
+- Büyük miktarları birden fazla cüzdana bölün.<br>
+- Kimseye özel anahtarlarınızı vermeyin / göndermeyin! Özel anahtarınız ile cüzdanınıza direk erişilebilir ve işlem yapılabilir.<br>
+- Başkasının özel anahtarınızı görebileceğini düşündüğünüz durumlarda hesabınızda bulunan tüm bitcoinzlerinizi güvenli bir cüzdana ivedilik ile taşıyınız.
+</p>
 
 </div>
 </div>
@@ -172,8 +177,14 @@ include_once '../socialmobile.php';
 <div class="bg-icon"><i class="pe-7s-help2"></i></div>
 </div>
 <div class="content">
-<h3> <span>BITCOINZ, BITCOIN 2.0'dır:</span></h3>
-<p>- Bitcoin teknolojisi<br>- Anonim işlemler (zk-SNARK'ların gizliliği) - Bitcoin, tüm işlemlerin halka açık olduğunu gösterir.<br>- merkezi olmayan GPU madenciliği (ASIC madencileri yasaklandı, ASIC madencilerinin önlenmesine yardımcı olmaktadır)<br>-Bölgesel gelişme / Tüm katkıda bulunanlar gönüllüdür<br>- Büyük bloklar -> bloklar BCC / BCH'ye benzer</p>
+<h3> <span>BITCOINZ, BITCOIN 2.0:</span></h3>
+<p>
+  - Bitcoin teknolojisi<br>
+  - Anonim işlemler (zk-SNARK'ların gizliliği)<br>
+  - Bitcoin, tüm işlemlerin halka açık olduğunu gösterir.<br>
+  - Merkezi olmayan GPU madenciliği ( ASIC ile kazım yapılmasına izin vermemektedir. )<br>
+  - Bu projeye tüm katkıda bulunanlar gönüllüdür. Projenin sahibi yoktur.<br>
+  - Daha büyük bloklar -> Bloklar BCC / BCH'ye benzer.</p>
 </div>
 </div>
 </div>
@@ -184,7 +195,7 @@ include_once '../socialmobile.php';
 </div>
 <div class="content">
 <h3>ETKİLİ <span>TOPLUM</span></h3>
-<p>Topluluğumuz aktif ve biz her zaman gelişiyoruz. <br>Bizi sosyal ağlarda, forumda ve Slack'te takip edebilirsiniz.</p>
+<p>Topluluğumuz aktif ve biz her zaman gelişiyoruz. <br>Bizi sosyal ağlarda, forumda ve slack'te takip edebilirsiniz.</p>
 </div>
 </div>
 </div>
@@ -197,7 +208,7 @@ include_once '../socialmobile.php';
 <div class="row">
 <div class="col-md-8 col-md-push-2">
 <div class="heading-title small-heading center">
-<h2>Yararları <span>BitcoinZ</span></h2>
+<h2>BITCOINZ'NİN <span>YARARLARI</span></h2>
 <!--<p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum</p>-->
 </div>
 </div>
@@ -206,17 +217,17 @@ include_once '../socialmobile.php';
 <div class="tabs services-tabs">
 <ul class="services-carousel">
 <li class="animated-service anim-shadow"><a href="#tabs-1"><i class="pe-7s-graph"></i>
-<h4>Maksimum Tedarik</h4>
-<p>21 000 000 000 btcz.</p></a></li>
+<h4>Maksimum Miktar</h4>
+<p>21.000.000.000 BTCZ</p></a></li>
 <li class="animated-service anim-shadow"><a href="#tabs-2"><i class="pe-7s-drop"></i>
 <h4>Algoritma</h4>
-<p>Equihash.</p></a></li>
+<p>Equihash</p></a></li>
 <li class="animated-service anim-shadow"><a href="#tabs-3"><i class="pe-7s-timer"></i>
 <h4>Hızlı işlemler</h4>
-<p>BTCZ = 2,5 dakikada bir 2MB ~</p></a></li>
+<p>2,5 dakikada bir ~2MB</p></a></li>
 <li class="animated-service anim-shadow"><a href="#tabs-4"><i class="pe-7s-map"></i>
-<h4>Dolaşan Tedarik</h4>
-<p>2.5 dakikada bir 12500 jeton sıkıştı.</p></a></li>
+<h4>Dolaşımlı Arz</h4>
+<p>2.5 dakikada bir 12500 BTCZ dağıtılır</p></a></li>
 </ul>
 <div id="dots-control-tabs" class="dots-control-carousel"></div>
 <!--Start tabs-->
@@ -224,20 +235,24 @@ include_once '../socialmobile.php';
 <div class="col-md-6">
 <div class="head-service small-head text-left">
 <h2>Amacımız, BitcoinZ'de kullanmak için piyasadaki en iyi <span>ücretsiz yazılımların hepsini bağlamaktır.</span></h2>
-<p>Değişmez params:</p>
+<p>Değişmez Değerler:</p>
 </div>
-<p>- maksimum tedarik </p>
-<p>- enflasyon </p>
-<p>- yalnızca SİHİRLİK algosu - ASIC madencilerini önlemek için Equihash algo'yu diğer POW algo'ya değiştirebiliriz </p>
-<p>- yeni özelliklerin kullanım / ölçeklenebilirliği artırmasına izin verilir, ancak geçmişi hiçbir zaman değiştirmeyeceğiz (ETH / ETC durumunda) </p>
+  <p>- Maksimum Adet </p>
+  <p>- Enflasyon </p>
+  <p>- Sadece POW ( iş kanıtı ) algoritması</p>
+  <p>- Geçmiş asla değiştirilmez</p>
 </div>
 <div class="col-md-5 col-md-push-1">
-<ul class="list">
-<li>Algo: Equihash (her zaman GPU madenciliği - madencilikte ademi merkeziyetçiliği destekliyoruz) </li>
-<li>Maksimum 21B sikke tedarik eder. </li>
-<li>Akım kaynağı: 2,5 dakikada bir 12500 jeton</li>
-<li>Geçerli blok boyutu BCC / BCH'ye benzer (BTCZ = 2,5 dakikada her biri 2MB, BCC / BCH = 10 dakikada bir 8MB'dir)</li>
-</ul>
+  <div class="head-service small-head text-left">
+    <p>Değişebilir Değerler:</p>
+  </div>
+  <p>- ASIC ile kazmayı engelleme amacıyla POW algoritmaları arasında geçiş yapılabilir.</p>
+  <ul class="list">
+    <li>Algoritma: Equihash ( Her zaman GPU madenciliği - Merkezsiz madenciliği destekliyoruz. ) </li>
+    <li>Toplamda maksimum 21 milyar adet BTCZ üretilebilir. </li>
+    <li>Şuanda her 2,5 dakikada 12500 BTCZ dağıtılmaktadır.</li>
+    <li>Blok boyutu BCC / BCH ile benzeşir. (BTCZ = 2,5 dakikada bir 2MB, BCC / BCH = 10 dakikada bir 8MB'tır. )</li>
+  </ul>
 </div>
 </div>
 <div id="tabs-2">
@@ -310,7 +325,7 @@ include_once '../socialmobile.php';
 </div>
 </div>!-->
 <div class="col-md-12">
-<div class="link-full"><a href="https://bitcointalk.org/index.php?topic=2166510.0">Frum<i aria-hidden="true" class="fa fa-angle-right"></i></a></div>
+<div class="link-full"><a href="https://bitcointalk.org/index.php?topic=2166510.0">FORUM <i aria-hidden="true" class="fa fa-angle-right"></i></a></div>
 </div>
 </div>
 </div>
@@ -321,9 +336,9 @@ include_once '../socialmobile.php';
 <div class="row">
 <div class="col-md-8 col-md-push-2">
 <div class="heading-title center">
-<h2>NEDEN  BitcoinZ ?</h2>
-<div class="small-desd">BİR TAM DÜZEYLİ NETWORK'UZ</div>
-<p>İşte bazı avantajlar</p>
+<h2>NEDEN BITCOINZ?</h2>
+<div class="small-desd">TAMAMEN DAĞITIK ÇALIŞAN BİR AĞIZ</div>
+<p>İşte Bazı Avantajları:</p>
 </div>
 </div>
 </div>
@@ -333,7 +348,7 @@ include_once '../socialmobile.php';
 <div class="icon-container">
 <div class="icon icon-circle"><i class="pe-7s-look"></i></div>
 </div>
-<h3>KİMLİKLERİN</h3>
+<h3>ANONİM KİMLİK</h3>
 <p>Tüm işlemler tamamen anonimdir.</p>
 </div>
 <!-- Item-->
@@ -342,7 +357,7 @@ include_once '../socialmobile.php';
 <div class="icon icon-circle"><i class="pe-7s-light"></i></div>
 </div>
 <h3>FARKLI PLATFORMLARA DESTEK</h3>
-<p>Cüzdanımız linux, windows, ios ve android ile uyumludur. Ve biz her zaman iyileştirmeler üzerinde çalışıyoruz</p>
+<p>Cüzdanımız Linux, Windows, Ios ve Android ile uyumludur/p>
 </div>
 <!-- Item-->
 <div class="col-md-3 col-sm-6 col-xs-12 item-icon">
@@ -350,15 +365,15 @@ include_once '../socialmobile.php';
 <div class="icon icon-circle"><i class="pe-7s-like2"></i></div>
 </div>
 <h3>TOPLULUK</h3>
-<p>Sevgili topluluğumuzu dinleriz, bu nedenle başarılı olabiliriz.</p>
+<p>Topluluğumuz her fikri ve düşünceyi saygıyla dinlemektedir. Başarımızın anahtarı budur.</p>
 </div>
 <!-- Item-->
 <div class="col-md-3 col-sm-6 col-xs-12 item-icon">
 <div class="icon-container">
 <div class="icon icon-circle"><i class="pe-7s-graph1"></i></div>
 </div>
-<h3>AKTİF FİYAT BÜYÜME</h3>
-<p>BitcoinZ, organik büyümeye odaklanmıştır.</p>
+<h3>AKTİF FİYAT GELİŞİMİ</h3>
+<p>BitcoinZ tamamen organik büyümeye odaklıdır.</p>
 </div>
 <!-- Edn items-->
 </div>
@@ -370,8 +385,8 @@ include_once '../socialmobile.php';
 <div class="row">
 <div class="col-md-3">
 <div class="heading-title small-heading text-left">
-<h2>Değişimleri</h2>
-<p>Paraları alma veya satma BitcoinZ </p>
+<h2>BORSALAR</h2>
+<p>BitcoinZ Alışı ve Satışı Yapabileceğiniz Bazı Yerler:</p>
 </div>
 </div>
 <?php
@@ -384,8 +399,8 @@ include_once '../exchange.php';
 <div class="row">
 <div class="col-md-12">
 <div class="heading-title center">
-<h2>Cüzdan  <span>indir</span></h2>
-<p>  Linux, Windows ve mobil cüzdanlar</p>
+<h2>CÜZDANI <span>İNDİRİN</span></h2>
+<p>Linux, Windows ve Mobil Cüzdan</p>
 </div>
 <div class="controls-portfolio center">
 <?php
@@ -413,9 +428,8 @@ include_once '../roadmap.php';
 <div class="row">
 <div class="col-md-8 col-md-push-2">
 <div class="heading-title center">
-<h2>BITCOINZ'İ NEDEY<span>SEÇTİNİR</span></h2>
-<div class="small-desd">BURADA BİRÇOK NEDEN  <span> DEĞİL</span></div>
-<p>UYARI. Her zaman tuzakları unutmayın ve yedek anahtarlarınızı güvenli bir yerde tutun!</p>
+<h2>NEDEN BITCONZ'Yİ <span>SEÇMELİSİNİZ?</span></h2>
+<div class="small-desd">İŞTE BİR KAÇ <span>NEDEN</span></div>
 </div>
 </div>
 </div>
@@ -424,11 +438,12 @@ include_once '../roadmap.php';
 <div class="col-md-4">
 <div class="item-about item-choose">
 <div class="content">
-<h3>KESİTMİŞ MADENCİLİK</h3>
-<p>Bir madenci olarak ana ilkeleri izlemek için en büyük havuzları kullanmamalısınız.<br>
-Benim için kolay<br>
+<h3>DAĞITIK MADENCİLİK</h3>
+<p>
+Madenci olarak en büyük havuzları kullanmak zorunda değilsiniz.<br>
+Kazması kolaydır.<br>
 Equihash algoritması.<br>
-Merkezi Olmayan Değişiklikler
+Bağımsız transferler
 </p>
 </div>
 </div>
@@ -440,8 +455,8 @@ Merkezi Olmayan Değişiklikler
 <div class="bg-icon"><i class="pe-7s-light"></i></div>
 </div>
 <div class="content">
-<h3>HAYVANLIĞI  <span>YOKTUR</span></h3>
-<p>Saf para. Önceden mayın yok</p>
+<h3>ÖNCEDEN <span>KAZILMAMIŞTIR</span></h3>
+<p>Tamamen sıfırdan üretilmiştir. Önceden kazım yapılmamıştır.</p>
 </div>
 </div>
 </div>
@@ -452,8 +467,8 @@ Merkezi Olmayan Değişiklikler
 <div class="bg-icon"><i class="pe-7s-graph1"></i></div>
 </div>
 <div class="content">
-<h3><span>BITCOINZ, BITCOIN 2.0'dır:</span></h3>
-<p>- 21 milyar sikke - Dünyadaki herkes en az bir BTCZ'ye sahip olabilir</p>
+<h3><span>BITCOINZ, BITCOIN 2.0'dir:</span></h3>
+<p>- 21 milyar adet - Dünyadaki herkes bir BTCZ'ye sahip olabilir.</p>
 </div>
 </div>
 </div>
@@ -466,7 +481,7 @@ Merkezi Olmayan Değişiklikler
 <div class="bg-icon"><i class="pe-7s-like"></i></div>
 </div>
 <div class="content">
-<h3>ETKİLİ  <span>TOPLUM</span></h3>
+<h3>AKTİF <span>TOPLULUK</span></h3>
 <p>Topluluğumuz her geçen gün aktif olarak gelişiyor ve büyüyor.</p>
 </div>
 </div>
@@ -478,8 +493,8 @@ Merkezi Olmayan Değişiklikler
 <div class="bg-icon"><i class="pe-7s-help2"></i></div>
 </div>
 <div class="content">
-<h3>ANONİMİ <span>İŞLEMLER</span></h3>
-<p>Tüm işlemler anonim kalır. Dolayısıyla, anonimlik hakkında endişelenmenize gerek yok</p>
+<h3>ANONİM <span>İŞLEMLER</span></h3>
+<p>Tüm işlemler anonim kalır. Dolayısıyla, anonimlik hakkında endişelenmenize gerek yoktur.</p>
 </div>
 </div>
 </div>
@@ -490,8 +505,8 @@ Merkezi Olmayan Değişiklikler
 <div class="bg-icon"><i class="pe-7s-phone"></i></div>
 </div>
 <div class="content">
-<h3>ANDROİD VE IOS <span>CİLT</span></h3>
-<p>Akıllı telefonlarınızda bitcoinz paraları kullanın</p>
+<h3>ANDROID VE IOS <span>CÜZDANI</span></h3>
+<p>Akıllı telefonlarınızda da BitcoinZ'lerinizi saklayabilirsiniz.</p>
 </div>
 </div>
 </div>
@@ -504,8 +519,8 @@ Merkezi Olmayan Değişiklikler
 <div class="bg-icon"><i class="pe-7s-display1"></i></div>
 </div>
 <div class="content">
-<h3>DOĞAL  <span>BÜYÜME</span></h3>
-<p>Madeni para büyüyecek ve doğal bir şekilde gelişecektir.	</p>
+<h3>ORGANİK <span>BÜYÜME</span></h3>
+<p>Doğal şekilde büyümekte ve değer kazanmaktadır.</p>
 </div>
 </div>
 </div>
@@ -516,8 +531,8 @@ Merkezi Olmayan Değişiklikler
 <div class="bg-icon"><i class="pe-7s-link"></i></div>
 </div>
 <div class="content">
-<h3>MADDEDİLEN <span>KALKINMA</span></h3>
-<p>Tüm borsalara izin verilir. En iyileri merkezsizleşti. Tam merkezi olmayan XCAT borsasını uygulamayı planlıyoruz.</p>
+<h3>MERKEZSİZ <span>GELİŞTİRME</span></h3>
+<p>Hangi borsalara girileceğini topluluk belirler ve topluluk katılımı ile belirlenen borsalarda yer alınması sağlanır.</p>
 </div>
 </div>
 </div>
@@ -528,8 +543,8 @@ Merkezi Olmayan Değişiklikler
 <div class="bg-icon"><i class="pe-7s-paint"></i></div>
 </div>
 <div class="content">
-<h3>SADECE AİİL<span>VE HAYIR POS</span></h3>
-<p>Madeni para cezası madenciliği için hesaplanır ve asla POS'a dönüştürülmez</p>
+<h3>SADECE POW VE <span>ASLA POS OLMAYACAK</span></h3>
+<p>Sadece POW ( iş kanıtı ) ile çalışmaktadır ve asla POS ( destek kanıtı ) ile çalışmayacaktır.</p>
 </div>
 </div>
 </div>
@@ -591,12 +606,12 @@ Merkezi Olmayan Değişiklikler
 <div class="container">
 <div class="row">
 <div class="col-md-12">
-<p>© 2017 BitcoinZ Topluluk. Her hakkı saklıdır.</p>
+<p>© 2017 BitcoinZ Topluluğu. Her hakkı saklıdır.</p>
 <ul class="footer-menu">
-<li><a href="#benefist" class="smooth-scroll">Yararları</a></li>
-<li><a href="#exchange" class="smooth-scroll">Değiş tokuş</a></li>
-<li><a href="#wallets" class="smooth-scroll">cüzdan</a></li>
-<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" class="smooth-scroll" target="_blank">Forum bitcointalk</a></li>
+<li><a href="#benefist" class="smooth-scroll">YARARLARI</a></li>
+<li><a href="#exchange" class="smooth-scroll">BORSALAR</a></li>
+<li><a href="#wallets" class="smooth-scroll">CÜZDANLAR</a></li>
+<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" class="smooth-scroll" target="_blank">Bitcontalk Konusu</a></li>
 </ul>
 </div>
 </div>
