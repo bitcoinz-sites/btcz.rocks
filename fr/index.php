@@ -38,7 +38,7 @@
 <?php
 include_once '../pools.php';
 ?>
-<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank">And more on the forum bitcointalk</a></li>
+<li><a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank">Encore plus sur le forum bitcointalk</a></li>
 </ul></li>
 <li><a href="#" class="smooth-scroll">EXPLORATEUR</a>
 <ul>
@@ -117,7 +117,7 @@ include_once '../socialmobile.php';
 <div class="row">
 <div class="col-md-12">
 <div class="heading-title-big"><br>c'est votre monnaie <br><span>BitcoinZ: Le vrai Bitcoin 2.0</span></div>
-<div class="description-slide">Bienvenue Dans l'univers de la Cryptomonnaie Decentralisée. BitcoinZ.</div>
+<div class="description-slide">Bienvenue Dans l'univers de la Cryptomonnaie Décentralisée. BitcoinZ.</div>
 <div class="buttons-section">&nbsp;&nbsp;<a href="/media/Community_Paper_Final.pdf" class="btn dark-btn large-btn">PAPIER COMMUNAUTAIRE</a><a href="https://connect.bitcoinz.global/" class="btn dark-btn large-btn" target="_blank">En Savoir Plus</a><a href="https://bitcoinz.global/donations/" class="btn dark-btn large-btn" target="_blank">Donate</a><br><br><center><script type="text/javascript" src="/api.js"></script><div class="coinmarketcap-currency-widget" data-currency="bitcoinz" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center>
 </div>
 </div>
@@ -160,7 +160,7 @@ include_once '../socialmobile.php';
 </div>
 <div class="content">
 <h3>DETAILS <span>IMPORTANTS</span></h3>
-<p>- Sauvegardez Votre Porte Monnaie Dans Divers Endroits<br>- stocker Une Grande quantité de monnaie dans un porte-monnaie froid avec Des adresses anonymes<br>- Ne jamais divulguer en donnant ou envayant votre cle privée. La cle privée est le seul moyen pour preserver votre adresse. si vous envoyez ou donnez à quiconque votre clé privée, considerez celà tel un red flag, qui deplacera rapidement votre monnaie à une autre adresse.</p>
+<p>- Sauvegardez Votre Porte Monnaie Dans Divers Endroits<br>- stocker Une Grande quantité de monnaie dans un porte-monnaie froid avec Des adresses anonymes<br>- Ne jamais divulguer ou envoyer votre clé privée. La clé privée est le seul moyen de preserver la sécurité de votre monnaie. Si vous envoyez ou donnez à quiconque votre clé privée, considerez celà comme une alerte rouge et déplacez rapidement rapidement votre monnaie sur une autre adresse.</p>
 
 </div>
 </div>
@@ -172,7 +172,7 @@ include_once '../socialmobile.php';
 </div>
 <div class="content">
 <h3>BitcoinZ EST <span>Bitcoin 2.0:</span></h3>
-<p>- Technologie Bitcoin<br>- Les Transactions sont Anonymes (zk-SNARKs est renommée pour sa confidentialité)- Bitcoin a toutes les transactions visibles publiquement.<br>- GPU mining Decentralsé (ASIC miners sont bannis, hardforks pour prévenir le minage ASIC sont autorisés)<br>- Développement décentralisé / Tous les contributeurs sont des bénévoles<br>- Blocs de grande capacité- les blocs sont similaires à ceux du BCC / BCH</p>
+<p>- Technologie Bitcoin<br>- Les Transactions sont Anonymes (zk-SNARKs est renommée pour sa confidentialité)- Toutes les transactions Bitcoin sont visibles publiquement.<br>- GPU mining Décentralisé (Les miners ASICS sont bannis, les hardforks pour prévenir le minage ASIC sont autorisés)<br>- Développement décentralisé / Tous les contributeurs sont des bénévoles<br>- Blocs de grande capacité- les blocs sont similaires à ceux du BCC / BCH</p>
 </div>
 </div>
 </div>
@@ -183,7 +183,7 @@ include_once '../socialmobile.php';
 </div>
 <div class="content">
 <h3>COMMUNAUTÉ <span>ACTIVE</span></h3>
-<p>Notre communauté est active et nous sommes constement en développement<br>Vous pouvez nous suivre sur les réseaux sociaux, sur le forum, ainsi que sur Slack</p>
+<p>Notre communauté est active et nous sommes constamment en développement<br>Vous pouvez nous suivre sur les réseaux sociaux, sur le forum, ainsi que sur Slack</p>
 </div>
 </div>
 </div>
@@ -196,7 +196,7 @@ include_once '../socialmobile.php';
 <div class="row">
 <div class="col-md-8 col-md-push-2">
 <div class="heading-title small-heading center">
-<h2>Benefits <span>BitcoinZ</span></h2>
+<h2>Avantages <span>BitcoinZ</span></h2>
 <!--<p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum</p>-->
 </div>
 </div>
@@ -209,7 +209,7 @@ include_once '../socialmobile.php';
 <p>21 000 000 000 btcz.</p></a></li>
 <li class="animated-service anim-shadow"><a href="#tabs-2"><i class="pe-7s-drop"></i>
 <h4>Algo</h4>
-<p>Equilhash.</p></a></li>
+<p>Equihash.</p></a></li>
 <li class="animated-service anim-shadow"><a href="#tabs-3"><i class="pe-7s-timer"></i>
 <h4>Transactions rapides</h4>
 <p>BTCZ = 2 Mo toutes les 2,5 minutes</p></a></li>
@@ -222,20 +222,20 @@ include_once '../socialmobile.php';
 <div id="tabs-1">
 <div class="col-md-6">
 <div class="head-service small-head text-left">
-<h2>Notre but est de vous apporter le meilleur des logiciels libres qur le marché afin de pouvoir utiliser  <span>BitcoinZ dans les meilleurs conditions.</span></h2>
+<h2>Notre but est de vous apporter le meilleur des logiciels libres sur le marché afin de pouvoir utiliser  <span>BitcoinZ dans les meilleurs conditions.</span></h2>
 <p>Paramètres immuables:</p>
 </div>
 <p>- Quantité maximale </p>
 <p>- l'inflation </p>
-<p>- POW algo uniquement - nous pouvons changer l'algo Equilhash par un autre algo afin de prevenir les ASIC miners.</p>
+<p>- POW algo uniquement - nous pouvons changer l'algo Equihash par un autre algo afin de prevenir les ASIC miners.</p>
 <p>-de nouvelles fonctionnalités sont permises pour améliorer l'utilisation / l'évolutivité, mais nous ne changerons jamais l'historique (le meme cas pour ETH/ETC)</p>
 </div>
 <div class="col-md-5 col-md-push-1">
 <ul class="list">
-<li>Algo:Equilhash (toujours via le minage GPU - nous favorisons la décentralisation du mining</li>
-<li>Quantité Maximale(max supply) :21 milliards de pièces</li>
+<li>Algo: Equihash (toujours via le minage GPU - nous favorisons la décentralisation du mining)</li>
+<li>Quantité Maximale: 21 milliards de pièces</li>
 <li>Quantité Actuelle: 12500 toutes les 2.5 minutes</li>
-<li>La capacité du bloc est similaire à celle du BCC/BCH (BTZ= 2MB toutes les 2.5 min ~ BCC/BCH = 8MB toutes les 10 minute)</li>
+<li>La capacité du bloc est similaire à celle du BCC/BCH (BTZ= 2MB toutes les 2.5 min ~ BCC/BCH = 8MB toutes les 10 minutes)</li>
 </ul>
 </div>
 </div>
@@ -243,9 +243,9 @@ include_once '../socialmobile.php';
 <div class="col-md-6">
 <div class="head-service small-head text-left">
 <h2>Le logiciel le plus sécurisé est inclus dans le client <span>bitcoinz-pod / bitcoinz linux.</span></h2>
-<p>Les programmes de données sensibles comme les porte-monnaie devraient fournir du code source libre et sha256 à leurs versions pour pouvoir passer en revue leurs porte-monnaie par d'autres team / pods. Il n'est pas recommandé d'utiliser un portefeuille qui n'a pas été examiné par autre team. </p>
+<p>Les programmes hébergeant des données sensibles comme les porte-monnaie devraient fournir l'accès au code source et une checksum (sha256) de leurs versions compilées, afin que d'autres équipes de développeurs puissent évaluer le niveau de sécurité et l'absence de code malveillant (backdoor). Il est fortement déconseillé d'utiliser un logiciel "porte-monnaie" qui n'a pas été examiné par autre team. </p>
 </div>
-<p>Le logiciel sans aucune confirmation doit être traité comme un red flag et non utilisé.</p>
+<p>Un logiciel inconnu ou n'ayant pas fait l'objet d'une validation de la communauté doit être considéré comme dangereux et à ne pas utiliser.</p>
 </div>
 <!--<div class="col-md-5 col-md-push-1">
 <ul class="list">
@@ -339,7 +339,7 @@ include_once '../socialmobile.php';
 <div class="icon-container">
 <div class="icon icon-circle"><i class="pe-7s-light"></i></div>
 </div>
-<h3>SUPPORT POUR DIFFÉRENTES PLATES-FORMES</h3>
+<h3>SUPPORT DE DIFFÉRENTES PLATES-FORMES</h3>
 <p>Notre porte-monnaie est compatible avec linux, windows, ios et android. Et nous travaillons toujours sur les améliorations</p>
 </div>
 <!-- Item-->
@@ -348,7 +348,7 @@ include_once '../socialmobile.php';
 <div class="icon icon-circle"><i class="pe-7s-like2"></i></div>
 </div>
 <h3>COMMUNAUTÉ</h3>
-<p>Nous sommes à l'ecoute de notre chère communauté, afin que nous puissions réussir.</p>
+<p>Nous sommes toujours à l'ecoute de notre chère communauté, afin de pouvoir réussir.</p>
 </div>
 <!-- Item-->
 <div class="col-md-3 col-sm-6 col-xs-12 item-icon">
@@ -411,7 +411,7 @@ include_once '../roadmap.php';
 <div class="row">
 <div class="col-md-8 col-md-push-2">
 <div class="heading-title center">
-<h2>POURQUOI CHOISI <span>BitcoinZ</span></h2>
+<h2>POURQUOI CHOISIR <span>BitcoinZ</span></h2>
 <div class="small-desd">VOICI QUELQUES  <span> RAISONS</span></div>
 <p>ATTENTION. Rappelez-vous toujours des pièges et gardez vos clés de sauvegarde dans un endroit sûr!</p>
 </div>
@@ -422,10 +422,10 @@ include_once '../roadmap.php';
 <div class="col-md-4">
 <div class="item-about item-choose">
 <div class="content">
-<h3>Mining Decentralsé</h3>
-<p>En tant que mineur, vous ne devriez pas utiliser les plus grands bassins pour suivre les grands principes.<br>
-Facile à mine<br>
-Algorithme équihash.<br>
+<h3>Mining Décentralisé</h3>
+<p>En tant que mineur, vous devriez éviter d'utiliser les plus gros "pools" afin de contribuer au respect des grands principes:<br>
+Facile à miner<br>
+Algorithme equihash.<br>
 Échanges décentralisés</p>
 </div>
 </div>
@@ -450,7 +450,7 @@ Algorithme équihash.<br>
 </div>
 <div class="content">
 <h3>BitcoinZ EST <span>Bitcoin 2.0:</span></h3>
-<p>- 21 Milliards de piece - Tout le monde peut avoir en sa possession un BTCZ minimum</p>
+<p>- 21 Milliards de pieces - Tout le monde peut avoir en sa possession au moins un BTCZ</p>
 </div>
 </div>
 </div>
@@ -476,7 +476,7 @@ Algorithme équihash.<br>
 </div>
 <div class="content">
 <h3>TRANSACTIONS <span>ANONYMES</span></h3>
-<p>Toutes les transactions restent anonymes. Donc, vous n'avez pas à vous soucier de l'anonymat</p>
+<p>Toutes les transactions restent anonymes. Vous n'avez donc pas à vous soucier de l'anonymat</p>
 </div>
 </div>
 </div>
@@ -526,7 +526,7 @@ Algorithme équihash.<br>
 </div>
 <div class="content">
 <h3>POW UNIQUEMENT ET <span>PAS DE POS</span></h3>
-<p>La pièce de monnaie est calculée uniquement pour le minage en POW et ne sera jamais remplacée par le POS</p>
+<p>La monnaie est conçue uniquement pour le minage en POW et ne sera jamais remplacée par le POS</p>
 </div>
 </div>
 </div>
@@ -588,7 +588,7 @@ Algorithme équihash.<br>
 <div class="container">
 <div class="row">
 <div class="col-md-12">
-<p>© 2017 BitcoinZ Communauté. Tous droits réservés</p>
+<p>© 2018 BitcoinZ Communauté. Tous droits réservés</p>
 <ul class="footer-menu">
 <li><a href="#benefist" class="smooth-scroll">AVANTAGES</a></li>
 <li><a href="#exchange" class="smooth-scroll">ECHANGES</a></li>
