@@ -16,6 +16,7 @@ $sites = [
     'nl' => '/nl/',        // Dusth
     'be' => '/nl/',        // Dusth
     'tr' => '/tr/',        // Turkey
+    'sr' => '/sr/',        // Serbian
     'sv' => '/sv/',        // Swedish
     'fi' => '/sv/',        // Swedish (Finland)
     'ro' => '/ro/',        // Romanian
