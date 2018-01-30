@@ -36,6 +36,7 @@
 <li><a href="https://btcz.suprnova.cc/">Suprnova</a></li>
 <li><a href="https://equipool.1ds.us/">1ds.ua</a></li>
 <li><a href="https://alphacentauri.science/">alphacentauri.science</a></li>
+ <li><a href="http://pool.bitcoinzguiding.ovh/">RagnarPool</a></li>
 <li><a href="https://bitcointalk.org/index.php?topic=2166510.0">And more...</a></li>
 </ul></li>
 <li><a href="#" class="smooth-scroll">Explorer</a>
