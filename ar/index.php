@@ -1,6 +1,6 @@
-<?php $t = require __DIR__ . '/../translations/en.php'; ?>
+<?php $t = require __DIR__ . '/../translations/ar.php'; ?>
 <!DOCTYPE html>
-<html lang="en" class="no-js">
+<html lang="ar" class="no-js">
     <head>
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-28037043-7"></script>
