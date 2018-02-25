@@ -91,7 +91,7 @@
 </ul></li>
 <li><a href="#" class="smooth-scroll">Social</a>
 <ul>
-<li><a href="https://www.facebook.com/BitcoinZCommunity/">Facebook</a></li>
+<li><a href="https://www.facebook.com/BTCZCommunity/">Facebook</a></li>
 <li><a href="http://slack.bitcoinz.site/">Slack</a></li>
 <li><a href="/https://twitter.com/BTCZCommunity">Twitter</a></li>
 <li><a href="https://t.me/joinchat/CDzlaRGMvBm4P2Z76sNclQ">Telegram</a></li>
