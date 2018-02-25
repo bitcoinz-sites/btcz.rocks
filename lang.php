@@ -14,6 +14,7 @@
 <li><a href="/pl/"><img src="/lang/img/pl.png" class="lang_img">Polish</a></li>
 <li><a href="/ro/"><img src="/lang/img/ro.png" class="lang_img">Romanian</a></li>
 <li><a href="/ru/"><img src="/lang/img/ru.png" class="lang_img">Russian</a></li>
+<li><a href="/sr/"><img src="/lang/img/sr.png" class="lang_img">Serbian</a></li>
 <li><a href="/es/"><img src="/lang/img/sp.png" class="lang_img">Spanish</a></li>
 <li><a href="/sv/"><img src="/lang/img/sv.png" class="lang_img">Swedish</a></li>
 <li><a href="/tr/"><img src="/lang/img/tr.png" class="lang_img">Turkish</a></li>
