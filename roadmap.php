@@ -54,7 +54,7 @@
 						</div>
 
 						<div class="cd-timeline-block">
-							<div class="cd-timeline-img cd-yellow"></div>
+							<div class="cd-timeline-img cd-greem"></div>
 
 							<div class="cd-timeline-content">
 								<h2 class="roadmapbox6lang">Commerce Plugins</h2>
