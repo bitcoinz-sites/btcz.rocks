@@ -40,9 +40,10 @@ body::-webkit-scrollbar-thumb
 
 .exch_img {
    max-width: 220px;
-   max-height: 60px:
-   margin: 0px 10px;
+   max-height: 80px;
+   padding: 5px;
 }
+
 
 /******************************************************************************
     Road Map Section
