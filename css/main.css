@@ -202,8 +202,8 @@ a.toggle-mnu.on {
     margin-bottom: 5px;
 }
 
-.buttons-section .large-btn:last-child {
-    margin-top: 15px;
+.buttons-section .large-btn {
+    margin-top: 30px;
 }
 
 .mfp-wrap::-webkit-scrollbar-track {
@@ -4349,7 +4349,7 @@ form .btn {
 }
 
 .slider .buttons-section {
-    margin-top: 45px
+    margin-top: 30px;
 }
 
 .slider .dots-control-carousel {

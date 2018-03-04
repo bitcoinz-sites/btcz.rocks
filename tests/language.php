@@ -59,11 +59,11 @@ L::Load();
         }
 
         .contents_head > .key, .content > .key {
-            flex: 6;
+            flex: 12;
         }
 
         .contents_head > .text, .content > .text {
-            flex: 18;
+            flex: 12;
             text-align: left;
             padding: 10px 15px;
         }
@@ -150,8 +150,8 @@ L::Load();
         ?>
         <div class="content">
             <span class="id"><?php echo($x++); ?></span>
-            <span class="key"><?php echo($key); ?></span>
-            <span class="text"><?php echo( htmlspecialchars($content) ); ?></span>
+            <span class="key"><?php echo htmlspecialchars($key); ?></span>
+            <span class="text"><?php echo htmlspecialchars($content); ?></span>
         </div>
         <?php
     }
