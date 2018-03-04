@@ -17,7 +17,7 @@
 							<div class="cd-timeline-img cd-greem"></div>
 
 							<div class="cd-timeline-content">
-								<h2 class="roadmapbox1lang">BTCZ Ana Client</h2>
+								<h2 class="roadmapbox1lang">BTCZ Çekirdek</h2>
 							</div>
 						</div>
 
@@ -25,7 +25,7 @@
 							<div class="cd-timeline-img cd-greem"></div>
 
 							<div class="cd-timeline-content">
-								<h2 class="roadmapbox2lang">Blok Kâşifi</h2>
+								<h2 class="roadmapbox2lang">Blok İzleme</h2>
 							</div>
 						</div>
 
@@ -33,7 +33,7 @@
 							<div class="cd-timeline-img cd-greem"></div>
 
 							<div class="cd-timeline-content">
-								<h2 class="roadmapbox3lang">Maden Havuzları</h2>
+								<h2 class="roadmapbox3lang">Madenci Havuzları</h2>
 							</div>
 						</div>
 
@@ -41,7 +41,7 @@
 							<div class="cd-timeline-img cd-greem"></div>
 
 							<div class="cd-timeline-content">
-								<h2 class="roadmapbox4lang">GUI Cüzdan Yayınlandı</h2>
+								<h2 class="roadmapbox4lang">Cüzdan</h2>
 							</div>
 						</div>
 
@@ -65,7 +65,7 @@
 							<div class="cd-timeline-img cd-greem"></div>
 
 							<div class="cd-timeline-content">
-								<h2 class="roadmapbox7lang">Borsalarda Listelenme</h2>
+								<h2 class="roadmapbox7lang">Borsalara Giriş</h2>
 							</div>
 						</div>
 
@@ -73,7 +73,7 @@
 							<div class="cd-timeline-img cd-yellow"></div>
 
 							<div class="cd-timeline-content">
-								<h2 class="roadmapbox8lang">Maskeli Balo Teknolojisi</h2>
+								<h2 class="roadmapbox8lang">Masquerade Teknolojisi</h2>
 							</div>
 						</div>
 						<div class="cd-timeline-block">
@@ -96,7 +96,7 @@
 							<div class="cd-timeline-img cd-yellow"></div>
 
 							<div class="cd-timeline-content">
-								<h2 class="roadmapbox8lang">Mobilden zkSNARKs</h2>
+								<h2 class="roadmapbox8lang">Mobilde zkSNARKs</h2>
 							</div>
 						</div>
 
