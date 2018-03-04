@@ -13,7 +13,7 @@ Explorer,Gezgin
 Social,Sosyal
 Lang,Dil
 It's Your Coin,Yeni Paraniz
-BitcoinZ: The true Bitcoin 2.0,BITCOINZ: GERÇEK BITCOIN 2.0
+BitcoinZ: The true Bitcoin 2.0,BitcoinZ: Gerçek Bitcoin 2.0
 Welcome to the decentralization,Merkezsiz paraya hoşgeldiniz!
 Start Mining,Kazmaya Başla
 Latest News,Son Haberler
@@ -21,7 +21,7 @@ Donate,Bağiş
 About the <span>coin</span>,Para <span>hakkinda</span>
 Important Details,Önemli <span>bilgiler</span>
 - Backup your wallet in many locations<br>- Store big amount of coins in cold wallets in anonymous addresses<br>- Don't give / send anyone your private keys. Private keys needs to be secured. You can recover your wallets. If you give or send anyone your private key please consider it as a red flag and quickly move your coins to other address,- Cüzdanınızı birçok yere yedekleyin.<br>- Büyük miktarları birden fazla cüzdana bölün.<br>- Kimseye özel anahtarlarınızı vermeyin / göndermeyin! Özel anahtarınız ile cüzdanınıza direk erişilebilir ve işlem yapılabilir.<br>- Başkasının özel anahtarınızı görebileceğini düşündüğünüz durumlarda hesabınızda bulunan tüm bitcoinzlerinizi güvenli bir cüzdana ivedilik ile taşıyınız.
-BitcoinZ is <span>Bitcoin 2.0</span>,"BITCOINZ, <span>BITCOIN 2.0'dir:</span>"
+BitcoinZ is <span>Bitcoin 2.0</span>,"BitcoinZ, <span>Bitcoin 2.0'dir:</span>"
 "- Bitcoin technology<br>- Anonymous transactions (zk-SNARKs privacy)<br>- Bitcoin has all transactions publicly available.<br>- decentralized GPU mining (ASIC miners are banned, hardforks to prevent ASIC miners are allowed)<br>- Decentralized development / All contributors are volunteers<br>- Big blocks -> blocks are similar to BCC / BCH","- Bitcoin teknolojisi<br>- Anonim işlemler (zk-SNARK'ların gizliliği)<br>- Bitcoin, tüm işlemlerin halka açık olduğunu gösterir.<br>- Merkezi olmayan GPU madenciliği ( ASIC ile kazmaya izin vermemektedir. )<br>- Bu projeye tüm katkıda bulunanlar gönüllüdür. Projenin sahibi yoktur.<br>- Daha büyük bloklar -> Bloklar BCC / BCH'ye benzer."
 Active <span>Community</span>,Aktif <span>Topluluk</span>
 "Our community is active and we are always developing. <br>You can follow us in social networks, on the forum, as well as Slack","Topluluğumuz sürekli aktiftir. Sürekli olarak gelişmeye devam ediyoruz.<br>Bizi sosyal ağlarda, forumda ve slack'te takip edebilirsiniz."
@@ -33,7 +33,7 @@ Equihash,Equihash
 Fast Transactions,Hızlı İşlemler
 2MB every 2.5 minutes,"2,5 dakikada bir 2MB"
 Circulating Supply,Dolaşımlı Arz
-"12,500 coins every 2.5 minutes",2.5 dakikada bir 12500 BTCZ
+"12,500 coins every 2.5 minutes",2.5 dakikada bir 12.500 BTCZ
 Our goal is to port all best free software on the market to be able to use in BitcoinZ.,"Amacımız, BitcoinZ'de kullanmak için piyasadaki en iyi ücretsiz yazılımların hepsini bağlamaktır."
 "<p>Immutable params:</p> <p>- max supply </p> <p>- inflation </p> <p>- only POW algo - we may change Equihash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>",<p>Değişmez Değerler:</p> <p>- Maksimum Adet </p> <p>- Enflasyon </p> <p>- Sadece POW ( iş kanıtı ) algoritması</p> <p>- Geçmiş asla değiştirilmez</p> <p>Değişebilir Değerler:</p> <p>- ASIC ile kazmayı engelleme amacıyla POW algoritmaları arasında geçiş yapılabilir.</p>
 "<ul class=""list""> <li>Algo: Equihash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12500 coins every 2.5 minutes</li> <li>Current block size is similar to BCC/BCH (BTCZ = 2MB every 2.5 mins ~ BCC/BCH = 8MB every 10 min)</li> </ul>","<ul class=""list""> <li>Algoritma: Equihash ( Her zaman GPU madenciliği - Merkezsiz madenciliği destekliyoruz. ) </li> <li>Toplamda maksimum 21 milyar adet BTCZ üretilebilir. </li> <li>Şuanda her 2,5 dakikada 12500 BTCZ dağıtılmaktadır.</li> <li>Blok boyutu BCC / BCH ile benzeşir. (BTCZ = 2,5 dakikada bir 2MB, BCC / BCH = 10 dakikada bir 8MB'tır. )</li> </ul>"
