@@ -64,7 +64,7 @@ L::Load();
         <nav class="top-menu">
             <ul class="sf-menu">
                 <li><a href="/"><?php L::W("Home"); ?></a></li>
-                <li><a href="<?php L::W("COMMUNITY_PAPER_URL"); ?>" target="_blank"><?php L::W("COMMUNITY_PAPER"); ?></a></li>
+                <li><a href="<?php L::W("COMMUNITY_PAPER_URL"); ?>" target="_blank"><?php L::W("Community Paper"); ?></a></li>
                 <li><a href="#benefits" class="smooth-scroll"><?php L::W("Benefits"); ?></a></li>
                 <li><a href="#exchange" class="smooth-scroll"><?php L::W("Exchange"); ?></a></li>
                 <li><a href="#wallets" class="smooth-scroll"><?php L::W("Wallets"); ?></a></li>
