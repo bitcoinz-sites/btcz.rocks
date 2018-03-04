@@ -64,7 +64,16 @@ class L
         global $metaLanguages;
 
         self::$_META = $metaLanguages['availableLanguages'][$language];
-        self::$_CONTENT = include('language_contents/' . $language . '.php');
+
+        $content = [];
+        if (($handle = fopen(__DIR__ . "/languages/$language.csv", 'r')) !== false) {
+            while (($data = fgetcsv($handle, 1000, ',')) !== false) {
+                $content[$data[0]] = $data[1];
+            }
+
+            self::$_CONTENT = $content;
+            fclose($handle);
+        }
     }
 
     public static function ChangeTo($newLanguage)
