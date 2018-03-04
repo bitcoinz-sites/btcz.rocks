@@ -45,7 +45,7 @@ L::Load();
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="<?php L::W("META_DESCRIPTION"); ?>"/>
-    <meta property="og:image" content="/logo.png">
+    <meta property="og:image" content="/images/logo.png">
     <link rel="icon" href="/favicon.ico">
 
     <title><?php L::W("MAIN_PAGE_TITLE"); ?></title>
@@ -58,8 +58,8 @@ L::Load();
 <header id="top-nav" class="top-nav page-header">
     <div class="container">
         <a href="/" class="logo smooth-scroll">
-            <img src="<?php siteUrl(); ?>img/logo.png" alt="logo" class="logo-white">
-            <img src="<?php siteUrl(); ?>img/logo.png" alt="logo" class="logo-dark">
+            <img src="<?php siteUrl(); ?>images/logo.png" alt="logo" class="logo-white">
+            <img src="<?php siteUrl(); ?>images/logo.png" alt="logo" class="logo-dark">
         </a>
         <nav class="top-menu">
             <ul class="sf-menu">
@@ -162,7 +162,7 @@ L::Load();
     </div>
     <div class="full-slider intro">
         <!-- Start slide-->
-        <div data-image="<?php siteUrl(); ?>img/bgn22.jpg" class="slide bg-mask background-image full-vh">
+        <div data-image="<?php siteUrl(); ?>images/backgrounds/mountains.jpg" class="slide bg-mask background-image full-vh">
             <div class="container-slide vertical-align center head-desc">
                 <div class="container">
                     <div class="row">
@@ -384,30 +384,30 @@ L::Load();
                 </div>
             </div>
             <div class="col-md-5">
-                <a href="https://btc-alpha.com/exchange/BTCZ_BTC/" target="_blank"><img src="<?php siteUrl(); ?>img/exchanges/btc-alpha.png" class="exch_img"></a>
+                <a href="https://btc-alpha.com/exchange/BTCZ_BTC/" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/btc-alpha.png" class="exch_img"></a>
             </div>
             <div class="col-md-4">
-                <a href="https://stocks.exchange/trade/BTCZ/BTC" target="_blank"><img src="<?php siteUrl(); ?>img/exchanges/stocks-exchange.png" class="exch_img"></a>
+                <a href="https://stocks.exchange/trade/BTCZ/BTC" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/stocks-exchange.png" class="exch_img"></a>
             </div>
         </div>
         <div class="row">
             <div class="col-md-3">
             </div>
             <div class="col-md-5">
-                <a href="https://tradesatoshi.com/Exchange?market=BTCZ_BTC" target="_blank"><img src="<?php siteUrl(); ?>img/exchanges/tradesatoshi.png" class="exch_img"></a>
+                <a href="https://tradesatoshi.com/Exchange?market=BTCZ_BTC" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/tradesatoshi.png" class="exch_img"></a>
             </div>
             <div class="col-md-4">
-                <a href="https://github.com/KomodoPlatform/BarterDEX/releases" target="_blank"><img src="<?php siteUrl(); ?>img/exchanges/barterdex.png" class="exch_img"></a>
+                <a href="https://github.com/KomodoPlatform/BarterDEX/releases" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/barterdex.png" class="exch_img"></a>
             </div>
         </div>
         <div class="row">
             <div class="col-md-3">
             </div>
             <div class="col-md-5">
-                <a href="https://graviex.net/markets/btczbtc" target="_blank"><img src="<?php siteUrl(); ?>img/exchanges/graviex.png" class="exch_img"></a>
+                <a href="https://graviex.net/markets/btczbtc" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/graviex.png" class="exch_img"></a>
             </div>
             <div class="col-md-4">
-                <a href="https://exrates.me/dashboard" target="_blank"><img src="<?php siteUrl(); ?>img/exchanges/exrates.png" class="exch_img"></a>
+                <a href="https://exrates.me/dashboard" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/exrates.png" class="exch_img"></a>
             </div>
         </div>
     </div>
@@ -423,11 +423,11 @@ L::Load();
                     <p><?php L::W("LINUX_WINDOWS_AND_MOBILE_WALLETS"); ?></p>
                 </div>
                 <div class="controls-portfolio center">
-                    <a href="https://github.com/bitcoinz-wallets/bitcoinz-copay-wallet/releases"><img src="<?php siteUrl(); ?>img/wallets/linux.png" alt="Linux" title="Linux" class="wallets_img"></a>
-                    <a href="https://play.google.com/store/apps/details?id=com.btczcom.btcz"><img src="<?php siteUrl(); ?>img/wallets/android.png" alt="Android" title="Android" class="wallets_img"></a>
-                    <a href="https://github.com/bitcoinz-wallets/bitcoinz-copay-wallet/releases"><img src="<?php siteUrl(); ?>img/wallets/osx.png" alt="Mac OS" title="MacOS" class="wallets_img"></a>
-                    <a href="https://github.com/bitcoinz-pod/bitcoinz-wallet/releases"><img src="<?php siteUrl(); ?>img/wallets/windows.jpg" alt="Windows" title="Windows" class="wallets_img"></a>
-                    <a href="https://github.com/bitcoinz-pod/bitcoinz"><img src="<?php siteUrl(); ?>img/wallets/github.png" alt="github" title="Github" class="wallets_img"></a>
+                    <a href="https://github.com/bitcoinz-wallets/bitcoinz-copay-wallet/releases"><img src="<?php siteUrl(); ?>images/wallets/linux.png" alt="Linux" title="Linux" class="wallets_images"></a>
+                    <a href="https://play.google.com/store/apps/details?id=com.btczcom.btcz"><img src="<?php siteUrl(); ?>images/wallets/android.png" alt="Android" title="Android" class="wallets_images"></a>
+                    <a href="https://github.com/bitcoinz-wallets/bitcoinz-copay-wallet/releases"><img src="<?php siteUrl(); ?>images/wallets/osx.png" alt="Mac OS" title="MacOS" class="wallets_images"></a>
+                    <a href="https://github.com/bitcoinz-pod/bitcoinz-wallet/releases"><img src="<?php siteUrl(); ?>images/wallets/windows.jpg" alt="Windows" title="Windows" class="wallets_images"></a>
+                    <a href="https://github.com/bitcoinz-pod/bitcoinz"><img src="<?php siteUrl(); ?>images/wallets/github.png" alt="github" title="Github" class="wallets_images"></a>
                 </div>
             </div>
         </div>
@@ -689,56 +689,56 @@ L::Load();
                 <div class="col-md-2">
                     <div class="item-carousel">
                         <a href="https://github.com/bitcoinz-pod/bitcoinz" target="_blank">
-                            <img src="<?php siteUrl(); ?>img/social/github.png" alt="logo">
+                            <img src="<?php siteUrl(); ?>images/social/github.png" alt="logo">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-2">
                     <div class="item-carousel">
                         <a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank">
-                            <img src="<?php siteUrl(); ?>img/social/bitcointalk.png" alt="logo">
+                            <img src="<?php siteUrl(); ?>images/social/bitcointalk.png" alt="logo">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-2">
                     <div class="item-carousel">
                         <a href="https://slack.btcz.rocks/" target="_blank">
-                            <img src="<?php siteUrl(); ?>img/social/slack.png" alt="logo">
+                            <img src="<?php siteUrl(); ?>images/social/slack.png" alt="logo">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-2">
                     <div class="item-carousel">
                         <a href="https://www.reddit.com/r/BTCZCommunity/" target="_blank">
-                            <img src="<?php siteUrl(); ?>img/social/reddit.png" alt="logo">
+                            <img src="<?php siteUrl(); ?>images/social/reddit.png" alt="logo">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-2">
                     <div class="item-carousel">
                         <a href="https://discordapp.com/invite/u3dkbFs" target="_blank">
-                            <img src="<?php siteUrl(); ?>img/social/discord.png" alt="logo">
+                            <img src="<?php siteUrl(); ?>images/social/discord.png" alt="logo">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-2">
                     <div class="item-carousel">
                         <a href="https://www.facebook.com/BTCZCommunity/" target="_blank">
-                            <img src="<?php siteUrl(); ?>img/social/facebook.png" alt="logo">
+                            <img src="<?php siteUrl(); ?>images/social/facebook.png" alt="logo">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-2">
                     <div class="item-carousel">
                         <a href="https://t.me/joinchat/CDzlaRGMvBm4P2Z76sNclQ" target="_blank">
-                            <img src="<?php siteUrl(); ?>img/social/telegram.png" alt="logo">
+                            <img src="<?php siteUrl(); ?>images/social/telegram.png" alt="logo">
                         </a>
                     </div>
                 </div>
                 <div class="col-md-2">
                     <div class="item-carousel">
                         <a href="https://twitter.com/BitcoinZTeam" target="_blank">
-                            <img src="<?php siteUrl(); ?>img/social/twitter.png" alt="logo">
+                            <img src="<?php siteUrl(); ?>images/social/twitter.png" alt="logo">
                         </a>
                     </div>
                 </div>
