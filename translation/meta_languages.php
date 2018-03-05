@@ -9,6 +9,12 @@ return [
             'short' => 'en',
             'icon' => 'us'
         ],
+        'jp' => [
+            'native' => '日本語',
+            'in_english' => 'Japanese',
+            'short' => 'jp',
+            'icon' => 'jp'
+        ],
         'nl' => [
             'native' => 'Nederlands',
             'in_english' => 'Dutch',
