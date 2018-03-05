@@ -9,11 +9,17 @@ return [
             'short' => 'en',
             'icon' => 'us'
         ],
+        'nl' => [
+            'native' => 'Nederlands',
+            'in_english' => 'Dutch',
+            'short' => 'nl',
+            'icon' => 'nl'
+        ],
         'tr' => [
             'native' => 'Türkçe',
             'in_english' => 'Turkish',
             'short' => 'tr',
             'icon' => 'tr'
-        ]
-    ]
+        ],
+    ],
 ];

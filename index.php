@@ -171,7 +171,7 @@ L::Load();
                             <div class="description-slide"><?php L::W("Welcome to the decentralization"); ?></div>
                             <div class="buttons-section">
                                 <a href="<?php L::W("COMMUNITY_PAPER_URL"); ?>" target="_blank" class="btn dark-btn large-btn"><?php L::W("Community Paper"); ?></a>
-                                <a href="https://youtu.be/RI-V7n8amFk" target="_blank" class="btn dark-btn large-btn"><?php L::W("Start Mining"); ?></a>
+                                <a href="https://www.youtube.com/watch?v=7FjW2kV3VzQ" target="_blank" class="btn dark-btn large-btn"><?php L::W("Start Mining"); ?></a>
                                 <a href="https://info.btcz.rocks/" class="btn dark-btn large-btn" target="_blank"><?php L::W("Latest News"); ?></a>
                                 <a href="https://btcz.fund/" class="btn dark-btn large-btn" target="_blank"><?php L::W("Donate"); ?></a>
 
@@ -308,7 +308,7 @@ L::Load();
                         <?php L::W("<p>Immutable params:</p> <p>- max supply </p> <p>- inflation </p> <p>- only POW algo - we may change Equihash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>"); ?>
                     </div>
                     <div class="col-md-5 col-md-push-1">
-                        <?php L::W('<ul class="list"> <li>Algo: Equihash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12500 coins every 2.5 minutes</li> <li>Current block size is similar to BCC/BCH (BTCZ = 2MB every 2.5 mins ~ BCC/BCH = 8MB every 10 min)</li> </ul>'); ?>
+                        <?php L::W('<ul class="list"> <li>Algo: Equihash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCC/BCH (BTCZ = 2MB every 2.5 mins ~ BCC/BCH = 8MB every 10 min)</li> </ul>'); ?>
                     </div>
                 </div>
                 <div class="col-md-12">
