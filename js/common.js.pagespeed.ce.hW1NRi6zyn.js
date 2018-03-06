@@ -1,6 +1,6 @@
 "use strict";
 (function($) {
-    $(window).load(function() {
+    $(window).ready(function() {
         $('#status').fadeOut();
         $('#preloader').delay(1000).fadeOut('slow');
         $('body.dark-load').removeClass('dark-load');
