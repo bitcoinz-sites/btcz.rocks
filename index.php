@@ -426,8 +426,8 @@ L::Load();
                     <a href="https://github.com/bitcoinz-wallets/bitcoinz-copay-wallet/releases"><img src="<?php siteUrl(); ?>images/wallets/linux.png" alt="Linux" title="Linux" class="wallets_images"></a>
                     <a href="https://play.google.com/store/apps/details?id=com.btczcom.btcz"><img src="<?php siteUrl(); ?>images/wallets/android.png" alt="Android" title="Android" class="wallets_images"></a>
                     <a href="https://github.com/bitcoinz-wallets/bitcoinz-copay-wallet/releases"><img src="<?php siteUrl(); ?>images/wallets/osx.png" alt="Mac OS" title="MacOS" class="wallets_images"></a>
-                    <a href="https://github.com/bitcoinz-pod/bitcoinz-wallet/releases"><img src="<?php siteUrl(); ?>images/wallets/windows.jpg" alt="Windows" title="Windows" class="wallets_images"></a>
-                    <a href="https://github.com/bitcoinz-pod/bitcoinz"><img src="<?php siteUrl(); ?>images/wallets/github.png" alt="github" title="Github" class="wallets_images"></a>
+                    <a href="https://github.com/btcz/bitcoinz-wallet/releases"><img src="<?php siteUrl(); ?>images/wallets/windows.jpg" alt="Windows" title="Windows" class="wallets_images"></a>
+                    <a href="https://github.com/btcz/bitcoinz"><img src="<?php siteUrl(); ?>images/wallets/github.png" alt="github" title="Github" class="wallets_images"></a>
                 </div>
             </div>
         </div>
@@ -688,7 +688,7 @@ L::Load();
             <div id="clients-carousel" class="clients-carousel">
                 <div class="col-md-2">
                     <div class="item-carousel">
-                        <a href="https://github.com/bitcoinz-pod/bitcoinz" target="_blank">
+                        <a href="https://github.com/btcz/bitcoinz" target="_blank">
                             <img src="<?php siteUrl(); ?>images/social/github.png" alt="logo">
                         </a>
                     </div>
