@@ -3,6 +3,12 @@
 return [
     'default' => 'en',
     'availableLanguages' => [
+        'ar' => [
+            'native' => 'عربى',
+            'in_english' => 'Arabic',
+            'short' => 'ar',
+            'icon' => 'arabic'
+        ],
         'en' => [
             'native' => 'English',
             'in_english' => 'English',
