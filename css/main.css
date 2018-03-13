@@ -9,6 +9,10 @@
     vertical-align: middle;
 }
 
+.flag-icon-background.flag-icon-arabic {
+    background-image: url(/images/languages/arabic.svg);
+}
+
 body {
     font-size: 16px;
     min-width: 320px;
