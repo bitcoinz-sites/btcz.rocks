@@ -6,8 +6,9 @@ if (explode('?', $_SERVER['REQUEST_URI'], 2)[0] !== '/') {
 }
 
 session_start();
+date_default_timezone_set('UTC');
 
-$settings = include(__DIR__ . 'settings.php');
+$settings = include(__DIR__ . '/settings.php');
 
 include(__DIR__ . '/functions.php');
 include(__DIR__ . '/translation/manager.php');
