@@ -27,6 +27,12 @@ return [
             'short' => 'nl',
             'icon' => 'nl'
         ],
+        'sr' => [
+            'native' => 'Srpski',
+            'in_english' => 'Serbian',
+            'short' => 'sr',
+            'icon' => 'rs'
+        ],
         'tr' => [
             'native' => 'Türkçe',
             'in_english' => 'Turkish',
