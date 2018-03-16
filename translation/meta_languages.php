@@ -28,7 +28,7 @@ return [
             'icon' => 'nl'
         ],
         'ro' => [
-            'native' => 'Romana',
+            'native' => 'Română',
             'in_english' => 'Romanian',
             'short' => 'ro',
             'icon' => 'ro'
