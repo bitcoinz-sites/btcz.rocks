@@ -45,11 +45,11 @@ return [
             'short' => 'tr',
             'icon' => 'tr'
         ],
-        'rs' => [
+        'ru' => [
             'native' => 'Pусский',
             'in_english' => 'Russian',
-            'short' => 'rs',
-            'icon' => 'rs'
+            'short' => 'ru',
+            'icon' => 'ru'
         ],
 
     ],
