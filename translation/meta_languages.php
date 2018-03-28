@@ -45,5 +45,12 @@ return [
             'short' => 'tr',
             'icon' => 'tr'
         ],
+        'ru' => [
+            'native' => 'Pусский',
+            'in_english' => 'Russian',
+            'short' => 'ru',
+            'icon' => 'ru'
+        ],
+
     ],
 ];
