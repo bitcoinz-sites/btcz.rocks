@@ -88,7 +88,7 @@ L::Load();
                         <li><a href="https://discordapp.com/invite/u3dkbFs" target="_blank">Discord</a></li>
                         <li><a href="https://www.reddit.com/r/BTCZCommunity/" target="_blank">Reddit</a></li>
 
-                        <li><a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank"><?php L::W("Bitcointalk Forum Topic"); ?></a></li>
+                        <li><a href="https://bitcointalk.org/index.php?topic=3086664.0" target="_blank"><?php L::W("Bitcointalk Forum Topic"); ?></a></li>
                     </ul>
                 </li>
                 <li class="menu-item-has-children current-menu-item">
@@ -144,10 +144,10 @@ L::Load();
                                 <li><a href="https://t.me/joinchat/CDzlaRGMvBm4P2Z76sNclQ" target="_blank">Telegram</a></li>
                                 <li><a href="https://discordapp.com/invite/u3dkbFs" target="_blank">Discord</a></li>
                                 <li><a href="https://www.reddit.com/r/BTCZCommunity/" target="_blank">Reddit</a></li>
-                                <li><a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank"><?php L::W("View Bitcointalk Forum Topic"); ?></a></li>
+                                <li><a href="https://bitcointalk.org/index.php?topic=3086664.0" target="_blank"><?php L::W("View Bitcointalk Forum Topic"); ?></a></li>
                             </ul>
                         </li>
-                        <li><a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank"><?php L::W("Bitcointalk Forum Topic"); ?></a></li>
+                        <li><a href="https://bitcointalk.org/index.php?topic=3086664.0" target="_blank"><?php L::W("Bitcointalk Forum Topic"); ?></a></li>
                     </ul>
                 </nav>
             </div>
@@ -314,7 +314,7 @@ L::Load();
                 </div>
                 <div class="col-md-12">
                     <div class="link-full">
-                        <a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank"><?php L::W("View Bitcointalk Forum Topic"); ?><i aria-hidden="true" class="fa fa-angle-right"></i></a>
+                        <a href="https://bitcointalk.org/index.php?topic=3086664.0" target="_blank"><?php L::W("View Bitcointalk Forum Topic"); ?><i aria-hidden="true" class="fa fa-angle-right"></i></a>
                         &nbsp;&nbsp;&nbsp;
                         <a href="https://forum.btcz.rocks" target="_blank"><?php L::W("View Forum"); ?><i aria-hidden="true" class="fa fa-angle-right"></i></a>
                     </div>
@@ -696,7 +696,7 @@ L::Load();
                 </div>
                 <div class="col-md-2">
                     <div class="item-carousel">
-                        <a href="https://bitcointalk.org/index.php?topic=2166510.0" target="_blank">
+                        <a href="https://bitcointalk.org/index.php?topic=3086664.0" target="_blank">
                             <img src="<?php siteUrl(); ?>images/social/bitcointalk.png" alt="logo">
                         </a>
                     </div>
@@ -767,7 +767,7 @@ L::Load();
                         <li><a href="#benefits" class="smooth-scroll"><?php L::W("Benefits"); ?></a></li>
                         <li><a href="#exchange" class="smooth-scroll"><?php L::W("Exchange"); ?></a></li>
                         <li><a href="#wallets" class="smooth-scroll"><?php L::W("Wallets"); ?></a></li>
-                        <li><a href="https://bitcointalk.org/index.php?topic=2166510.0" class="smooth-scroll" target="_blank"><?php L::W("Bitcointalk Forum Topic"); ?></a></li>
+                        <li><a href="https://bitcointalk.org/index.php?topic=3086664.0" class="smooth-scroll" target="_blank"><?php L::W("Bitcointalk Forum Topic"); ?></a></li>
                     </ul>
                 </div>
             </div>
