@@ -539,6 +539,23 @@ L::Load();
                 </div>
             </div>
         </div>
+		<div class="row">
+            <div class="col-md-8 col-md-push-2">
+                <div class="heading-title center">
+                    <h2><?php L::W("introducing <span>txtZ</span>"); ?></h2>
+                    <div class="small-desd"><?php L::W("send and receive BTCZ using SMS text"); ?></div>
+					<ul id="txtz-list">
+						<li><?php L::W("No Install Required"); ?></li>
+						<li><?php L::W("No Smartphone required"); ?></li>
+						<li><?php L::W("Send BTCZ to anyone's cell phone using text messaging"); ?></li>
+						<li><?php L::W("Works with any cellphone that supports SMS"); ?></li>
+						<li><?php L::W("Send both Transparent and Private Z Transactions"); ?></li>
+					</ul>
+                    <img src="<?php siteUrl(); ?>images/txtz-promo.jpg" style="max-width:50%" />
+                    <h4><a href="https://www.youtube.com/watch?v=aeGX36c24i0&t=9m49s" target="_blank"><?php L::W("Click here to watch the TxtZ Announcement on Youtube"); ?></a></h4>
+                </div>
+            </div>
+        </div>
         <div class="row">
             <!--Start item-->
             <div class="col-md-4">
