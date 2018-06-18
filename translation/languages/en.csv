@@ -29,7 +29,7 @@ Benefits <span>BitcoinZ</span>,Benefits <span>BitcoinZ</span>
 Max Supply,Max Supply
 "21,000,000,000 BTCZ","21,000,000,000 BTCZ"
 Algorithm,Algorithm
-Equihash,Equihash
+PoW,Zhash
 Fast Transactions,Fast Transactions
 2MB every 2.5 minutes,2MB every 2.5 minutes
 Circulating Supply,Circulating Supply

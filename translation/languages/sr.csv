@@ -29,11 +29,11 @@ Benefits <span>BitcoinZ</span>,Prednosti <span>BitcoinZ</span>
 Max Supply,Maks. Zaliha
 "21,000,000,000 BTCZ","21,000,000,000 BTCZ"
 Algorithm,Algoritam
-Equihash,Equihash
+PoW,Zhash
 Fast Transactions,Brze transakcije
 2MB every 2.5 minutes,2MB na svaka 2.5 minuta
 Circulating Supply,Cirkulirajuće zalihe
-"12,500 coins every 2.5 minutes","12500 svakih 2.5 min."
+"12,500 coins every 2.5 minutes",12500 svakih 2.5 min.
 Our goal is to port all best free software on the market to be able to use in BitcoinZ.,Naš cilj je da omogućimo svim najboljim besplatnim software-ima na marketu da mogu da koriste BitcoinZ.
 "<p>Immutable params:</p> <p>- max supply </p> <p>- inflation </p> <p>- only POW algo - we may change Equihash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>","<p>Nepromjenjivi parametri:</p> <p>- maks. zaliha </p> <p>- inflacija </p> <p>- samo POW algoritam - možemo promeniti Equihash algoritam u drugi POW algoritam radi zaštite od ASIC rudara </p> <p>- nove karakteristike su dozvoljene samo zbog unapređenja korišćenja / stabilnisti, ali nikada nećemo menjati istoriju (ETH/ETC slučaj) </p>"
 "<ul class=""list""> <li>Algo: Equihash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCC/BCH (BTCZ = 2MB every 2.5 mins ~ BCC/BCH = 8MB every 10 min)</li> </ul>","<ul class=""list""> <li>Algoritam: Equihash (uvek GPU rudarenje - mi promovišemo decentralizaciju u rudarenju) </li> <li>Maks. Dostupnost: 21B novčića</li> <li>Trenutne zalihe: 12500 novčića na svaka 2.5 minuta</li> <li>Trenutna veličina bloka je slična BCC/BCH (BTCZ = 2MB na svaka 2.5 minuta ~ BCC/BCH = 8MB na svakih 10 minuta)</li> </ul>"
@@ -44,7 +44,7 @@ Here are some advantages,Evo nekoliko prednosti
 Anonymity,Anonimnost
 All transactions are completely anonymous.,Sve transakcije su potpuno anonimne.
 Support for different platforms,Podrška za različite platforme
-"Our wallet is compatible with Linux, Windows, iOS and Android.","Naš novčanik je kompatibilan sa Linux-om, Windows-om, iOS-om i Android-om".
+"Our wallet is compatible with Linux, Windows, iOS and Android.","Naš novčanik je kompatibilan sa Linux-om, Windows-om, iOS-om i Android-om."
 Community,Zajednica
 "We listen to our dear community, so we can succeed.","Mi slušamo našu cenjenu zajednicu, da bi mogli da uspemo."
 Active price growth,Aktivni rast cene
