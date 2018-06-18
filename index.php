@@ -281,7 +281,7 @@ L::Load();
                         <a href="#">
                             <i class="pe-7s-drop"></i>
                             <h4><?php L::W("Algorithm"); ?></h4>
-                            <p><?php L::W("Equihash"); ?></p>
+                            <p><?php L::W("PoW"); ?></p>
                         </a>
                     </li>
                     <li class="animated-service anim-shadow">
@@ -306,10 +306,10 @@ L::Load();
                         <div class="head-service small-head text-left">
                             <h2><?php L::W("Our goal is to port all best free software on the market to be able to use in BitcoinZ."); ?></h2>
                         </div>
-                        <?php L::W("<p>Immutable params:</p> <p>- max supply </p> <p>- inflation </p> <p>- only POW algo - we may change Equihash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>"); ?>
+                        <?php L::W("<p>Immutable params:</p> <p>- max supply </p> <p>- inflation </p> <p>- only POW algo - we may change Zhash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>"); ?>
                     </div>
                     <div class="col-md-5 col-md-push-1">
-                        <?php L::W('<ul class="list"> <li>Algo: Equihash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCC/BCH (BTCZ = 2MB every 2.5 mins ~ BCC/BCH = 8MB every 10 min)</li> </ul>'); ?>
+                        <?php L::W('<ul class="list"> <li>Algo: Zhash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCC/BCH (BTCZ = 2MB every 2.5 mins ~ BCC/BCH = 8MB every 10 min)</li> </ul>'); ?>
                     </div>
                 </div>
                 <div class="col-md-12">
@@ -550,7 +550,7 @@ L::Load();
                     <div class="content">
                         <h3><?php L::W("Decentralized <span>Mining</span>"); ?></h3>
                         <p>
-                            <?php L::W("As a miner you should not use the biggest pools to follow main principles.<br>Easy to mine<br>Equihash algorithm.<br>Decentralized Exchanges"); ?>
+                            <?php L::W("As a miner you should not use the biggest pools to follow main principles.<br>Easy to mine<br>Zhash algorithm.<br>Decentralized Exchanges"); ?>
                         </p>
                     </div>
                 </div>

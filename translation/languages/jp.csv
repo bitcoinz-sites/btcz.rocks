@@ -29,7 +29,7 @@ Benefits <span>BitcoinZ</span>,<span>BitcoinZ</span>の利点
 Max Supply,最大供給量
 "21,000,000,000 BTCZ","21,000,000,000 BTCZ"
 Algorithm,アルゴリズム
-Equihash,Equihash
+PoW,Zhash
 Fast Transactions,速いトランザクション
 2MB every 2.5 minutes,2分30秒ごとに2MB
 Circulating Supply,供給量
