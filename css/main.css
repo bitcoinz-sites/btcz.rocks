@@ -6348,3 +6348,12 @@ footer .links p {
         padding-bottom: 50px
     }
 }
+
+#txtz-list {
+    float: left;
+    list-style: decimal;
+    display: block;
+    text-align: left;
+    max-width: 75%;
+    margin-left: 15%;
+}
