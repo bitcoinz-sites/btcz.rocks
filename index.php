@@ -81,6 +81,7 @@ L::Load();
                 <li>
                     <a href="#" class="smooth-scroll"><?php L::W("Social"); ?></a>
                     <ul>
+						<li><a href="https://forum.btcz.rocks" target="_blank">BitcoinZ Forum</a></li>					
                         <li><a href="https://www.facebook.com/BTCZCommunity/" target="_blank">Facebook</a></li>
                         <li><a href="https://slack.btcz.rocks/" target="_blank">Slack</a></li>
                         <li><a href="https://twitter.com/BitcoinZTeam" target="_blank">Twitter</a></li>
@@ -138,6 +139,7 @@ L::Load();
                         <li class="menu-item-has-children current-menu-item">
                             <a href="#" class="smooth-scroll"><?php L::W("Social"); ?></a>
                             <ul class="sub-menu">
+							    <li><a href="https://forum.btcz.rocks" target="_blank">BitcoinZ Forum</a></li>
                                 <li><a href="https://www.facebook.com/BTCZCommunity/" target="_blank">Facebook</a></li>
                                 <li><a href="https://slack.btcz.rocks/" target="_blank">Slack</a></li>
                                 <li><a href="https://twitter.com/BitcoinzTeam" target="_blank">Twitter</a></li>
@@ -411,6 +413,19 @@ L::Load();
                 <a href="https://exrates.me/dashboard" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/exrates.png" class="exch_img"></a>
             </div>
         </div>
+        <div class="row">
+            <div class="col-md-3">
+            </div>
+            <div class="col-md-5">
+                <a href="https://crex24.com/exchange/BTCZ-BTC" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/crex24.png" class="exch_img"></a>
+            </div>
+            <div class="col-md-4">
+                <a href="" target="_blank"></a>
+            </div>
+        </div>
+        <div class="heading-title small-heading center">
+          <p><?php L::W("For informational purposes only. Trade at your own risk - never trade more than you can afford to lose."); ?></p>
+        </div>		
     </div>
 </section>
 
@@ -544,13 +559,15 @@ L::Load();
                 <div class="heading-title center">
                     <h2><?php L::W("introducing <span>txtZ</span>"); ?></h2>
                     <div class="small-desd"><?php L::W("send and receive BTCZ using SMS text"); ?></div>
-					<ul id="txtz-list">
+					<div class="txtz-wrapper">
+					<ul>
 						<li><?php L::W("No Install Required"); ?></li>
 						<li><?php L::W("No Smartphone required"); ?></li>
 						<li><?php L::W("Send BTCZ to anyone's cell phone using text messaging"); ?></li>
 						<li><?php L::W("Works with any cellphone that supports SMS"); ?></li>
 						<li><?php L::W("Send both Transparent and Private Z Transactions"); ?></li>
 					</ul>
+					</div>
                     <img src="<?php siteUrl(); ?>images/txtz-promo.jpg" style="max-width:50%" />
                     <h4><a href="https://www.youtube.com/watch?v=aeGX36c24i0&t=9m49s" target="_blank"><?php L::W("Click here to watch the TxtZ Announcement on Youtube"); ?></a></h4>
                 </div>
@@ -760,7 +777,14 @@ L::Load();
                         </a>
                     </div>
                 </div>
-            </div>
+                <div class="col-md-2">
+                    <div class="item-carousel">
+                        <a href="https://forum.btcz.rocks" target="_blank">
+                            <img src="<?php siteUrl(); ?>images/social/discourse.png" alt="logo">
+                        </a>
+                    </div>
+                </div>				
+			</div>
         </div>
     </div>
 
