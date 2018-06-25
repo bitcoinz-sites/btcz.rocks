@@ -420,7 +420,7 @@ L::Load();
                 <a href="https://crex24.com/exchange/BTCZ-BTC" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/crex24.png" class="exch_img"></a>
             </div>
             <div class="col-md-4">
-                <a href="" target="_blank"></a>
+                <a href="https://exmo.me/en/trade#?pair=BTCZ_BTC" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/exmo.png" class="exch_img"></a>
             </div>
         </div>
         <div class="heading-title small-heading center">
