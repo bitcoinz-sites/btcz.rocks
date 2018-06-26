@@ -387,7 +387,7 @@ L::Load();
                 </div>
             </div>
             <div class="col-md-5">
-                <a href="https://btc-alpha.com/exchange/BTCZ_BTC/" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/btc-alpha.png" class="exch_img"></a>
+                <a href="https://exmo.me/en/trade#?pair=BTCZ_BTC" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/exmo.png" class="exch_img"></a>
             </div>
             <div class="col-md-4">
                 <a href="https://stocks.exchange/trade/BTCZ/BTC" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/stocks-exchange.png" class="exch_img"></a>
@@ -420,7 +420,7 @@ L::Load();
                 <a href="https://crex24.com/exchange/BTCZ-BTC" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/crex24.png" class="exch_img"></a>
             </div>
             <div class="col-md-4">
-                <a href="" target="_blank"></a>
+                <a href="https://btc-alpha.com/exchange/BTCZ_BTC/" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/btc-alpha.png" class="exch_img"></a>
             </div>
         </div>
         <div class="heading-title small-heading center">
