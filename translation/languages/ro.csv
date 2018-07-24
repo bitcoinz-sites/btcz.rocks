@@ -24,12 +24,12 @@ Important Details,Detalii importante
 - Depozitează sume mari în portofele offline în adrese anonime.<br>
 - Niciodată nu primi / trimite nimănui cheile tale private. Cheile private trebuiesc ţinute în siguranţă. Îţi poţi recupera portofelele cu ajutorul lor. Dacă îi dai sau îi trimiți cuiva cheia ta privata, te rugăm consideră acest lucru un semnal de alarmă şi mută-ţi cât mai repde monedele în altă adresă. "
 BitcoinZ is <span>Bitcoin 2.0</span>,BitcoinZ este <span>Bitcoin 2.0</span>
-"- Bitcoin technology<br>- Anonymous transactions (zk-SNARKs privacy)<br>- Bitcoin has all transactions publicly available.<br>- decentralized GPU mining (ASIC miners are banned, hardforks to prevent ASIC miners are allowed)<br>- Decentralized development / All contributors are volunteers<br>- Big blocks -> blocks are similar to BCC / BCH","- Tehnologie Bitcoin<br>
+"- Bitcoin technology<br>- Anonymous transactions (zk-SNARKs privacy)<br>- Bitcoin has all transactions publicly available.<br>- decentralized GPU mining (ASIC miners are banned, hardforks to prevent ASIC miners are allowed)<br>- Decentralized development / All contributors are volunteers<br>- Big blocks -> blocks are similar to BCH","- Tehnologie Bitcoin<br>
 - Tranzacţii anonime (anonimitate oferită de zk-SNARKs)<br>
 - Bitcoin afişează toate tranzacţiile pe blockchain. <br> 
 - Minare descentralizată cu ajutorul GPU-ului (echipamentele ASIC sunt banate, hardfork-uri permise doar pentru a preveni ASIC-urile) <br>
 - Dezvoltare descentralizată / Toţi cei care contribuie la proiect sunt voluntari <br> 
-- Block-uri mari -> block-uri similare cu cele de BCC / BCH"
+- Block-uri mari -> block-uri similare cu cele de BCH"
 Active <span>Community</span>,<span>Comunitate</span> activă
 "Our community is active and we are always developing. <br>You can follow us in social networks, on the forum, as well as Slack","Avem o comunitate activă care dezvoltă continuu. <br>
 Ne poţi urmări pe reţelele sociale, forum sau Slack. "
@@ -45,7 +45,7 @@ Circulating Supply,Număr de monede in circulaţie
 Our goal is to port all best free software on the market to be able to use in BitcoinZ.,Ţelul nostru este să portăm cel mai bun software de pe piaţă astfel încât să poată fi folosit în reţeaua BitcoinZ.
 "<p>Immutable params:</p> <p>- max supply </p> <p>- inflation </p> <p>- only POW algo - we may change Equihash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>","<p>Parametri neschimbabili:</p> <p> - Rezerva maximă </p> <p> - Inflaţie </p>
 <p> - Doar algoritm PoW - posibil să schimbăm algoritmul Equihash în alt algoritm PoW pentru a bana ASIC-urile </p> <p> - Caracteristici noi sunt permise pentru a îmbunătăţi utilizarea / scalabilitatea, dar nu vom schimba niciodată istoricul (vezi cazul ETH/ETC) </p>"
-"<ul class=""list""> <li>Algo: Equihash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCC/BCH (BTCZ = 2MB every 2.5 mins ~ BCC/BCH = 8MB every 10 min)</li> </ul>","<ul class=""list""> <li> Algoritm: Equihash (mereu minabil cu ajutorul GPU-ului - promovăm descentralizarea în minat) </li> <li> Rezerva maximă: 21 miliarde de monede </li> <li> Stoc actual: 12.500 monede la fiecare 2.5 minute</li> <li>Mărimea actuală a block-ului este simlară cu cea a BCC/BCH (BTCZ = 2MB la fiecare 2.5 minute ~ BCC/BCH = 8MB la fiecare 10 minute</li></ul>"
+"<ul class=""list""> <li>Algo: Equihash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCH (BTCZ = 2MB every 2.5 mins ~ BCH = 8MB every 10 min)</li> </ul>","<ul class=""list""> <li> Algoritm: Equihash (mereu minabil cu ajutorul GPU-ului - promovăm descentralizarea în minat) </li> <li> Rezerva maximă: 21 miliarde de monede </li> <li> Stoc actual: 12.500 monede la fiecare 2.5 minute</li> <li>Mărimea actuală a block-ului este simlară cu cea a BCH (BTCZ = 2MB la fiecare 2.5 minute ~ BCH = 8MB la fiecare 10 minute</li></ul>"
 View Forum,Vizualizează forum
 Why <span>BitcoinZ?</span>,De ce <span>BitcoinZ?</span>
 We are a fully decentralized network,Suntem o reţea 100% descentralizată
@@ -97,3 +97,4 @@ Only POW and <span>no POS</span>,Doar PoW. <span>Fără POS</span>
 View Bitcointalk Forum Topic,Vizualizează topic-ul de pe forum-ul Bitcointalk.
 Bitcointalk Forum Topic,Topic de pe forum-ul Bitcointalk.
 BitcoinZ Community. All rights reserved.,Comunitatea BitcoinZ. Toate drepturile rezervate.
+
