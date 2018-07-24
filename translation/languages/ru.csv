@@ -1,7 +1,7 @@
 English,русский
 Your Financial Freedom | BitcoinZ,Ваша Финансовая Свобода | BitcoinZ
 BitcoinZ is the future of cryptocurrency. Welcome to decentralization.,BitcoinZ - это криптовалюта будущего. Добро пожаловать в децентрализацию.
-COMMUNITY_PAPER_URL,COMMUNITY_PAPER_URL
+COMMUNITY_PAPER_URL,https://drive.google.com/file/d/1aLuEcyHNKq215X4am2YQNXfQmPnV1pTt
 Home,Главная
 Community Paper,Документ сообщества
 Benefits,Преимущества
@@ -29,7 +29,7 @@ Benefits <span>BitcoinZ</span>,Преимущества <span>BitcoinZ</span>
 Max Supply,Максимальная эмиссия
 "21,000,000,000 BTCZ","21,000,000,000 BTCZ"
 Algorithm,Алгоритм
-Equihash,Equihash
+PoW,Zhash
 Fast Transactions,Быстрые транзакции
 2MB every 2.5 minutes,2MB каждые 2.5 минуты
 Circulating Supply,Текущая награда

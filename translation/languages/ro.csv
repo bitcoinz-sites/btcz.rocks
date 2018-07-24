@@ -1,7 +1,7 @@
 English,Română
 Your Financial Freedom | BitcoinZ,Libertatea ta financiară | BitcoinZ
 BitcoinZ is the future of cryptocurrency. Welcome to decentralization.,Bine ai venit la descentralizare. BitcoinZ este criptomoneda viitorului.
-COMMUNITY_PAPER_URL,https://drive.google.com/file/d/19eJ09gwba5Ix9k3Y8Kk7NqdTbnUTFXDj
+COMMUNITY_PAPER_URL,https://drive.google.com/file/d/1aLuEcyHNKq215X4am2YQNXfQmPnV1pTt
 Home,Acasă
 Community Paper,Documentul Comunităţii
 Benefits,Beneficii
@@ -26,9 +26,9 @@ Important Details,Detalii importante
 BitcoinZ is <span>Bitcoin 2.0</span>,BitcoinZ este <span>Bitcoin 2.0</span>
 "- Bitcoin technology<br>- Anonymous transactions (zk-SNARKs privacy)<br>- Bitcoin has all transactions publicly available.<br>- decentralized GPU mining (ASIC miners are banned, hardforks to prevent ASIC miners are allowed)<br>- Decentralized development / All contributors are volunteers<br>- Big blocks -> blocks are similar to BCH","- Tehnologie Bitcoin<br>
 - Tranzacţii anonime (anonimitate oferită de zk-SNARKs)<br>
-- Bitcoin afişează toate tranzacţiile pe blockchain. <br>
+- Bitcoin afişează toate tranzacţiile pe blockchain. <br> 
 - Minare descentralizată cu ajutorul GPU-ului (echipamentele ASIC sunt banate, hardfork-uri permise doar pentru a preveni ASIC-urile) <br>
-- Dezvoltare descentralizată / Toţi cei care contribuie la proiect sunt voluntari <br>
+- Dezvoltare descentralizată / Toţi cei care contribuie la proiect sunt voluntari <br> 
 - Block-uri mari -> block-uri similare cu cele de BCH"
 Active <span>Community</span>,<span>Comunitate</span> activă
 "Our community is active and we are always developing. <br>You can follow us in social networks, on the forum, as well as Slack","Avem o comunitate activă care dezvoltă continuu. <br>
@@ -37,7 +37,7 @@ Benefits <span>BitcoinZ</span>,Beneficii <span>BitcoinZ</span>
 Max Supply,Rezerva maximă de monede
 "21,000,000,000 BTCZ","21,000,000,000 BTCZ"
 Algorithm,Algoritm
-Equihash,Equihash
+PoW,Zhash
 Fast Transactions,Tranzacţii rapide
 2MB every 2.5 minutes,2MB la fiecare 2.5 minute
 Circulating Supply,Număr de monede in circulaţie
@@ -97,3 +97,4 @@ Only POW and <span>no POS</span>,Doar PoW. <span>Fără POS</span>
 View Bitcointalk Forum Topic,Vizualizează topic-ul de pe forum-ul Bitcointalk.
 Bitcointalk Forum Topic,Topic de pe forum-ul Bitcointalk.
 BitcoinZ Community. All rights reserved.,Comunitatea BitcoinZ. Toate drepturile rezervate.
+

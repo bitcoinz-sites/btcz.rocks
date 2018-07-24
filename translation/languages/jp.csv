@@ -1,7 +1,7 @@
 English,Japanese
 Your Financial Freedom | BitcoinZ,BitcoinZ | ファイナンシャルフリーダム
 BitcoinZ is the future of cryptocurrency. Welcome to decentralization.,BitcoinZは暗号通貨の未来。「非中央集権化」にようこそ。
-COMMUNITY_PAPER_URL,https://drive.google.com/file/d/19eJ09gwba5Ix9k3Y8Kk7NqdTbnUTFXDj
+COMMUNITY_PAPER_URL,https://drive.google.com/file/d/1aLuEcyHNKq215X4am2YQNXfQmPnV1pTt
 Home,ホーム
 Community Paper,コミュニティペーパー
 Benefits,利点
@@ -29,7 +29,7 @@ Benefits <span>BitcoinZ</span>,<span>BitcoinZ</span>の利点
 Max Supply,最大供給量
 "21,000,000,000 BTCZ","21,000,000,000 BTCZ"
 Algorithm,アルゴリズム
-Equihash,Equihash
+PoW,Zhash
 Fast Transactions,速いトランザクション
 2MB every 2.5 minutes,2分30秒ごとに2MB
 Circulating Supply,供給量

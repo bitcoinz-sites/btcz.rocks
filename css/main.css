@@ -6348,3 +6348,23 @@ footer .links p {
         padding-bottom: 50px
     }
 }
+
+.txtz-wrapper {
+   text-align: center;
+   padding: 20px;
+}
+
+.txtz-wrapper ul {
+    list-style-type: none;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    /* For IE, the outcast */
+    zoom:1;
+    *display: inline;
+}
+
+.txtz-wrapper li {
+    padding: 2px 5px;
+    border: 0px solid black;
+}     

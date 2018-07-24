@@ -81,6 +81,7 @@ L::Load();
                 <li>
                     <a href="#" class="smooth-scroll"><?php L::W("Social"); ?></a>
                     <ul>
+						<li><a href="https://forum.btcz.rocks" target="_blank">BitcoinZ Forum</a></li>					
                         <li><a href="https://www.facebook.com/BTCZCommunity/" target="_blank">Facebook</a></li>
                         <li><a href="https://slack.btcz.rocks/" target="_blank">Slack</a></li>
                         <li><a href="https://twitter.com/BitcoinZTeam" target="_blank">Twitter</a></li>
@@ -138,6 +139,7 @@ L::Load();
                         <li class="menu-item-has-children current-menu-item">
                             <a href="#" class="smooth-scroll"><?php L::W("Social"); ?></a>
                             <ul class="sub-menu">
+							    <li><a href="https://forum.btcz.rocks" target="_blank">BitcoinZ Forum</a></li>
                                 <li><a href="https://www.facebook.com/BTCZCommunity/" target="_blank">Facebook</a></li>
                                 <li><a href="https://slack.btcz.rocks/" target="_blank">Slack</a></li>
                                 <li><a href="https://twitter.com/BitcoinzTeam" target="_blank">Twitter</a></li>
@@ -281,7 +283,7 @@ L::Load();
                         <a href="#">
                             <i class="pe-7s-drop"></i>
                             <h4><?php L::W("Algorithm"); ?></h4>
-                            <p><?php L::W("Equihash"); ?></p>
+                            <p><?php L::W("PoW"); ?></p>
                         </a>
                     </li>
                     <li class="animated-service anim-shadow">
@@ -306,10 +308,10 @@ L::Load();
                         <div class="head-service small-head text-left">
                             <h2><?php L::W("Our goal is to port all best free software on the market to be able to use in BitcoinZ."); ?></h2>
                         </div>
-                        <?php L::W("<p>Immutable params:</p> <p>- max supply </p> <p>- inflation </p> <p>- only POW algo - we may change Equihash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>"); ?>
+                        <?php L::W("<p>Immutable params:</p> <p>- max supply </p> <p>- inflation </p> <p>- only POW algo - we may change Zhash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>"); ?>
                     </div>
                     <div class="col-md-5 col-md-push-1">
-                        <?php L::W('<ul class="list"> <li>Algo: Equihash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCH (BTCZ = 2MB every 2.5 mins ~ BCH = 8MB every 10 min)</li> </ul>'); ?>
+                        <?php L::W('<ul class="list"> <li>Algo: Zhash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCH (BTCZ = 2MB every 2.5 mins ~ BCH = 8MB every 10 min)</li> </ul>'); ?>
                     </div>
                 </div>
                 <div class="col-md-12">
@@ -385,7 +387,7 @@ L::Load();
                 </div>
             </div>
             <div class="col-md-5">
-                <a href="https://btc-alpha.com/exchange/BTCZ_BTC/" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/btc-alpha.png" class="exch_img"></a>
+                <a href="https://exmo.me/en/trade#?pair=BTCZ_BTC" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/exmo.png" class="exch_img"></a>
             </div>
             <div class="col-md-4">
                 <a href="https://stocks.exchange/trade/BTCZ/BTC" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/stocks-exchange.png" class="exch_img"></a>
@@ -411,6 +413,19 @@ L::Load();
                 <a href="https://exrates.me/dashboard" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/exrates.png" class="exch_img"></a>
             </div>
         </div>
+        <div class="row">
+            <div class="col-md-3">
+            </div>
+            <div class="col-md-5">
+                <a href="https://crex24.com/exchange/BTCZ-BTC" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/crex24.png" class="exch_img"></a>
+            </div>
+            <div class="col-md-4">
+                <a href="https://btc-alpha.com/exchange/BTCZ_BTC/" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/btc-alpha.png" class="exch_img"></a>
+            </div>
+        </div>
+        <div class="heading-title small-heading center">
+          <p><?php L::W("For informational purposes only. Trade at your own risk - never trade more than you can afford to lose."); ?></p>
+        </div>		
     </div>
 </section>
 
@@ -539,6 +554,25 @@ L::Load();
                 </div>
             </div>
         </div>
+		<div class="row">
+            <div class="col-md-8 col-md-push-2">
+                <div class="heading-title center">
+                    <h2><?php L::W("introducing <span>txtZ</span>"); ?></h2>
+                    <div class="small-desd"><?php L::W("send and receive BTCZ using SMS text"); ?></div>
+					<div class="txtz-wrapper">
+					<ul>
+						<li><?php L::W("No Install Required"); ?></li>
+						<li><?php L::W("No Smartphone required"); ?></li>
+						<li><?php L::W("Send BTCZ to anyone's cell phone using text messaging"); ?></li>
+						<li><?php L::W("Works with any cellphone that supports SMS"); ?></li>
+						<li><?php L::W("Send both Transparent and Private Z Transactions"); ?></li>
+					</ul>
+					</div>
+                    <img src="<?php siteUrl(); ?>images/txtz-promo.jpg" style="max-width:50%" />
+                    <h4><a href="https://www.youtube.com/watch?v=aeGX36c24i0&t=9m49s" target="_blank"><?php L::W("Click here to watch the TxtZ Announcement on Youtube"); ?></a></h4>
+                </div>
+            </div>
+        </div>
         <div class="row">
             <!--Start item-->
             <div class="col-md-4">
@@ -550,7 +584,7 @@ L::Load();
                     <div class="content">
                         <h3><?php L::W("Decentralized <span>Mining</span>"); ?></h3>
                         <p>
-                            <?php L::W("As a miner you should not use the biggest pools to follow main principles.<br>Easy to mine<br>Equihash algorithm.<br>Decentralized Exchanges"); ?>
+                            <?php L::W("As a miner you should not use the biggest pools to follow main principles.<br>Easy to mine<br>Zhash algorithm.<br>Decentralized Exchanges"); ?>
                         </p>
                     </div>
                 </div>
@@ -743,7 +777,14 @@ L::Load();
                         </a>
                     </div>
                 </div>
-            </div>
+                <div class="col-md-2">
+                    <div class="item-carousel">
+                        <a href="https://forum.btcz.rocks" target="_blank">
+                            <img src="<?php siteUrl(); ?>images/social/discourse.png" alt="logo">
+                        </a>
+                    </div>
+                </div>				
+			</div>
         </div>
     </div>
 
