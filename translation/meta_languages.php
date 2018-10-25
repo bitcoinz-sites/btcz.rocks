@@ -51,11 +51,11 @@ return [
             'short' => 'ru',
             'icon' => 'ru'
         ],
-        'sl' => [
+        'si' => [
             'native' => 'Slovenščina',
             'in_english' => 'Slovenian',
-            'short' => 'sl',
-            'icon' => 'sl'
+            'short' => 'si',
+            'icon' => 'si'
         ],		
 
     ],
