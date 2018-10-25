@@ -22,7 +22,7 @@ About the <span>coin</span>,O <span>kovancu</span>
 Important Details,Pomembni podatki
 - Backup your wallet in many locations<br>- Store big amount of coins in cold wallets in anonymous addresses<br>- Don't give / send anyone your private keys. Private keys needs to be secured. You can recover your wallets. If you give or send anyone your private key please consider it as a red flag and quickly move your coins to other address,"- Ustvarite varnostne kopije denarnic na več lokacijah.<br>- Večje vsote kovancev shranjujte v hladni denarnici (cold wallet).<br>- Svojega privat ključa ne pošiljajte nikomur. Biti mora zavarovan, da lahko obnovite svojo denarnico. Če komurkoli pošljete svoj privaten ključ prosimo, da razmislite o prenosu kovancev na drugi naslov."
 BitcoinZ is <span>Bitcoin 2.0</span>,BitcoinZ je <span>Bitcoin 2.0</span>
-"- Bitcoin technology<br>- Anonymous transactions (zk-SNARKs privacy)<br>- Bitcoin has all transactions publicly available.<br>- decentralized GPU mining (ASIC miners are banned, hardforks to prevent ASIC miners are allowed)<br>- Decentralized development / All contributors are volunteers<br>- Big blocks -> blocks are similar to BCC / BCH","- Bitcoin tehnologija<br>- Anonimne transakcije (zk-SNARKs privacy)<br>- Bitcoin ima vse transakcije javno dostopne.<br>- decentralizirano GPU rudarjenje (ASIC rudarji so izključeni, ""hardforks"" za preprečevanje ASIC rudarjenja so dovoljeni)<br>- Decentraliziran razvoj / Vsi sodelujoči so prostovoljci<br>- Veliki bloki -> bloki so podobni BCC / BCH"
+"- Bitcoin technology<br>- Anonymous transactions (zk-SNARKs privacy)<br>- Bitcoin has all transactions publicly available.<br>- decentralized GPU mining (ASIC miners are banned, hardforks to prevent ASIC miners are allowed)<br>- Decentralized development / All contributors are volunteers<br>- Big blocks -> blocks are similar to BCH","- Bitcoin tehnologija<br>- Anonimne transakcije (zk-SNARKs privacy)<br>- Bitcoin ima vse transakcije javno dostopne.<br>- decentralizirano GPU rudarjenje (ASIC rudarji so izključeni, hardforks za preprečevanje ASIC rudarjenja so dovoljeni)<br>- Decentraliziran razvoj / Vsi sodelujoči so prostovoljci<br>- Veliki bloki -> bloki so podobni BCH"
 Active <span>Community</span>,Aktivna<span>Skupnost</span>
 "Our community is active and we are always developing. <br>You can follow us in social networks, on the forum, as well as Slack","Naša skupnost je aktivna in se konstantno razvija. <br>Sledite nam lahko na socialnih omrežjih, na forumih in tudi na Slacku"
 Benefits <span>BitcoinZ</span>,Prednosti<span>BitcoinZ</span>
@@ -53,7 +53,7 @@ Exchanges,Kripto borze
 Buy or sell your BitcoinZ coins,Kupi ali prodaj svoj BitcoinZ kovance
 Download <span>Wallet</span>,Prenesi <span>Denarnico</span>
 "Linux, Windows and mobile wallets","Linux, Windows in mobilne denarnice"
-Road <span>Map</span>,Napredek <span>BitcoinZ-ja</span>
+Road <span>Map</span>,Razvoj <span>kovanca</span>
 BitcoinZ Core Client,BitcoinZ Core Klienti
 Block Explorer,Block Explorer
 Mining Pools,Mining Pools
