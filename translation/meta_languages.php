@@ -51,6 +51,12 @@ return [
             'short' => 'ru',
             'icon' => 'ru'
         ],
+        'si' => [
+            'native' => 'Slovenščina',
+            'in_english' => 'Slovenian',
+            'short' => 'si',
+            'icon' => 'si'
+        ],		
 
     ],
 ];
