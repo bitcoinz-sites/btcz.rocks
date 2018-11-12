@@ -423,6 +423,14 @@ L::Load();
                 <a href="https://btc-alpha.com/exchange/BTCZ_BTC/" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/btc-alpha.png" class="exch_img"></a>
             </div>
         </div>
+        <div class="row">
+            <div class="col-md-3">
+            </div>
+            <div class="col-md-5">
+                <a href="https://safe.trade/trading/btczbtc" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/safecoin.png" class="exch_img"></a>
+            </div>
+        </div>
+
         <div class="heading-title small-heading center">
           <p><?php L::W("For informational purposes only. Trade at your own risk - never trade more than you can afford to lose."); ?></p>
         </div>		
