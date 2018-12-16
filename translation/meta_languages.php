@@ -56,6 +56,12 @@ return [
             'in_english' => 'Slovenian',
             'short' => 'si',
             'icon' => 'si'
+        ],
+        'fr' => [
+            'native' => 'Français',
+            'in_english' => 'French',
+            'short' => 'fr',
+            'icon' => 'fr'
         ],		
 
     ],
