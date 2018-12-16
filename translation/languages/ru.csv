@@ -35,8 +35,8 @@ Fast Transactions,Быстрые транзакции
 Circulating Supply,Текущая награда
 "12,500 coins every 2.5 minutes","12,500 монет каждые 2.5 минуты"
 Our goal is to port all best free software on the market to be able to use in BitcoinZ.,"Наша цель - перенести все лучшее бесплатное программное обеспечение на рынок, чтобы иметь возможность использовать его в BitcoinZ."
-"<p>Immutable params:</p> <p>- max supply </p> <p>- inflation </p> <p>- only POW algo - we may change Equihash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>","<p>Неизменяемые параметры:</p><p>- максимальная эмиссия</p><p>- инфляция</p><p>- только POW - мы можем изменить Equihash на другой POW алгоритм, чтобы предотвратить майнинг на ASIC </p><p>- новые возможности позволяют улучшить использование / масштабировать, но мы никогда не изменим историю (ETH/ETC case)</p>"
-"<ul class=""list""> <li>Algo: Equihash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCH (BTCZ = 2MB every 2.5 mins ~ BCH = 8MB every 10 min)</li> </ul>","<ul class=""list""> <li>Алгоритм: Equihash (только GPU майнинг - мы поддерживаем децентрализацию в добыче)</li> <li>Максимальное количество монет 21 МЛРД</li> <li>Текущая награда: 12,500 монет каждые 2.5 минуты</li> <li>Текущий размер блока аналогичен BCH (BTCZ = 2MB каждые 2.5 минуты ~ BCH = 8MB каждые 10 минут)</li> </ul>"
+"<p>Immutable params:</p> <p>- max supply </p> <p>- inflation </p> <p>- only POW algo - we may change Zhash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>","<p>Неизменяемые параметры:</p><p>- максимальная эмиссия</p><p>- инфляция</p><p>- только POW - мы можем изменить Zhash на другой POW алгоритм, чтобы предотвратить майнинг на ASIC </p><p>- новые возможности позволяют улучшить использование / масштабировать, но мы никогда не изменим историю (ETH/ETC case)</p>"
+"<li>Algo: Zhash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCH (BTCZ = 2MB every 2.5 mins ~ BCH = 8MB every 10 min)</li> </ul>","<li>Алгоритм: Zhash (только GPU майнинг - мы поддерживаем децентрализацию в добыче)</li> <li>Максимальное количество монет 21 МЛРД</li> <li>Текущая награда: 12,500 монет каждые 2.5 минуты</li> <li>Текущий размер блока аналогичен BCH (BTCZ = 2MB каждые 2.5 минуты ~ BCH = 8MB каждые 10 минут)</li> </ul>"
 View Forum,Сообщения форума
 Why <span>BitcoinZ?</span>,Почему <span>BitcoinZ?</span>
 We are a fully decentralized network,Мы полностью децентрализованная сеть
@@ -70,7 +70,7 @@ why choose <span>BitcoinZ</span>,почему выбирают <span>BitcoinZ</ 
 Here are a few <span>reasons</span>,Для этого есть несколько <span>причин</span>
 WARNING: Always remember about the pitfalls and keep your backup keys in a safe place!,ПРЕДУПРЕЖДЕНИЕ: Всегда помните о подводных камнях и держите резервные копии ключей в надежном месте!
 Decentralized <span>Mining</span>,Децентрализованый <span>Майнинг</span>
-As a miner you should not use the biggest pools to follow main principles.<br>Easy to mine<br>Equihash algorithm.<br>Decentralized Exchanges,"Как майнер вы не должны использовать самые большие пулы, чтобы следовать основным принципам.<br>Легкий майнинг<br>Алгоритм Equihash<br>Децентрализованные обмены"
+As a miner you should not use the biggest pools to follow main principles.<br>Easy to mine<br>Zhash algorithm.<br>Decentralized Exchanges,"Как майнер вы не должны использовать самые большие пулы, чтобы следовать основным принципам.<br>Легкий майнинг<br>Алгоритм Zhash<br>Децентрализованные обмены"
 No <span>Pre-Mine</span>,Нет <span>Пре-майна</span>
 Pure coin. No pre-mine.,Чистая монета. Без предварительной добычи.
 21 billion coins! Everyone in the world can have at least one BTCZ!,21 миллиард монет! Каждый в мире может иметь хотя бы один BTCZ!
@@ -85,6 +85,15 @@ Decentralized <span>Development</span>,Децентрализованная <spa
 All exchanges are allowed. The best ones are decentralized. We plan to implement fully decentralized XCAT exchange.,Все биржи разрешены. Но лучше выбирать децентрализованные. Мы планируем реализовать полностью децентрализованный обмен XCAT.
 Only POW and <span>no POS</span>,Только POW и <span>никакого POS</span>
 "The coin is calculated only for POW mining, and will never be changed to POS","Монета рассчитана только для добычи POW майнингом, и никогда не будет изменена на POS"
-View Bitcointalk Forum Topic,Просмотр темы на Bitcointalk
-Bitcointalk Forum Topic,Тема форума на Bitcointalk
-BitcoinZ Community. All rights reserved.,Сообщество BitcoinZ. Все права защищены.
+"View Bitcointalk Forum Topic","Просмотр темы на Bitcointalk"
+"Bitcointalk Forum Topic","Тема форума на Bitcointalk"
+"BitcoinZ Community. All rights reserved.","Сообщество BitcoinZ. Все права защищены."
+"For informational purposes only. Trade at your own risk - never trade more than you can afford to lose.","Только для ознакомительных целей. Торгуйте на свой страх и риск - никогда не торгуйте больше, чем вы можете позволить себе потерять."
+"introducing <span>txtZ</span>","Представляем <span>txtZ</span>"
+"send and receive BTCZ using SMS text","Отправляйте и получайте BTCZ, используя текст SMS"
+"No Install Required","Не требуется установка"
+"No Smartphone required","Смартфон не требуется"
+"Send BTCZ to anyone's cell phone using text messaging","Отправить BTCZ на любой мобильный телефон с помощью текстовых сообщений"
+"Works with any cellphone that supports SMS","Работает с любым мобильным телефоном, поддерживающим SMS"
+"Send both Transparent and Private Z Transactions","Отправляйте как прозрачные, так и частные транзакции Z"
+"Click here to watch the TxtZ Announcement on Youtube","Нажмите здесь, чтобы посмотреть объявление TxtZ на Youtube"
