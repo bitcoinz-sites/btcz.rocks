@@ -62,6 +62,12 @@ return [
             'in_english' => 'French',
             'short' => 'fr',
             'icon' => 'fr'
+        ],
+        'in' => [
+            'native' => 'Indonesia',
+            'in_english' => 'Indonesian',
+            'short' => 'in',
+            'icon' => 'in'
         ],		
 
     ],
