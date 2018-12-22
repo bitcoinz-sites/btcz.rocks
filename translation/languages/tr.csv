@@ -35,8 +35,8 @@ Fast Transactions,Hızlı İşlemler
 Circulating Supply,Dolaşımlı Arz
 "12,500 coins every 2.5 minutes",2.5 dakikada bir 12.500 BTCZ
 Our goal is to port all best free software on the market to be able to use in BitcoinZ.,"Amacımız, BitcoinZ'de kullanmak için piyasadaki en iyi ücretsiz yazılımların hepsini bağlamaktır."
-"<p>Immutable params:</p> <p>- max supply </p> <p>- inflation </p> <p>- only POW algo - we may change Equihash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>",<p>Değişmez Değerler:</p> <p>- Maksimum Adet </p> <p>- Enflasyon </p> <p>- Sadece POW ( iş kanıtı ) algoritması</p> <p>- Geçmiş asla değiştirilmez</p> <p>Değişebilir Değerler:</p> <p>- ASIC ile kazmayı engelleme amacıyla POW algoritmaları arasında geçiş yapılabilir.</p>
-"<ul class=""list""> <li>Algo: Equihash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCH (BTCZ = 2MB every 2.5 mins ~ BCH = 8MB every 10 min)</li> </ul>","<ul class=""list""> <li>Algoritma: Equihash ( Her zaman GPU madenciliği - Merkezsiz madenciliği destekliyoruz. ) </li> <li>Toplamda maksimum 21 milyar adet BTCZ üretilebilir. </li> <li>Şuanda her 2,5 dakikada 12.500 BTCZ dağıtılmaktadır.</li> <li>Blok boyutu BCH ile benzeşir. (BTCZ = 2,5 dakikada bir 2MB, BCH = 10 dakikada bir 8MB'tır. )</li> </ul>"
+"<p>Immutable params:</p> <p>- max supply </p> <p>- inflation </p> <p>- only POW algo - we may change Zhash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>",<p>Değişmez Değerler:</p> <p>- Maksimum Adet </p> <p>- Enflasyon </p> <p>- Sadece POW ( iş kanıtı ) algoritması</p> <p>- Geçmiş asla değiştirilmez</p> <p>Değişebilir Değerler:</p> <p>- ASIC ile kazmayı engelleme amacıyla POW algoritmaları arasında geçiş yapılabilir.</p>
+"<li>Algo: Zhash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCH (BTCZ = 2MB every 2.5 mins ~ BCH = 8MB every 10 min)</li> </ul>","<li>Algoritma: Zhash ( Her zaman GPU madenciliği - Merkezsiz madenciliği destekliyoruz. ) </li> <li>Toplamda maksimum 21 milyar adet BTCZ üretilebilir. </li> <li>Şuanda her 2,5 dakikada 12.500 BTCZ dağıtılmaktadır.</li> <li>Blok boyutu BCH ile benzeşir. (BTCZ = 2,5 dakikada bir 2MB, BCH = 10 dakikada bir 8MB'tır. )</li> </ul>"
 View Forum,Forumu Görüntüle
 Why <span>BitcoinZ?</span>,Neden <span>BitcoinZ?</span>
 We are a fully decentralized network,Tamamen dağitik çalişan bir ağiz
@@ -70,7 +70,7 @@ why choose <span>BitcoinZ</span>,Neden bitconZ'Yİ <span>seçmelisiniz?</span>
 Here are a few <span>reasons</span>,Işte bir kaç <span>neden</span>
 WARNING: Always remember about the pitfalls and keep your backup keys in a safe place!,DİKKAT: Cüzdanınızın gizli anahtarlarını bir sorun oluşmasına karşı korunmak için her zaman güvenli yerlere yedekleyin!
 Decentralized <span>Mining</span>,Dağitik <span>Madencilik</span>
-As a miner you should not use the biggest pools to follow main principles.<br>Easy to mine<br>Equihash algorithm.<br>Decentralized Exchanges,Madenci olarak en büyük havuzları kullanmak zorunda değilsiniz.<br> Kazması kolaydır.<br> Equihash algoritması.<br> Bağımsız transferler
+As a miner you should not use the biggest pools to follow main principles.<br>Easy to mine<br>Zhash algorithm.<br>Decentralized Exchanges,Madenci olarak en büyük havuzları kullanmak zorunda değilsiniz.<br> Kazması kolaydır.<br> Zhash algoritması.<br> Bağımsız transferler
 No <span>Pre-Mine</span>,Önceden <span>Kazilmamiştir</span>
 Pure coin. No pre-mine.,Tamamen sıfırdan üretilmiştir ve önceden kazım yapılmamıştır.
 21 billion coins! Everyone in the world can have at least one BTCZ!,21 milyar adet - Dünyadaki herkes en az bir BTCZ'ye sahip olabilir.
@@ -84,7 +84,16 @@ Your coin will grow and develop in a natural way.,Doğal şekilde büyümekte ve
 Decentralized <span>Development</span>,Merkezsiz <span>Geliştirme</span>
 All exchanges are allowed. The best ones are decentralized. We plan to implement fully decentralized XCAT exchange.,Hangi borsalara girileceğini topluluk belirler ve topluluk katılımı ile belirlenen borsalarda yer alınması sağlanır.
 Only POW and <span>no POS</span>,Sadece POW ve <span>asla POS olmayacak</span>
-"The coin is calculated only for POW mining, and will never be changed to POS",Sadece POW ( iş kanıtı ) ile çalışmaktadır ve asla POS ( destek kanıtı ) ile çalışmayacaktır.
-View Bitcointalk Forum Topic,Bitcointalk Forum Başliğini Görüntüle
-Bitcointalk Forum Topic,Bitcontalk Konusu
-BitcoinZ Community. All rights reserved.,BitcoinZ Topluluğu. Tüm Hakları Saklıdır.
+"The coin is calculated only for POW mining, and will never be changed to POS","Sadece POW ( iş kanıtı ) ile çalışmaktadır ve asla POS ( destek kanıtı ) ile çalışmayacaktır."
+"View Bitcointalk Forum Topic","Bitcointalk Forum Başliğini Görüntüle"
+"Bitcointalk Forum Topic","Bitcontalk Konusu"
+"BitcoinZ Community. All rights reserved.","BitcoinZ Topluluğu. Tüm Hakları Saklıdır."
+"For informational purposes only. Trade at your own risk - never trade more than you can afford to lose.","Sadece bilgilendirme amaçlıdır. Kendi riskiyle ticaret yapın - asla kaybetmeyi göze alabileceğinizden daha fazla ticaret yapmayın."
+"introducing <span>txtZ</span>","<Span>txtZ</span> ile tanışın"
+"send and receive BTCZ using SMS text","SMS metin kullanarak BTCZ gönder ve al"
+"No Install Required","Kurulum gerektirmez"
+"No Smartphone required","Akıllı telefon gerektirmez"
+"Send BTCZ to anyone's cell phone using text messaging","Metin mesajlarını kullanarak BTCZ'yi herhangi birinin cep telefonuna gönder"
+"Works with any cellphone that supports SMS","SMS'i destekleyen herhangi bir cep telefonu ile çalışır"
+"Send both Transparent and Private Z Transactions","Şeffaf ve Özel Z İşlemleri Gönder"
+"Click here to watch the TxtZ Announcement on Youtube","Youtube'daki TxtZ Duyurusunu izlemek için buraya tıklayın"

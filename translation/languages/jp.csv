@@ -35,8 +35,8 @@ Fast Transactions,速いトランザクション
 Circulating Supply,供給量
 "12,500 coins every 2.5 minutes",2分30秒ごとに12.500BTCZ
 Our goal is to port all best free software on the market to be able to use in BitcoinZ.,私達の目標は、市場にある全ての良質なフリーソフトをBitcoinZで使えるようにすることです。
-"<p>Immutable params:</p> <p>- max supply </p> <p>- inflation </p> <p>- only POW algo - we may change Equihash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>",<p>不変の要素：</p><p>-最大供給量</p><p>-インフレーション</p><p>-PoWのみの採用  - ASICによるマイニングを防止するため、Equihashから他のPoWアルゴリズムに変更する可能性はあります。</p><p>-コインの利用やスケーラビリティの改善のために新しい機能を追加することは認めますが、私達はETHとETCがフォークするきっかけになったような、歴史の改変は行いません。</p>
-"<ul class=""list""> <li>Algo: Equihash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCH (BTCZ = 2MB every 2.5 mins ~ BCH = 8MB every 10 min)</li> </ul>","<ul class=""list""> <li>Algo: Equihash アルゴリズム : Equihash ( 常にGPUマイニング – 私達はマイニングの非中央集権化を推進します) </li> <li>最大供給量  210億枚</li> <li>現在の供給量 : 2分30秒ごとに12500枚</li> <li>現在のブロックサイズはビットコインキャッシュ(BCH)に類似 (BTCZ = 2分30秒ごとに2MB ～ BCH = 10分ごとに8MB)</li> </ul>"
+"<p>Immutable params:</p> <p>- max supply </p> <p>- inflation </p> <p>- only POW algo - we may change Zhash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>",<p>不変の要素：</p><p>-最大供給量</p><p>-インフレーション</p><p>-PoWのみの採用  - ASICによるマイニングを防止するため、Zhashから他のPoWアルゴリズムに変更する可能性はあります。</p><p>-コインの利用やスケーラビリティの改善のために新しい機能を追加することは認めますが、私達はETHとETCがフォークするきっかけになったような、歴史の改変は行いません。</p>
+"<li>Algo: Zhash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCH (BTCZ = 2MB every 2.5 mins ~ BCH = 8MB every 10 min)</li> </ul>","<li>アルゴリズム : Zhash ( 常にGPUマイニング – 私達はマイニングの非中央集権化を推進します) </li> <li>最大供給量  210億枚</li> <li>現在の供給量 : 2分30秒ごとに12500枚</li> <li>現在のブロックサイズはビットコインキャッシュ(BCH)に類似 (BTCZ = 2分30秒ごとに2MB ～ BCH = 10分ごとに8MB)</li> </ul>"
 View Forum,フォーラムを見てみる
 Why <span>BitcoinZ?</span>,なぜ<span>BitcoinZなのか？</span>
 We are a fully decentralized network,私達は完全に非中央集権化されたネットワークです。
@@ -70,9 +70,7 @@ why choose <span>BitcoinZ</span>,なぜ<span>BitcoinZ</span>が選ばれるの�
 Here are a few <span>reasons</span>,いくつかの<span>理由</span>があります
 WARNING: Always remember about the pitfalls and keep your backup keys in a safe place!,注意: 常にアクシデントに気をつけ、安全な場所に秘密鍵のバックアップを作ってください！
 Decentralized <span>Mining</span>,非中央集権的な<span>マイニング</span>
-As a miner you should not use the biggest pools to follow main principles.<br>Easy to mine<br>Equihash algorithm.<br>Decentralized Exchanges,"マイニングをする際は、最も参加者が多いマイニングプールはできるだけ使わないようにしてください。<br>簡単にマイニングできます<br>
-Equihashアルゴリズム<br>非中央集権化された取引
-"
+"As a miner you should not use the biggest pools to follow main principles.<br>Easy to mine<br>Zhash algorithm.<br>Decentralized Exchanges","マイニングをする際は、最も参加者が多いマイニングプールはできるだけ使わないようにしてください。<br>簡単にマイニングできます<br>Zhashアルゴリズム<br>非中央集権化された取引"
 No <span>Pre-Mine</span>,<span>プレマイン</span>なし
 Pure coin. No pre-mine.,プレマインのないピュアなコインです。
 21 billion coins! Everyone in the world can have at least one BTCZ!,210億枚のコイン！ 世界中の人が少なくとも1人1枚のBTCZを持てる量です！
@@ -87,6 +85,15 @@ Decentralized <span>Development</span>,非中央集権的な<span>開発</span>
 All exchanges are allowed. The best ones are decentralized. We plan to implement fully decentralized XCAT exchange.,あらゆる取引所での取引を認めます。最も優れているのは非中央集権的な取引所だと考えます。私達は、xCATを用いた、完全に非中央集権化された取引所について計画しています。
 Only POW and <span>no POS</span>,PoWのみ、<span>PoSなし</span>
 "The coin is calculated only for POW mining, and will never be changed to POS",このコインはPoWマイニングによってのみ供給されます。今後PoSに変更されることはありません。
-View Bitcointalk Forum Topic,Bitcointalkのトピックを見る
-Bitcointalk Forum Topic,Bitcointalkトピック
-BitcoinZ Community. All rights reserved.,BitcoinZ Community. All rights reserved.
+"View Bitcointalk Forum Topic","Bitcointalkのトピックを見る"
+"Bitcointalk Forum Topic","Bitcointalkトピック"
+"BitcoinZ Community. All rights reserved.","BitcoinZコミュニティ。 全著作権所有。"
+"For informational purposes only. Trade at your own risk - never trade more than you can afford to lose.", "情報提供のみを目的としています。 あなた自身のリスクで貿易してください。"
+"introducing <span>txtZ</span>","<span>txtZ </span>を導入する"
+"send and receive BTCZ using SMS text","SMSテキストを使用してBTCZを送受信する"
+"No Install Required","インストール不要"
+"No Smartphone required","スマートフォンは必要ありません"
+"Send BTCZ to anyone's cell phone using text messaging","テキストメッセージを使って誰の携帯電話にもBTCZを送ってください。"
+"Works with any cellphone that supports SMS","SMSをサポートする携帯電話で動作します。"
+"Send both Transparent and Private Z Transactions","透過的および非公開のZトランザクションを送信します。"
+"Click here to watch the TxtZ Announcement on Youtube","YoutubeでTxtZの発表を見るには、ここをクリックしてください。"

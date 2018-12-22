@@ -11,7 +11,7 @@ Guides,يرشد
 Pools,برك
 Explorer,مستكشف
 Social,اجتماعي
-Lang,Lang
+Lang,لغة
 It's Your Coin,انها عملة الخاص بك
 BitcoinZ: The true Bitcoin 2.0,مرحبا بكم في اللامركزية. BitcoinZ . هدية المجتمع إلى العالم
 Welcome to the decentralization,مرحبا بكم في اللامركزية
@@ -24,18 +24,13 @@ Important Details,تفاصيل مهمة
  محفظتك في العديد من المواقع احفظ -
 خزن كميه كبيره من القطع النقدي في عنوان غير معروف في محفظتك -
 لا تعطي/ او ترس مفتاحك الخاص الى احد .المفتاح الخاص هو كل ما تحتاج لحصول العنوان المخزن فيه النقود في حال  المفتاح الى احد بلغط اسرع وانقل النقود الى عنوان اخر  اعطيت"
-BitcoinZ is <span>Bitcoin 2.0</span>,"BitcoinZ is <span>Bitcoin ٢.٠
-</span>"
+BitcoinZ is <span>Bitcoin 2.0</span>,"BitcoinZ هو <span>Bitcoin 2.0</ span>"
 "- Bitcoin technology<br>- Anonymous transactions (zk-SNARKs privacy)<br>- Bitcoin has all transactions publicly available.<br>- decentralized GPU mining (ASIC miners are banned, hardforks to prevent ASIC miners are allowed)<br>- Decentralized development / All contributors are volunteers<br>- Big blocks -> blocks are similar to BCH","بيتكوين لديه جميع المعاملات    ( زك-سناركس الخصوصية)  المعاملات المجهولة -
-متاح الى جميع
-
- التعدين اللامركزي غبو (يتم حظر عمال المناجم أسيك، ويسمح للأعمال الصلبة لمنع عمال المناجم أسيك)-"
+متاح الى جميع التعدين اللامركزي غبو (يتم حظر عمال المناجم أسيك، ويسمح للأعمال الصلبة لمنع عمال المناجم أسيك)-"
 Active <span>Community</span>,مجتمع نشط
-"Our community is active and we are always developing. <br>You can follow us in social networks, on the forum, as well as Slack","مجتمع نشط:
-مجتمعنا نشط ونحن نطور دائما -
- يمكنك متابعتنا في الشبكات الاجتماعية، على المنتدى، وكذلك سلاك -"
+"Our community is active and we are always developing. <br>You can follow us in social networks, on the forum, as well as Slack","مجتمع نشط: مجتمعنا نشط ونحن نطور دائما - يمكنك متابعتنا في الشبكات الاجتماعية، على المنتدى، وكذلك سلاك -"
 Benefits <span>BitcoinZ</span>,فائدة<span>BitcoinZ</span>
-Max Supply,Max Supply
+Max Supply,ماكس العرض
 "21,000,000,000 BTCZ","21,000,000,000 BTCZ"
 Algorithm,السهوله في البحس عنه
 PoW,Zhash
@@ -43,49 +38,43 @@ Fast Transactions,المعاملات السريعة
 2MB every 2.5 minutes,كل 2.5 دقيقة ~ بسك / بش = 8MB كل 10 دقيقة)
 Circulating Supply,التضخم -
 "12,500 coins every 2.5 minutes",يسمح الميزات الجديدة لتحسين الاستخدام / التدرجية، ولكننا لن تغير التاريخ (إيث / إتك حالة -
-Our goal is to port all best free software on the market to be able to use in BitcoinZ.,هدفنا هو ميناء كل أفضل البرمجيات الحرة في السوق لتكون قادرة على استخدامها في بيتكوينز -
-"<p>Immutable params:</p> <p>- max supply </p> <p>- inflation </p> <p>- only POW algo - we may change Equihash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>","هدفنا هو ميناء كل أفضل البرمجيات الحرة في السوق لتكون قادرة على استخدامها في بيتكوينز -
-معلمات غير قابلة للتغيير -
- اعل العرض -
- التضخم -"
-"<ul class=""list""> <li>Algo: Equihash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCH (BTCZ = 2MB every 2.5 mins ~ BCH = 8MB every 10 min)</li> </ul>","إيبو ألغو - قد نغير إكيهاش ألغو لغيرهم من أسو ألغو لمنع أسيك مينرسنلاتيون -
- يسمح الميزات الجديدة لتحسين الاستخدام / التدرجية، ولكننا لن تغير التاريخ (إيث / إتك حالة -
-حجم كتلة الحالي يشبه بسك / بش (بتز = 2MB كل 2.5 دقيقة ~ بسك / بش = 8MB كل 10 دقيقة) "
-View Forum,View Forum
-Why <span>BitcoinZ?</span>,لماذا بيتسوينز ؟؟؟
+Our goal is to port all best free software on the market to be able to use in BitcoinZ.,هدفنا هو ميناء كل أفضل البرمجيات الحرة في السوق لتكون قادرة على استخدامها في بيتكوينز 
+"<p>Immutable params:</p> <p>- max supply </p> <p>- inflation </p> <p>- only POW algo - we may change Zhash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>","<p>المعلمات غير القابلة للتغيير: </p><p>- العرض الأقصى </p><p>- التضخم </p><p>- خوارزمية POW فقط - يجوز لنا تغيير خوارزمية Zhash إلى خوارزمية POW أخرى لمنع عمال مناجم ASIC </p><p>- يُسمح بميزات جديدة لتحسين الاستخدام / التدرج ، ولكننا لن نغير التاريخ أبدًا (حالة ETH / ETC) </p>"
+"<li>Algo: Zhash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCH (BTCZ = 2MB every 2.5 mins ~ BCH = 8MB every 10 min)</li> </ul>","<li>إيبو ألغو - قد نغير إكيهاش ألغو لغيرهم من أسو ألغو لمنع أسيك مينرسنلاتيون </li> <li> يسمح الميزات الجديدة لتحسين الاستخدام / التدرجية، ولكننا لن تغير التاريخ (إيث / إتك حالة </li> <li> حجم كتلة الحالي يشبه بسك / بش (بتز = 2MB كل 2.5 دقيقة ~ بسك / بش = 8MB كل 10 دقيقة) "
+View Forum,عرض المنتدى
+Why <span>BitcoinZ?</span>,لماذا بيتسوينز ؟
 We are a fully decentralized network,نحن شبكة ديسكراليزد تماما
 Here are some advantages,وهنا بعض المزايا
 Anonymity,إخفاء الاسم -
 All transactions are completely anonymous.,جمالمعاملات مجهولة تماما -يع
-Support for different platforms,Support for different platforms
-"Our wallet is compatible with Linux, Windows, iOS and Android.","Our wallet is compatible with Linux, Windows, iOS and Android."
-Community,Community
-"We listen to our dear community, so we can succeed.","We listen to our dear community, so we can succeed."
-Active price growth,Active price growth
-BitcoinZ is focused on organic growth.,BitcoinZ is focused on organic growth.
+Support for different platforms,دعم منصات مختلفة
+"Our wallet is compatible with Linux, Windows, iOS and Android.","محفظتنا متوافقة مع لينكس ، ويندوز ، آي أو إس وأندرويد."
+Community,تواصل اجتماعي
+"We listen to our dear community, so we can succeed.","نستمع إلى مجتمعنا العزيز ، حتى ننجح."
+Active price growth,نمو السعر الفعال
+BitcoinZ is focused on organic growth.,يركز BitcoinZ على النمو العضوي.
 Exchanges,Exchanges
-Buy or sell your BitcoinZ coins,Buy or sell your BitcoinZ coins
-Download <span>Wallet</span>,Download <span>Wallet</span>
-"Linux, Windows and mobile wallets","Linux, Windows and mobile wallets"
-Road <span>Map</span>,Road <span>Map</span>
+Buy or sell your BitcoinZ coins,شراء أو بيع عملاتك الخاصة بـ BitcoinZ
+Download <span>Wallet</span>,تنزيل <span> المحفظة</span>
+"Linux, Windows and mobile wallets","لينكس ، ويندوز ومحافظ المحمول"
+Road <span>Map</span>,الطريق <span>الخريطة</span>
 BitcoinZ Core Client,BitcoinZ Core Client
-Block Explorer,Block Explorer
+Block Explorer,كتلة إكسبلورر
 Mining Pools,Mining Pools
 GUI Wallet,GUI Wallet
 iOS &amp; Android Wallet,iOS &amp; Android Wallet
-Commerce Plugins,Commerce Plugins
-Exchange Listing,Exchange Listing
-Masquerade Technology,Masquerade Technology
-Decentralization Packages,Decentralization Packages
-Game Development,Game Development
-zk-SNARKs From Mobile,zk-SNARKs From Mobile
-Public Relations,Public Relations
-why choose <span>BitcoinZ</span>,"لماذا الاختيار
-BitcoinZ"
+Commerce Plugins,التجارة الإضافات
+Exchange Listing,قائمة الصرف
+Masquerade Technology,تنكر التكنولوجيا
+Decentralization Packages,الحزم اللامركزية
+Game Development,تطوير اللعبة
+zk-SNARKs From Mobile,zk-SNARKs من الجوال
+Public Relations,علاقات عامة
+why choose <span>BitcoinZ</span>,"لماذا الاختيار <span>BitcoinZ</span>"
 Here are a few <span>reasons</span>,هنا بضعة أسباب
 WARNING: Always remember about the pitfalls and keep your backup keys in a safe place!,تحذير: تذكر دائما عن المزالق والحفاظ على مفاتيح النسخ الاحتياطي الخاص بك في مكان آمن!
 Decentralized <span>Mining</span>,السهوله في البحس عنه
-As a miner you should not use the biggest pools to follow main principles.<br>Easy to mine<br>Equihash algorithm.<br>Decentralized Exchanges,التبادلات اللامركزية
+As a miner you should not use the biggest pools to follow main principles.<br>Easy to mine<br>Zhash algorithm.<br>Decentralized Exchanges,كعامل منجم يجب عليك عدم استخدام أكبر تجمعات لمتابعة المبادئ الرئيسية. <br> من السهل أن الألغام <br> خوارزمية الزها. <br> التبادلات اللامركزية 
 No <span>Pre-Mine</span>,عدم وجود العمله قبل تنقيب عنه
 Pure coin. No pre-mine.,عمله خام
 21 billion coins! Everyone in the world can have at least one BTCZ!,مليار قطعة نقدية - كل شيء في العالم يمكن أن يكون واحد على الأقل بتزز 21
@@ -97,10 +86,18 @@ You can use BitcoinZ coins in your smartphones.,يمكن استخدمه بتكو
 Natural <span>Growth</span>,نموا طبيعي
 Your coin will grow and develop in a natural way.,العمله سوف تنموا و تتطور بشكل طبيعي
 Decentralized <span>Development</span>,التنمية اللامركزية
-All exchanges are allowed. The best ones are decentralized. We plan to implement fully decentralized XCAT exchange.,"التنمية اللامركزية
-جميع التبادلات مسموح بها. وأفضلها لامركزية. ونحن نخطط لتنفيذ اللامركزية بالكامل تبادل زكات"
+All exchanges are allowed. The best ones are decentralized. We plan to implement fully decentralized XCAT exchange.,"التنمية اللامركزية جميع التبادلات مسموح بها. وأفضلها لامركزية. ونحن نخطط لتنفيذ اللامركزية بالكامل تبادل زكات"
 Only POW and <span>no POS</span>,و لا<span>POW>  فقط  </span>
-"The coin is calculated only for POW mining, and will never be changed to POS",سوف يتم احتسام العمله  وتنقب عنه في برنماج وبس وليس اخر
-View Bitcointalk Forum Topic,View Bitcointalk Forum Topic
-Bitcointalk Forum Topic,Bitcointalk Forum Topic
-BitcoinZ Community. All rights reserved.,كل الحقوق محفوظة
+"The coin is calculated only for POW mining, and will never be changed to POS","سوف يتم احتسام العمله  وتنقب عنه في برنماج وبس وليس اخر"
+"View Bitcointalk Forum Topic","عرض المنتدى Bitcointalk الموضوع"
+"Bitcointalk Forum Topic","منتدى Bitcointalk الموضوع"
+"BitcoinZ Community. All rights reserved.","كل الحقوق محفوظة"
+"For informational purposes only. Trade at your own risk - never trade more than you can afford to lose.", "لأغراض إعلامية فقط. تداول على مسؤوليتك الخاصة - لا تتاجر أبداً بأكثر مما تستطيع أن تخسره."
+"introducing <span>txtZ</span>","نقدم لكم <span> txtZ</span>"
+"send and receive BTCZ using SMS text","إرسال واستقبال BTCZ باستخدام نص SMS"
+"No Install Required","لا التثبيت المطلوب"
+"No Smartphone required","لا يوجد هاتف ذكي مطلوب"
+"Send BTCZ to anyone's cell phone using text messaging","إرسال BTCZ إلى هاتف محمول لأي شخص باستخدام الرسائل النصية"
+"Works with any cellphone that supports SMS","يعمل مع أي هاتف محمول يدعم الرسائل القصيرة"
+"Send both Transparent and Private Z Transactions","إرسال كل من المعاملات Z الشفافة والخاصة"
+"Click here to watch the TxtZ Announcement on Youtube","انقر هنا لمشاهدة إعلان TxtZ على يوتيوب"

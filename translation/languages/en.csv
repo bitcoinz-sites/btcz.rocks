@@ -36,7 +36,7 @@ Circulating Supply,Circulating Supply
 "12,500 coins every 2.5 minutes","12,500 coins every 2.5 minutes"
 Our goal is to port all best free software on the market to be able to use in BitcoinZ.,Our goal is to port all best free software on the market to be able to use in BitcoinZ.
 "<p>Immutable params:</p> <p>- max supply </p> <p>- inflation </p> <p>- only POW algo - we may change Equihash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>","<p>Immutable params:</p> <p>- max supply </p> <p>- inflation </p> <p>- only POW algo - we may change Equihash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>"
-"<ul class=""list""> <li>Algo: Equihash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCH (BTCZ = 2MB every 2.5 mins ~ BCH = 8MB every 10 min)</li> </ul>","<ul class=""list""> <li>Algo: Equihash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCH (BTCZ = 2MB every 2.5 mins ~ BCH = 8MB every 10 min)</li> </ul>"
+"<li>Algo: Zhash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCH (BTCZ = 2MB every 2.5 mins ~ BCH = 8MB every 10 min)</li> </ul>","<li>Algo: Zhash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCH (BTCZ = 2MB every 2.5 mins ~ BCH = 8MB every 10 min)</li> </ul>"
 View Forum,View Forum
 Why <span>BitcoinZ?</span>,Why <span>BitcoinZ?</span>
 We are a fully decentralized network,We are a fully decentralized network
@@ -85,6 +85,15 @@ Decentralized <span>Development</span>,Decentralized <span>Development</span>
 All exchanges are allowed. The best ones are decentralized. We plan to implement fully decentralized XCAT exchange.,All exchanges are allowed. The best ones are decentralized. We plan to implement fully decentralized XCAT exchange.
 Only POW and <span>no POS</span>,Only POW and <span>no POS</span>
 "The coin is calculated only for POW mining, and will never be changed to POS","The coin is calculated only for POW mining, and will never be changed to POS"
-View Bitcointalk Forum Topic,View Bitcointalk Forum Topic
-Bitcointalk Forum Topic,Bitcointalk Forum Topic
-BitcoinZ Community. All rights reserved.,BitcoinZ Community. All rights reserved.
+"View Bitcointalk Forum Topic","View Bitcointalk Forum Topic"
+"Bitcointalk Forum Topic","Bitcointalk Forum Topic"
+"BitcoinZ Community. All rights reserved.","BitcoinZ Community. All rights reserved."
+"For informational purposes only. Trade at your own risk - never trade more than you can afford to lose.", "For informational purposes only. Trade at your own risk - never trade more than you can afford to lose."
+"introducing <span>txtZ</span>","Introducing <span>txtZ</span>"
+"send and receive BTCZ using SMS text","Send and receive BTCZ using SMS text"
+"No Install Required","No install required"
+"No Smartphone required","No smartphone required"
+"Send BTCZ to anyone's cell phone using text messaging","Send BTCZ to anyone's cell phone using text messaging"
+"Works with any cellphone that supports SMS","Fonctionne avec tous les téléphones portable compatible SMS"
+"Send both Transparent and Private Z Transactions","Send both Transparent and Private Z Transactions"
+"Click here to watch the TxtZ Announcement on Youtube","Click here to watch the TxtZ Announcement on Youtube"

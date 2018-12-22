@@ -36,9 +36,8 @@ Fast Transactions,Snelle transacties
 Circulating Supply,Circulerende voorraad
 "12,500 coins every 2.5 minutes","12,500 munten elke 2.5 minutes"
 Our goal is to port all best free software on the market to be able to use in BitcoinZ.,Ons doel is om de beste gratis software op de markt te zetten om in BitcoinZ te kunnen gebruiken
-"<p>Immutable params:</p> <p>- max supply </p> <p>- inflation </p> <p>- only POW algo - we may change Equihash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>","<p>Onveranderlijke params:</p> <p>- Totale vooraard </p> <p>- inflatie </p> <p>- Alleen POW - we may change Equihash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>"
-"<ul class=""list""> <li>Algo: Equihash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCC/BCH (BTCZ = 2MB every 2.5 mins ~ BCC/BCH = 8MB every 10 min)</li> </ul>","<ul class=""list""> <li>Algo: Equihash (altijd GPU-mining - we bevorderen decentralisatie in mining) </li> <li>Totale vooraard 21B munten </li> <li>Huidige voorraad
-: 12,500 coins elke 2.5 minuten</li> <li>Huidige blokgrootte is vergelijkbaar met BCH (BTCZ = 2MB elke 2.5 minuten ~ BCH = 8MB elke 10 minuten)</li> </ul>"
+"<p>Immutable params:</p> <p>- max supply </p> <p>- inflation </p> <p>- only POW algo - we may change Zhash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>","<p>Onveranderlijke params:</p> <p>- Totale vooraard </p> <p>- inflatie </p> <p>- Alleen POW - we kunnen Zhash algo veranderen in andere POW-alg om ASIC-mijnwerkers te voorkomen </p> <p>- nieuwe functies zijn toegestaan om het gebruik / de schaalbaarheid te verbeteren, maar we zullen nooit geschiedenis veranderen (ETH / ETC-zaak) </p>"
+"<li>Algo: Zhash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCH (BTCZ = 2MB every 2.5 mins ~ BCH = 8MB every 10 min)</li> </ul>","<li>Algo: Zhash (altijd GPU-mining - we bevorderen decentralisatie in mining) </li> <li>Totale vooraard 21B munten </li> <li>Huidige voorraad: 12,500 coins elke 2.5 minuten</li> <li>Huidige blokgrootte is vergelijkbaar met BCH (BTCZ = 2MB elke 2.5 minuten ~ BCH = 8MB elke 10 minuten)</li> </ul>"
 View Forum,View Forum
 Why <span>BitcoinZ?</span>,Waarom <span>BitcoinZ?</span>
 We are a fully decentralized network,Wij zijn een volledig gedecentraliseerd netwerk
@@ -72,12 +71,12 @@ why choose <span>BitcoinZ</span>,Waarom kiezen voor <span>BitcoinZ</span>
 Here are a few <span>reasons</span>,Hier zijn een paar<span>redenen</span>
 WARNING: Always remember about the pitfalls and keep your backup keys in a safe place!,WAARSCHUWING: Pas op altijd voor de gevaren en bewaar uw private keys op een veilige plek!
 Decentralized <span>Mining</span>,Gedecentraliseerde <span>Mining</span>
-As a miner you should not use the biggest pools to follow main principles.<br>Easy to mine<br>Equihash algorithm.<br>Decentralized Exchanges,Als miner moet je de grootste pool niet gebruiken om de belangrijkste principes te volgen.<br>Gemakkelijk om te minen<br>Equihash anonimiteit.<br>Gedecentraliseerde Exchanges
+As a miner you should not use the biggest pools to follow main principles.<br>Easy to mine<br>Zhash algorithm.<br>Decentralized Exchanges,Als miner moet je de grootste pool niet gebruiken om de belangrijkste principes te volgen.<br>Gemakkelijk om te minen<br>Zhash anonimiteit.<br>Gedecentraliseerde Exchanges
 No <span>Pre-Mine</span>,Geen <span>Pre-Mine</span>
-Pure coin. No pre-mine.,Pure coin. No pre-mine.
+Pure coin. No pre-mine.,Zuivere munt. Geen pre-mijnen.
 21 billion coins! Everyone in the world can have at least one BTCZ!,21 miljard munten! Iedereen ter wereld kan minimaal één BTCZ hebben!
 Our community is actively developing and growing every day.,Onze gemeenschap is elke dag actief aan het ontwikkelen en groeien.
-Anonymous <span>Transactions</span>,Anonieme<span>Transacties</span>
+Anonymous <span>Transactions</span>,Anonieme <span>Transacties</span>
 All transactions remain anonymous. So you do not have to worry about anonymity.,Alle transacties blijven anoniem. U hoeft zich dus geen zorgen te maken over anonimiteit.
 Android and iOS <span>Wallet</span>,Android Portefeuilles iOS <span>Wallet</span>
 You can use BitcoinZ coins in your smartphones.,U kunt BitcoinZ-munten gebruiken op uw smartphones.
@@ -86,7 +85,16 @@ Your coin will grow and develop in a natural way.,Uw munt groeit en ontwikkelt z
 Decentralized <span>Development</span>,Gedecentraliseerde <span>Ontwikkeling</span>
 All exchanges are allowed. The best ones are decentralized. We plan to implement fully decentralized XCAT exchange.,Alle uitwisselingen zijn toegestaan. De beste zijn gedecentraliseerd. We zijn van plan om volledig gedecentraliseerde XCAT-uitwisseling te implementeren.
 Only POW and <span>no POS</span>,Alleen POW and <span>geen POS</span>
-"The coin is calculated only for POW mining, and will never be changed to POS",De munt wordt alleen berekend voor POW-mining en zal nooit worden veranderd in POS
-View Bitcointalk Forum Topic,Bekijk de Bitcointalk Forum
-Bitcointalk Forum Topic,Bitcointalk Forum Onderwerp
-BitcoinZ Community. All rights reserved.,BitcoinZ Community. Alle rechten voorbehouden.
+"The coin is calculated only for POW mining, and will never be changed to POS","De munt wordt alleen berekend voor POW-mining en zal nooit worden veranderd in POS"
+"View Bitcointalk Forum Topic","Bekijk de Bitcointalk Forum"
+"Bitcointalk Forum Topic,Bitcointalk Forum Onderwerp"
+"BitcoinZ Community. All rights reserved.","BitcoinZ Community. Alle rechten voorbehouden."
+"For informational purposes only. Trade at your own risk - never trade more than you can afford to lose.", "Alleen voor informatieve doeleinden. Handel op eigen risico - handel nooit meer dan je kunt veroorloven om te verliezen."
+"introducing <span>txtZ</span>","Introductie van <span> txtZ</span>"
+"send and receive BTCZ using SMS text","Verzend en ontvang BTCZ met SMS-tekst"
+"No Install Required","Geen installatie vereist"
+"No Smartphone required","Geen smartphone vereist"
+"Send BTCZ to anyone's cell phone using text messaging","Stuur BTCZ via sms naar de mobiele telefoon van iemand"
+"Works with any cellphone that supports SMS","Werkt met elke mobiele telefoon die SMS ondersteunt"
+"Send both Transparent and Private Z Transactions","Verzend zowel transparante als private Z-transacties"
+"Click here to watch the TxtZ Announcement on Youtube","Klik hier om de aankondiging van TxtZ op Youtube te bekijken."

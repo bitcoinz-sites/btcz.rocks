@@ -35,8 +35,8 @@ Fast Transactions,Brze transakcije
 Circulating Supply,Cirkulirajuće zalihe
 "12,500 coins every 2.5 minutes",12500 svakih 2.5 min.
 Our goal is to port all best free software on the market to be able to use in BitcoinZ.,Naš cilj je da omogućimo svim najboljim besplatnim software-ima na marketu da mogu da koriste BitcoinZ.
-"<p>Immutable params:</p> <p>- max supply </p> <p>- inflation </p> <p>- only POW algo - we may change Equihash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>","<p>Nepromjenjivi parametri:</p> <p>- maks. zaliha </p> <p>- inflacija </p> <p>- samo POW algoritam - možemo promeniti Equihash algoritam u drugi POW algoritam radi zaštite od ASIC rudara </p> <p>- nove karakteristike su dozvoljene samo zbog unapređenja korišćenja / stabilnisti, ali nikada nećemo menjati istoriju (ETH/ETC slučaj) </p>"
-"<ul class=""list""> <li>Algo: Equihash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCH (BTCZ = 2MB every 2.5 mins ~ BCH = 8MB every 10 min)</li> </ul>","<ul class=""list""> <li>Algoritam: Equihash (uvek GPU rudarenje - mi promovišemo decentralizaciju u rudarenju) </li> <li>Maks. Dostupnost: 21B novčića</li> <li>Trenutne zalihe: 12500 novčića na svaka 2.5 minuta</li> <li>Trenutna veličina bloka je slična BCH (BTCZ = 2MB na svaka 2.5 minuta ~ BCH = 8MB na svakih 10 minuta)</li> </ul>"
+"<p>Immutable params:</p> <p>- max supply </p> <p>- inflation </p> <p>- only POW algo - we may change Zhash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>","<p>Nepromjenjivi parametri:</p> <p>- maks. zaliha </p> <p>- inflacija </p> <p>- samo POW algoritam - možemo promeniti Zhash algoritam u drugi POW algoritam radi zaštite od ASIC rudara </p> <p>- nove karakteristike su dozvoljene samo zbog unapređenja korišćenja / stabilnisti, ali nikada nećemo menjati istoriju (ETH/ETC slučaj) </p>"
+"<li>Algo: Zhash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCH (BTCZ = 2MB every 2.5 mins ~ BCH = 8MB every 10 min)</li> </ul>","<li>Algoritam: Zhash (uvek GPU rudarenje - mi promovišemo decentralizaciju u rudarenju) </li> <li>Maks. Dostupnost: 21B novčića</li> <li>Trenutne zalihe: 12500 novčića na svaka 2.5 minuta</li> <li>Trenutna veličina bloka je slična BCH (BTCZ = 2MB na svaka 2.5 minuta ~ BCH = 8MB na svakih 10 minuta)</li> </ul>"
 View Forum,Poseti Forum
 Why <span>BitcoinZ?</span>,Zašto <span>BitcoinZ?</span>
 We are a fully decentralized network,Mi smo potpuno decentralizovana mreža
@@ -70,7 +70,7 @@ why choose <span>BitcoinZ</span>,zašto izabrati <span>BitcoinZ</span>
 Here are a few <span>reasons</span>,Evo nekoliko <span>razloga</span>
 WARNING: Always remember about the pitfalls and keep your backup keys in a safe place!,UPOZORENJE: Uvek se seti da postoje sigurnosne zamke i drži kopije svojih privatnih ključeva na sigurnom mestu!
 Decentralized <span>Mining</span>,Decentralizovano <span>Rudarenje</span>
-As a miner you should not use the biggest pools to follow main principles.<br>Easy to mine<br>Equihash algorithm.<br>Decentralized Exchanges,Kao rudar ne bi trebao da koristiš najveće bazene kako bi sledio naše osnovne principe.<br>Lako rudarenje<br>Equihash algoritam.<br>Decentralizovane menjačnice
+"As a miner you should not use the biggest pools to follow main principles.<br>Easy to mine<br>Zhash algorithm.<br>Decentralized Exchanges","Kao rudar ne bi trebao da koristiš najveće bazene kako bi sledio naše osnovne principe.<br>Lako rudarenje<br>Zhash algoritam.<br>Decentralizovane menjačnice"
 No <span>Pre-Mine</span>,Bez <span>Pre-Mine-a</span>
 Pure coin. No pre-mine.,Čist novčić. Bez pre-mine-a.
 21 billion coins! Everyone in the world can have at least one BTCZ!,21 milijarda novčića! Svako na svetu može imati barem jedan BTCZ!
@@ -85,6 +85,15 @@ Decentralized <span>Development</span>,Decentralizovan <span>Razvoj</span>
 All exchanges are allowed. The best ones are decentralized. We plan to implement fully decentralized XCAT exchange.,Sve menjačnice su dozvoljene. Najbolje su one decentralizovane. Planiramo implementaciju potpuno decentralizovane XCAT menjačnice.
 Only POW and <span>no POS</span>,Samo POW i <span>nikad POS</span>
 "The coin is calculated only for POW mining, and will never be changed to POS","Novčić je namenjen samo za POW rudarstvo, i nikada neće biti promenjen u POS"
-View Bitcointalk Forum Topic,Poseti temu na Bitcointalk Forum-u
-Bitcointalk Forum Topic,Tema Bitcointalk Forum-a
-BitcoinZ Community. All rights reserved.,BitcoinZ Zajednica. Sva prava zadržana.
+"View Bitcointalk Forum Topic","Poseti temu na Bitcointalk Forum-u"
+"Bitcointalk Forum Topic","Tema Bitcointalk Forum-a"
+"BitcoinZ Community. All rights reserved.","BitcoinZ Zajednica. Sva prava zadržana".
+"For informational purposes only. Trade at your own risk - never trade more than you can afford to lose.", "Samo u informativne svrhe. Trgovina na sopstveni rizik - ne trgujte više nego što možete sebi priuštiti da izgubite."
+"introducing <span>txtZ</span>","Predstavljamo <span>txtZ</span>"
+"send and receive BTCZ using SMS text","Pošaljite i primite BTCZ koristeći SMS tekst"
+"No Install Required","Nije potrebna instalacija"
+"No Smartphone required","Nije potreban pametni telefon"
+"Send BTCZ to anyone's cell phone using text messaging","Pošaljite BTCZ na bilo koji mobilni telefon koristeći tekstualne poruke"
+"Works with any cellphone that supports SMS","Radi sa bilo kojim mobilnim telefonom koji podržava SMS"
+"Send both Transparent and Private Z Transactions","Pošaljite transparentne i privatne Z transakcije"
+"Click here to watch the TxtZ Announcement on Youtube","Kliknite ovde da biste gledali TxtZ oglas na YouTube-u"
