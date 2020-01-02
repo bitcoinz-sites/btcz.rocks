@@ -384,7 +384,7 @@ L::Load();
                 </div>
             </div>
             <div class="col-md-5">
-                <a href="https://exmo.me/en/trade#?pair=BTCZ_BTC" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/exmo.png" class="exch_img"></a>
+                <a href="https://exmo.me/en/trade/BTCZ_BTC" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/exmo.png" class="exch_img"></a>
             </div>
             <div class="col-md-4">
                 <a href="https://stocks.exchange/trade/BTCZ/BTC" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/stocks-exchange.png" class="exch_img"></a>
