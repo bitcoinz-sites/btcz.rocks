@@ -166,11 +166,6 @@ L::Load();
         <div data-image="<?php siteUrl(); ?>images/backgrounds/mountains.jpg" class="slide bg-mask background-image full-vh">
             <div class="container-slide vertical-align center head-desc">
                 <div class="container">
-                    	<div class="row">
-				<div class="col-md-12">
-				<div style="padding: 15px 0px 20px 0px;"><a href="https://telegra.ph/BitcoinZ--contest-game-for-10-000-000-coins-BTCZ-12-20" target="_blank"><img style="display: inline; width: 70%;" src="<?php siteUrl(); ?>images/bitcoinz_contest.png"></a></div>
-				</div>
-			</div>
 			<div class="row">
 			    <div class="col-md-12">
                             <div class="heading-title-big"><?php L::W("It's Your Coin"); ?><br><span><?php L::W("BitcoinZ: The true Bitcoin 2.0"); ?></span></div>
