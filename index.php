@@ -407,7 +407,7 @@ L::Load();
                 <a href="https://crex24.com/exchange/BTCZ-BTC" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/crex24.png" class="exch_img"></a>
             </div>
             <div class="col-md-4">
-                <a href="https://btc-alpha.com/exchange/BTCZ_BTC/" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/btc-alpha.png" class="exch_img"></a>
+                <a href="https://btc-alpha.com/exchange/BTCZ_BTC" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/btc-alpha.png" class="exch_img"></a>
             </div>
         </div>
         <div class="row">
