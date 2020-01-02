@@ -387,7 +387,7 @@ L::Load();
                 <a href="https://exmo.me/en/trade/BTCZ_BTC" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/exmo.png" class="exch_img"></a>
             </div>
             <div class="col-md-4">
-                <a href="https://app.stex.com/en/trade/pair/USDT/BTCZ/1D" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/stocks-exchange.png" class="exch_img"></a>
+                <a href="https://app.stex.com/en/trade/pair/USDT/BTCZ/1D" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/stex.png" class="exch_img"></a>
             </div>
         </div>
         <div class="row">
