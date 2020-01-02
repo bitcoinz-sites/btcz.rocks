@@ -393,9 +393,6 @@ L::Load();
         <div class="row">
             <div class="col-md-3">
             </div>
-            <div class="col-md-5">
-                <a href="https://tradesatoshi.com/Exchange?market=BTCZ_BTC" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/tradesatoshi.png" class="exch_img"></a>
-            </div>
             <div class="col-md-4">
                 <a href="https://github.com/KomodoPlatform/BarterDEX/releases" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/barterdex.png" class="exch_img"></a>
             </div>
