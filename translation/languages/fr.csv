@@ -22,7 +22,7 @@ About the <span>coin</span>,A propos de la <span>pièce</span>
 Important Details,Détails importants
 "- Backup your wallet in many locations<br>- Store big amount of coins in cold wallets in anonymous addresses<br>- Don't give / send anyone your private keys. Private keys needs to be secured. You can recover your wallets. If you give or send anyone your private key please consider it as a red flag and quickly move your coins to other address","- Sauvegardez votre portefeuille dans plusieurs endroits<br>- Stockez une grande quantité de pièces dans des portefeuilles à froids (cold storage) et dans des adresses anonymes<br>- Ne donnez pas et n'envoyez à personne vos clés privées. Les clés privées doivent être sécurisées. Vous pouvez récupérer vos portefeuilles. Si vous donnez ou envoyez à quelqu'un votre clé privée, déplacez rapidement vos pièces vers une autre adresse."
 BitcoinZ is <span>Bitcoin 2.0</span>,BitcoinZ est le <span>Bitcoin 2.0</span>
-"- Bitcoin technology<br>- Anonymous transactions (zk-SNARKs privacy)<br>- Bitcoin has all transactions publicly available.<br>- decentralized GPU mining (ASIC miners are banned, hardforks to prevent ASIC miners are allowed)<br>- Decentralized development / All contributors are volunteers<br>- Big blocks -> blocks are similar to BCH","- Technologie Bitcoin<br>- Transactions anonymes (confidentialité zk-SNARKs)<br>- Bitcoin a toutes les transactions disponibles publiquement.<br>- Minage décentralisé par GPU (Les mineurs d'ASIC sont interdits, les hardfoorks sont autorisés pour empêcher le minage par ASIC)<br>- Développement décentralisé / Tous les contributeurs sont des volontaires<br>- Gros blocs -> Les blocs sont similaire au BCH"
+"- Bitcoin technology<br>- Anonymous transactions (zk-SNARKs privacy)<br>- Bitcoin has all transactions publicly available.<br>- decentralized GPU mining (ASIC miners are banned, hardforks to prevent ASIC miners are allowed)<br>- Decentralized development / All contributors are volunteers<br>- Big blocks -> blocks are similar to BCH","- Technologie Bitcoin<br>- Transactions anonymes (confidentialité zk-SNARKs)<br>- Bitcoin a toutes les transactions disponibles publiquement.<br>- Minage décentralisé par GPU (Les mineurs d'ASIC sont interdits, les hardforks sont autorisés pour empêcher le minage par ASIC)<br>- Développement décentralisé / Tous les contributeurs sont des volontaires<br>- Gros blocs -> Les blocs sont similaire au BCH"
 Active <span>Community</span>,<span>Communauté</span> active
 "Our community is active and we are always developing. <br>You can follow us in social networks, on the forum, as well as Slack","Notre communauté est active et nous évoluons constamment.<br> Vous pouvez nous suivre sur les réseaux sociaux, sur le forum, ainsi que sur Slack."
 Benefits <span>BitcoinZ</span>,Avantages de <span>BitcoinZ</span>
@@ -34,8 +34,8 @@ Fast Transactions,Transactions rapides
 2MB every 2.5 minutes,2MB toutes 2.5 minutes
 Circulating Supply,Récompense par block
 "12,500 coins every 2.5 minutes","12 500 pièces toutes les 2,5 min"
-Our goal is to port all best free software on the market to be able to use in BitcoinZ.,Notre objectif est de porter tous les meilleurs logiciels libres du marché à utiliser BitcoinZ.
-"<p>Immutable params:</p> <p>- max supply </p> <p>- inflation </p> <p>- only POW algo - we may change Zhash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>","<p>Paramètres immuables :<br/>- Nb de pièce maximum<br/>- Inflation<br/>- Seulement l'algo POW<br/>- Nous pouvons changer l'algo Zhash en un autre algo POW pour éviter le minage à l'aide d'ASIC<br/>- De nouvelles fonctionnalités sont autorisées pour améliorer l'utilisation / l'évolutivité, mais nous ne changerons jamais l'historique (cas ETH / ETC)"
+Our goal is to port all best free software on the market to be able to use in BitcoinZ.,Notre objectif est de porter tous les meilleurs logiciels gratuit du marché à utiliser BitcoinZ.
+"<p>Immutable params:</p> <p>- max supply </p> <p>- inflation </p> <p>- only POW algo - we may change Zhash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>","<p>Paramètres immuables :<br/>- Nb de pièce maximum<br/>- Inflation<br/>- Seulement l'algo POW<br/>- Nous pouvons changer l'algo Zhash en un autre algo POW pour éviter le minage à l'aide d'ASIC<br/>- De nouvelles fonctionnalités sont autorisées pour améliorer l'utilisation / l'évolution, mais nous ne changerons jamais l'historique (cas ETH / ETC)"
 "<li>Algo: Zhash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCH (BTCZ = 2MB every 2.5 mins ~ BCH = 8MB every 10 min)</li> </ul>","<li>Algo : Zhash (Minage uniquement par GPU - Nous promouvons la décentralisation dans le minage) </li> <li>Nb maximum de 21 milliards de pièces </li> <li>Récompense actuelle : 12 500 pièces toutes les 2,5 minutes</li> <li>La taille d'un bloc est similaire à BCH (BTCZ = 2MB toutes les 2,5 mins ~ BCH = 8MB toutes les 10 min)</li> </ul>"
 View Forum,Voir le forum
 Why <span>BitcoinZ?</span>,Pourquoi <span>BitcoinZ ?</span>
@@ -46,7 +46,7 @@ All transactions are completely anonymous.,Toutes les transactions sont complèt
 Support for different platforms,Prise en charge de différentes plateformes
 "Our wallet is compatible with Linux, Windows, iOS and Android.","Notre portefeuille est compatible avec Linux, Windows, iOS et Android."
 Community,Communauté
-"We listen to our dear community, so we can succeed.","Nous écoutons notre chère communauté pour réussir."
+"We listen to our dear community, so we can succeed.","Nous écoutons notre chère communauté, pour pouvoir réussir."
 Active price growth,Croissance active des prix
 BitcoinZ is focused on organic growth.,BitcoinZ se concentre sur la croissance organique.
 Exchanges,Exchanges
@@ -84,7 +84,7 @@ Your coin will grow and develop in a natural way.,Votre pièce va grandir et se 
 Decentralized <span>Development</span>,<span>Développement</span> décentralisé
 All exchanges are allowed. The best ones are decentralized. We plan to implement fully decentralized XCAT exchange.,Tous les échanges sont autorisés. Les meilleurs sont décentralisés. Nous prévoyons de mettre en place un échange XCAT totalement décentralisé.
 Only POW and <span>no POS</span>,Seulement POW et <span>pas de POS</span>
-"The coin is calculated only for POW mining, and will never be changed to POS","La pièce est calculée uniquement pour l'exploitation minière POW et ne sera jamais changée en POS"
+"The coin is calculated only for POW mining, and will never be changed to POS","La pièce est calculée uniquement pour le minage POW et ne sera jamais changée en POS"
 View Bitcointalk Forum Topic,Voir le sujet sur le forum Bitcointalk
 Bitcointalk Forum Topic,Bitcointalk
 BitcoinZ Community. All rights reserved.,Communauté BitcoinZ. Tous les droits sont réservés.

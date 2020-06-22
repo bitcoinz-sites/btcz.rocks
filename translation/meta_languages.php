@@ -75,6 +75,12 @@ return [
             'short' => 'it',
             'icon' => 'it'
         ],		
+        'pt' => [
+            'native' => 'Português',
+            'in_english' => 'Portuguese',
+            'short' => 'pt',
+            'icon' => 'pt'
+        ],      
 
     ],
 ];
