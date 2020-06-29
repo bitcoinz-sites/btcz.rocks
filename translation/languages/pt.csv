@@ -31,12 +31,12 @@ Max Supply,Núm máximo de moedas
 Algorithm,Algoritmo
 PoW,Zhash
 Fast Transactions,Transações rápidas
-2MB every 2.5 minutes,2 MB a cada 2,5 minutos
+2MB every 2.5 minutes,2MB cada 2.5 minutos
 Circulating Supply,Prêmios por block
 "12,500 coins every 2.5 minutes","12.500 moedas a cada 2,5 min"
 Our goal is to port all best free software on the market to be able to use in BitcoinZ.,Nosso objetivo é portar todos os melhores softwares grátis do mercado para poder usar no BitcoinZ.
 "<p>Immutable params:</p> <p>- max supply </p> <p>- inflation </p> <p>- only POW algo - we may change Zhash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>","<p>Parâmetros imutáveis: <br/> - Número máximo de moedas <br/> - Inflação <br/> - Somente o algo POW <br/> - Podemos mudar o algo Zhash para outro algo POW para evitar mineração em usando ASIC <br/> - Novas funcionalidades estão autorizadas a melhorar o uso / evolução, mas nunca mudaremos o histórico (caso ETH / ETC) "
-"<li>Algo: Zhash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCH (BTCZ = 2MB every 2.5 mins ~ BCH = 8MB every 10 min)</li> </ul>","<li>Algo: Zhash (Mineração apenas por GPU - Promovemos a descentralização na mineração) </li> <li> Número máximo de 21 bilhões de moedas </li> <li> Recompensa atual: 12.500 moedas a cada 2,5 minutos </li> <li> O tamanho de um bloco é semelhante ao BCH (BTCZ = 2MB a cada 2,5 minutos ~ BCH = 8MB a cada 10 minutos) </li> </ul> "
+"<li>Algo: Zhash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCH (BTCZ = 2MB every 2.5 mins ~ BCH = 8MB every 10 min)</li> </ul>","<li>Algo: Zhash (Mineração apenas por GPU - Promovemos a descentralização na mineração) </li> <li> Número máximo de 21 bilhões de moedas </li> <li> Premio atual: 12.500 moedas a cada 2,5 minutos </li> <li> O tamanho de um bloco é semelhante ao BCH (BTCZ = 2MB a cada 2,5 minutos ~ BCH = 8MB a cada 10 minutos) </li> </ul> "
 View Forum,Ver fórum
 Why <span>BitcoinZ?</span>,Por quê <span>BitcoinZ ?</span>
 We are a fully decentralized network,Somos uma rede totalmente descentralizada
