@@ -209,6 +209,9 @@ a.toggle-mnu.on {
 .buttons-section .large-btn {
     margin-top: 30px;
 }
+.buttons-section1 .large-btn1 {
+    margin-top: 30px;
+}
 
 .mfp-wrap::-webkit-scrollbar-track {
     background-color: #fff
@@ -875,8 +878,15 @@ ul.minimal li a {
 .buttons-section .dark-btn {
     background-color: transparent
 }
+.buttons-section1 .dark-btn1 {
+    background-color: transparent
+}
 
 .buttons-section .dark-btn:hover {
+    background-color: #c69c6d;
+    color: #fff
+}
+.buttons-section1 .dark-btn:hover {
     background-color: #c69c6d;
     color: #fff
 }
@@ -4354,6 +4364,9 @@ form .btn {
 
 .slider .buttons-section {
     margin-top: 30px;
+}
+.slider .buttons-section1 {
+    margin-top: 10px;
 }
 
 .slider .dots-control-carousel {

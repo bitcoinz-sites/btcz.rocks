@@ -168,9 +168,13 @@ L::Load();
                 <div class="container">
 			<div class="row">
 			    <div class="col-md-12">
-                            <div class="heading-title-big"><?php L::W("Go to new updated website "); ?><br><span><?php L::W("www.getbtcz.com"); ?></span></div>
-                            <div></div>
-                            <div class="heading-title-big"><?php L::W("It's Your Coin"); ?><br><span><?php L::W("BitcoinZ: The true Bitcoin 2.0"); ?></span></div>
+                            <div class="description-slide"><h2><?php L::W("Visit our new Community website"); ?></h2>
+                                <div class="buttons-section1">
+                                <a href="http://getbtcz.com" target="_blank" class="btn dark-btn1 large-btn1"><?php L::W("www.getbtcz.com"); ?></a>
+                                </div></div>
+                                <br>
+                                <br>
+                             <div class="heading-title-big"><?php L::W("It's Your Coin"); ?><br><span><?php L::W("BitcoinZ: The true Bitcoin 2.0"); ?></span></div>
                             <div class="description-slide"><?php L::W("Welcome to the decentralization"); ?></div>
 
                             <div class="buttons-section">
@@ -387,7 +391,8 @@ L::Load();
                 </div>
             </div>
             <div class="col-md-5">
-                <a href="https://exmo.me/en/trade/BTCZ_BTC" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/exmo.png" class="exch_img"></a>
+            <a href="https://cratex.io/index.php?pair=BTCZ/BTC" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/cratex.png" class="exch_img"></a>
+                <!-- <a href="https://exmo.me/en/trade/BTCZ_BTC" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/exmo.png" class="exch_img"></a> -->
             </div>
             <div class="col-md-4">
                 <a href="https://app.stex.com/en/trade/pair/USDT/BTCZ/1D" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/stex.png" class="exch_img"></a>
@@ -420,7 +425,7 @@ L::Load();
                 <a href="https://safe.trade/trading/btczbtc" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/safe-trade.png" class="exch_img"></a>
             </div>
             <div class="col-md-4">
-                <a href="https://cratex.io/index.php?pair=BTCZ/BTC" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/cratex.png" class="exch_img"></a>
+                <!-- <a href="https://cratex.io/index.php?pair=BTCZ/BTC" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/cratex.png" class="exch_img"></a> -->
             </div>
         </div>
 
