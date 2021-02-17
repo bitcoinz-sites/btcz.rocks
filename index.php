@@ -168,8 +168,11 @@ L::Load();
                 <div class="container">
 			<div class="row">
 			    <div class="col-md-12">
+                            <div class="heading-title-big"><?php L::W("Go to new updated website "); ?><br><span><?php L::W("www.getbtcz.com"); ?></span></div>
+                            <div></div>
                             <div class="heading-title-big"><?php L::W("It's Your Coin"); ?><br><span><?php L::W("BitcoinZ: The true Bitcoin 2.0"); ?></span></div>
                             <div class="description-slide"><?php L::W("Welcome to the decentralization"); ?></div>
+
                             <div class="buttons-section">
                                 <a href="<?php L::W("COMMUNITY_PAPER_URL"); ?>" target="_blank" class="btn dark-btn large-btn"><?php L::W("Community Paper"); ?></a>
                                 <a href="https://www.youtube.com/watch?v=7FjW2kV3VzQ" target="_blank" class="btn dark-btn large-btn"><?php L::W("Start Mining"); ?></a>
