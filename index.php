@@ -169,7 +169,8 @@ L::Load();
                 <div class="container">
 			<div class="row">
 			    <div class="col-md-12">
-               
+                <br>
+                                <br>
                             <div class="description-slide"><h2><?php L::W("Visit our new Community website"); ?></h2>
                                 <div class="buttons-section1">
                                 <a href="http://getbtcz.com" target="_blank" class="btn dark-btn1 large-btn1"><?php L::W("www.getbtcz.com"); ?></a>
@@ -179,6 +180,8 @@ L::Load();
                               
                              <div class="heading-title-big"><?php L::W("It's Your Coin"); ?><br><span><?php L::W("BitcoinZ: The true Bitcoin 2.0"); ?></span></div>
                             <div class="description-slide"><?php L::W("Welcome to the decentralization"); ?></div>
+                            <br>
+                                <br>
                             <center>
                                 <iframe src="https://embed.restream.io/player/index.html?token=6427e5fdb0ba804be94d55e5f05196b9" width="640" height="396" frameborder="0" allowfullscreen></iframe><p>Join us on Discord to talk! <a href="https://discord.gg/5xKSZNJg">Click Here</a></p>
                                </center>
