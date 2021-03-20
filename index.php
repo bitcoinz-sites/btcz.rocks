@@ -80,7 +80,7 @@ L::Load();
                 <li>
                     <a href="#" class="smooth-scroll"><?php L::W("Social"); ?></a>
                     <ul>
-						<li><a href="https://forum.btcz.rocks" target="_blank">BitcoinZ Forum</a></li>					
+						<li><a href="https://forum.btcz.rocks" target="_blank">BitcoinZ Forum</a></li>
                         <li><a href="https://www.facebook.com/BTCZCommunity/" target="_blank">Facebook</a></li>
                         <li><a href="https://slack.btcz.rocks/" target="_blank">Slack</a></li>
                         <li><a href="https://twitter.com/BitcoinZTeam" target="_blank">Twitter</a></li>
@@ -163,7 +163,7 @@ L::Load();
     </div>
     <div class="full-slider intro">
         <!-- Start slide-->
-        
+
         <div data-image="<?php siteUrl(); ?>images/backgrounds/mountains.jpg" class="slide bg-mask background-image full-vh">
             <div class="container-slide vertical-align center head-desc">
                 <div class="container">
@@ -177,7 +177,7 @@ L::Load();
                                 </div></div>
                                 <br>
                                 <br>
-                              
+
                              <div class="heading-title-big"><?php L::W("It's Your Coin"); ?><br><span><?php L::W("BitcoinZ: The true Bitcoin 2.0"); ?></span></div>
                             <div class="description-slide"><?php L::W("Welcome to the decentralization"); ?></div>
                             <br>
@@ -439,7 +439,7 @@ L::Load();
 
         <div class="heading-title small-heading center">
           <p><?php L::W("For informational purposes only. Trade at your own risk - never trade more than you can afford to lose."); ?></p>
-        </div>		
+        </div>
     </div>
 </section>
 
@@ -797,7 +797,7 @@ L::Load();
                             <img src="<?php siteUrl(); ?>images/social/discourse.png" alt="logo">
                         </a>
                     </div>
-                </div>				
+                </div>
 			</div>
         </div>
     </div>
