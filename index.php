@@ -175,9 +175,8 @@ L::Load();
                                 <br>
                                 <br>
 
-                               <center> <iframe src="https://embed.restream.io/player/index.html?token=6427e5fdb0ba804be94d55e5f05196b9" width="640" height="396" frameborder="0" allowfullscreen></iframe><p>Join us on Discord to talk! <a href="https://discord.gg/5xKSZNJg">Click Here</a></p></center>
-
-                             <div class="heading-title-big"><?php L::W("It's Your Coin"); ?><br><span><?php L::W("BitcoinZ: The true Bitcoin 2.0"); ?></span></div>
+				 
+			    <div class="heading-title-big"><?php L::W("It's Your Coin"); ?><br><span><?php L::W("BitcoinZ: The true Bitcoin 2.0"); ?></span></div>
                             <div class="description-slide"><?php L::W("Welcome to the decentralization"); ?></div>
 
                             <div class="buttons-section">
