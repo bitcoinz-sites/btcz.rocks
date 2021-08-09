@@ -181,7 +181,7 @@ L::Load();
 
                             <div class="buttons-section">
                                 <a href="<?php L::W("COMMUNITY_PAPER_URL"); ?>" target="_blank" class="btn dark-btn large-btn"><?php L::W("Community Paper"); ?></a>
-                                <a href="https://www.youtube.com/watch?v=7FjW2kV3VzQ" target="_blank" class="btn dark-btn large-btn"><?php L::W("Start Mining"); ?></a>
+                                <a href="https://youtu.be/7pBu9BeL85g" target="_blank" class="btn dark-btn large-btn"><?php L::W("Start Mining"); ?></a>
                                 <a href="https://info.btcz.rocks/" class="btn dark-btn large-btn" target="_blank"><?php L::W("Latest News"); ?></a>
                                 <a href="https://fund.btcz.rocks" class="btn dark-btn large-btn" target="_blank"><?php L::W("Donate"); ?></a>
                                 <div class="coinmarketcap-currency-widget" data-currencyid="2041" data-base="USD" data-secondary="BTC" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="true"></div>
