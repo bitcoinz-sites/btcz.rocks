@@ -84,7 +84,7 @@ L::Load();
                         <li><a href="https://www.facebook.com/BTCZCommunity/" target="_blank">Facebook</a></li>
                         <li><a href="https://slack.btcz.rocks/" target="_blank">Slack</a></li>
                         <li><a href="https://twitter.com/BitcoinZTeam" target="_blank">Twitter</a></li>
-                        <li><a href="https://t.me/bitcoinzcommunity" target="_blank">Telegram</a></li>
+                        <li><a href="https://t.me/btczofficialgroup" target="_blank">Telegram</a></li>
                         <li><a href="https://discordapp.com/invite/u3dkbFs" target="_blank">Discord</a></li>
                         <li><a href="https://www.reddit.com/r/BTCZCommunity/" target="_blank">Reddit</a></li>
 
@@ -407,7 +407,7 @@ L::Load();
                 <a href="https://graviex.net/markets/btczbtc" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/graviex.png" class="exch_img"></a>
             </div>
             <div class="col-md-4">
-                <a href="https://exrates.me/dashboard" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/exrates.png" class="exch_img"></a>
+                <a href="https://exrates.me" target="_blank"><img src="<?php siteUrl(); ?>images/exchanges/exrates.png" class="exch_img"></a>
             </div>
         </div>
         <div class="row">
