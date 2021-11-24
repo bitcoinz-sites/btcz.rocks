@@ -303,7 +303,7 @@ L::Load();
                         <a href="#">
                             <i class="pe-7s-map"></i>
                             <h4><?php L::W("Circulating Supply"); ?></h4>
-                            <p><?php L::W("12,500 coins every 2.5 minutes"); ?></p>
+                            <p><?php L::W("6,250 coins every 2.5 minutes"); ?></p>
                         </a>
                     </li>
                 </ul>
@@ -317,7 +317,7 @@ L::Load();
                         <?php L::W("<p>Immutable params:</p> <p>- max supply </p> <p>- inflation </p> <p>- only POW algo - we may change Zhash algo to other POW algo to prevent ASIC miners </p> <p>- new features are allowed to improve usage / scalability, but we will never change history (ETH/ETC case) </p>"); ?>
                     </div>
                     <div class="col-md-5 col-md-push-1">
-                    <ul class="list"> <?php L::W("<li>Algo: Zhash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Current supply: 12,500 coins every 2.5 minutes</li> <li>Current block size is similar to BCH (BTCZ = 2MB every 2.5 mins ~ BCH = 8MB every 10 min)</li> </ul>"); ?>
+                    <ul class="list"> <?php L::W("<li>Algo: Zhash (always GPU mining - we promote decentralization in mining) </li> <li>Max supply 21B coins </li> <li>Emissions: 6,250 coins minted every 2.5 minutes</li> <li>Current block size is similar to BCH (BTCZ = 2MB every 2.5 mins ~ BCH = 8MB every 10 min)</li> </ul>"); ?>
                     </div>
                 </div>
                 <div class="col-md-12">
